@@ -1,0 +1,3219 @@
+?	?	INCONSISTET DATA				0.00	0
+0001	 	T & M Royal Caribbean, USA				0.00	0
+0001	I	VANTAGE AND EAGLE	A	BOB	2/14/2000 0:00:00		0
+0001	IV	MILLWORK & SPECS	A	BOB	3/27/2000 0:00:00		0
+0001	PPS	Preliminary Planning Services	A	BOB			0
+0002	 	United Cinemas, Tokoyo, Japan				0.00	0
+0002	II	DESIGN CONCEPT	A	BOB	12/18/2000 0:00:00		0
+0002	IP	INITIAL PAYMENT	A	BOB		12500.00	0
+0002	REN	RENDERINGS	A	BOB		12500.00	0
+0003	 	Grand Formosa Regent, Taipei				0.00	0
+0003	DP	DOWN PAYMENT	A	BOB		4400.00	1
+0003	I	PLANNINIG	A	RB	3/28/2000 0:00:00	7128.00	0
+0003	II	ARCHITECTURAL INF. PACKAGE	A	RB	4/27/2000 0:00:00	7128.00	0
+0003	III	ARCHITECTURAL PACKAGE	A	BOB		9900.00	0
+0003	IV	MILLWORK & SPECS	A	BOB		9504.00	0
+0003	V	COORDINATION & INSTALLATION	A	BOB		5940.00	0
+0004	 	Category Fore/Golfit				0.00	0
+0004	I	PLANNING	A	RB	4/20/2000 0:00:00		0
+0004	II	DESIGN CONCEPT	A	RB	4/20/2000 0:00:00		0
+0004	IV	MILLWORK & SPECS	A	RB	6/21/2000 0:00:00		0
+0005	 	Eastview Hotel, Miami				0.00	0
+0005	AS	ADDITIONAL SERVICES	A	BOB			0
+0005	DP	Down Payment	A	BOB		9000.00	1
+0005	I	PLANNING	A	RB	4/20/2000 0:00:00	12150.00	0
+0005	II	Design Concept	A	BOB		12960.00	0
+0005	III	Architectutal Informaton Pkge	A	BOB		20250.00	0
+0005	IV	MILLWORK & SPECS	A	BOB		19440.00	0
+0005	V	COORDINATION & INSTALLATION	A	BOB		16200.00	0
+0006	 	Sheraton  Park Tower				0.00	0
+0006	DP	DOWN PAYMENT	A	RB		22080.00	1
+0006	I	PLANNING	A	RB		35769.60	0
+0006	II	DESING CONCEPT	A	RB		35769.60	0
+0006	III	ARCHITECTUAL INF. PACKAGE	A	RB		49680.00	0
+0006	IV	MILLWORK & SPECS	A	RB		47692.80	0
+0006	V	BIDDING & NEG.	A	RB		29808.00	0
+0007	 	Sheraton Hotel, Manchester				0.00	0
+0007	DP	DOWN PAYMENT	A	BILK		48000.00	1
+0007	I	PLANNING	A	RB	4/21/2000 0:00:00	77760.00	0
+0007	II	DESIGN CONCEPT	A	RB	4/21/2000 0:00:00	77760.00	0
+0007	III	ARCH INFORMATION PACKAGE	A	BILK		108000.0	0
+0007	IV	MILLWORK & SPECS	A	BILK		103680.0	0
+0007	T&M	TIME AND MATERIAL	A	BILK			0
+0007	V	COORDINATION & INSTALLATION	A	BILK		64800.00	0
+0008	 	Grand Bank Center				0.00	0
+0008	I	PLANNING	A	BOB	6/21/2000 0:00:00		0
+0008	II	DESIGN CONCEPT	A	BOB	5/21/2001 0:00:00		0
+0008	III	ARCHITECTURAL INFORMATION	A	BOB	5/30/2001 0:00:00		0
+0008	IV	MILLWORK & SPECS	A	BOB	8/16/2000 0:00:00		0
+0010	 	Chia Tai Shopping Mal China				0.00	0
+0010	I	PLANNING	A	RB	8/14/2000 0:00:00		0
+0011	 	?				0.00	0
+0011	I	PLANNING	A	RB	8/14/2000 0:00:00		0
+0011	II	Design Concept	A	RB	7/27/2000 0:00:00		0
+0012	 	Le Meridien Singapore				0.00	0
+0012	DP	Down Payment	A	BOB		1500.00	1
+0012	I	Planning	A	BOB		2430.00	0
+0012	II	Design Concept	A	BOB		2430.00	0
+0012	III	Architectural Inform. Package	A	BOB		3375.00	0
+0012	IV	Millwork & Specs	A	BOB		3240.00	0
+0012	V	Coordination & Installation	A	BOB		2025.00	0
+0013	 	Richmond Hotel, Miami Florida				0.00	0
+0013	II	DERSIGN CONCEPT	A	BOB	12/1/2000 0:00:00		0
+0013	T&M	Time & Material	A	BOB	10/17/2000 0:00:00		0
+0014	 	Philamlife Tower Club, Manila				0.00	0
+0014	DP	Down Payment	A	RB		16000.00	1
+0014	I	PLANNING	A	RB		24000.00	0
+0014	II	DESIGN CONCEPT	A	RB		24000.00	0
+0014	III	ARCH. INFORMATION PACKAGE	A	RB		24000.00	0
+0014	IV	MILLWORK & SPECS	A	RB		24000.00	0
+0014	V	BIDDING & NEG./REV. SAMPLES	A	RB		48000.00	0
+0015	 	Tung Wan Club House, Hong Kong				0.00	0
+0015	AS	ADDITIONAL SERVICES	A	RB		20000.00	0
+0015	DP	Down Payment	A	RB		25600.00	1
+0015	I	PLANNING	A	RB		40000.00	0
+0015	II	DESIGN CONCEPT	A	RB		58000.00	0
+0015	III	ARCH. INFORMATION PACKAGE	A	RB		110000.0	0
+0015	IV	ISSUE OF DEFECTS LIST	A	RB		19000.00	0
+0015	V	HANDOVER TO CLIENT	A	RB		19400.00	0
+0016	 	George & Co.Bar, Park Lane HK				0.00	0
+0016	DP	Down Payment	A	RB		1600.00	1
+0016	I	PLANNING	A	RB		2592.00	0
+0016	II	DESIGN CONCEPT	A	RB		2592.00	0
+0016	III	ARCH. INFORMATION PACKAGE	A	RB		3600.00	0
+0016	IV	MILLWORK & SPECS	A	RB		3456.00	0
+0016	V	BIDDING & NEG./REV. SAMPLES/IN	A	RB		2160.00	0
+0017	 	OMNI RESTAURANT, N.Y.				0.00	0
+0017	I	PLANNING	A	RB	8/16/2000 0:00:00		0
+0017	II	DESIGN CONCEPT	A	RB	8/16/2000 0:00:00		0
+0018	 	CIG Centre(Glion Hotel School)				0.00	0
+0018	DP	DOWN PAYMENT	A	RB		11200.00	1
+0018	I	PLANNING	A	RB		18144.00	0
+0018	II	DESIGN CONCEPT	A	RB		18144.00	0
+0018	III	ARCHITECTURAL INFORMATION	A	RB		25200.00	0
+0018	IV	MILLWORK & SPECS	A	RB		24192.00	0
+0018	V	TENDER ASSISTENCE	A	RB		15120.00	0
+0019	 	ATHENS HILTON				0.00	0
+0019	AS	Add Serv/ New Guest Tower FF	A	BOB			0
+0019	DP	Down Payment	A	BOB		75300.00	1
+0019	I	Planning	A	BOB		121986.0	0
+0019	II	DESIGN CONCEPT	A	BOB	12/1/2000 0:00:00	117885.5	0
+0019	III	ARCH. INFORMATION	A	BOB		163729.8	0
+0019	IV	MILLWORK AND SPECS	A	BOB	5/17/2001 0:00:00	157180.6	0
+0019	V	Bidding & Neg./Corrd./Install	A	BOB	10/11/2001 0:00:00	98237.88	0
+0021	 	HOTEL DU LAC Tunisia				0.00	0
+0021	DP	DOWN PAYMENT	A	BOB		65000.00	1
+0021	I	PLANNING	A	BOB		105300.0	0
+0022	 	Sheraton Hotel, Kowloon				0.00	0
+0022	8	VIII	A	RB		9608.97	0
+0022	9	VIIII	A	RB		9608.97	0
+0022	AS	Addition to Main Contract	A	BOB		81179.49	0
+0022	I	PLANNING	A	RB	12/1/2000 0:00:00	38435.90	0
+0022	II	DESIGN CONCEPT	A	RB	12/1/2000 0:00:00	57653.85	0
+0022	III	III	A	BOB		57653.85	0
+0022	IV	IV	A	BOB		38435.90	0
+0022	V	V	A	RB		19217.95	0
+0022	VI	VI	A	RB		19217.95	0
+0022	VII	VII	A	RB		57653.85	0
+0022	X	X	A	RB		57653.85	0
+0022	XI	XI	A	RB		9608.97	0
+0022	XII	XII	A	RB		9608.96	0
+0022.1	 	SHERATON KOWLOON LIFT &DRIVEWA				0.00	0
+0022.1	DP	DOWN PAYMENT	A	RB		4000.00	1
+0022.1	I	PLANNING	A	RB		4000.00	0
+0023	 	Hyatt Regency Guatemla				0.00	0
+0023	DP	DOWN PAYMENT	A	BOB		35000.00	1
+0023	I	PLANNING	A	RB	12/1/2000 0:00:00	1.00	0
+0023	II	CONCEPT DESIGN	A	RB	5/7/2001 0:00:00		0
+0023	III	ARCHITECTURAL INF. PACKAGE	A	RB	5/9/2001 0:00:00		0
+0024	 	New World Tower, Shanghi				0.00	0
+0024	DP	DOWN PAYMENT	A	BOB		19800.00	1
+0024	I	PLANNING	A	BOB		162000.0	0
+0024	II	DESIGN CONCEPT	A	BOB		30294.00	0
+0024	III	ARCHITECTURAL INFORMATION	A	BOB		44550.00	0
+0024	IV	MILLWORK & SPECS	A	BOB		42768.00	0
+0024	V	TENDER ASSISTANCE	A	BOB		23166.00	0
+0024	VI	Construction & Installation	A	BOB		7128.00	0
+0025	 	Shangri la Kowloon				0.00	0
+0025	AS	Additional Services	A	BILK		10000.00	0
+0025	DP	DOWN PAYMENT	A	BOB		54700.00	1
+0025	I	PLANNING	A	BOB		82050.00	0
+0025	II	DESING CONCEPT	A	BOB	5/18/2001 0:00:00	82050.00	0
+0025	III	Architectural Information	A	BOB		136750.0	0
+0025	IV	Millwork & Specs	A	BOB		82050.00	0
+0025	V	Tender Assistence	A	BOB		82050.00	0
+0025	VI	Compilation of Defect Lists	A	BOB		27350.00	0
+0026	 	Makati Shangri-la Manila				0.00	0
+0026	DP	DOWN PAYMENT	A	BOB		15800.00	1
+0026	I	PLANNING	A	BOB		25596.00	0
+0026	II	DESIGN CONCEPT	A	BOB		25596.00	0
+0026	III	ARCHITECTURAL INFORMATION	A	BOB	5/30/2001 0:00:00	35550.00	0
+0026	IV	Millwork & Specs	A	BOB		34128.00	0
+0026	V	Tender Assistence	A	BOB	12/11/2001 0:00:00	21330.00	0
+0027	 	Edsa Shangri-la  Manila				0.00	0
+0027	DP	DOWN PAYMENT	A	BOB		34500.00	1
+0027	I	PLANNING	A	BOB	1/29/2001 0:00:00	1.00	0
+0101	 	Ocean Hammock Club				0.00	0
+0101	AS	Additional Services	A	BILK		78803.20	0
+0101	DP	Down Payment	A	BOB		20800.00	1
+0101	I	Schematic Design	A	BOB		46800.00	0
+0101	II	Design Development	A	BOB		56160.00	0
+0101	III	Contract Document	A	BOB		56160.00	0
+0101	IV	Contract Administration	A	BOB		28080.00	0
+0102	 	HILTON GUAM RESORT & SPA				0.00	0
+0102	DP	DOWN PAYMENT	A	RB		19250.00	1
+0102	I	PLANNING	A	RB		31185.00	0
+0102	II	DESIGN CONCEPT	A	RB		31185.00	0
+0102	III	ARCHITECTURAL INFORMATION	A	RB		50242.50	0
+0102	IV	MILLWORK & SPECS	A	RB		34650.00	0
+0102	V	TENDER ASSISTENCE	A	RB		25987.50	0
+0103	 	Hilton Osaka, Japan				0.00	0
+0103	DP	DOWN PAYMENT	A	RB		39500.00	1
+0103	I	PLANNING	A	RB		63990.00	0
+0103	II	DESIGN CONCEPT	A	RB		63990.00	0
+0103	III	ARCHITECTURAL INFORMATION	A	RB		103095.0	0
+0103	IV	MILLWORK & SPECS	A	RB		71100.00	0
+0103	V	TENDER ASSISTENCE	A	RB		53325.00	0
+0104	 	Park Hyatt Mumbai				0.00	0
+0104	DP	Initial Consultation	A	BOB		50000.00	0
+0104	I A	Public Areas	A	BOB	5/14/2001 0:00:00	39600.00	0
+0104	I B	Apartmants				9900.00	0
+0104	I C	Guestrooms & Suites				14850.00	0
+0104	II A	Public Areas	A	BOB	7/12/2001 0:00:00	39600.00	0
+0104	II B	Apartments				9900.00	0
+0104	II C	Guestrooms & Suites				14850.00	0
+0104	III A	Public Areas AR/FF/RC	A	BILK		29700.00	0
+0104	III B	Apartmentes AR/FF/RC				9900.00	0
+0104	III C	Guestrooms & suites AR/FF/RC				9900.00	0
+0104	III D	Public Areas FC/EM/IE/DET				34650.00	0
+0104	III E	Model One Bedroom Apartment				14850.00	0
+0104	III F	Model Room Package				24750.00	0
+0104	IV A	Public Areas - FD	A	BILK		14850.00	0
+0104	IV B	Apartments - Plans/IE/DET				19800.00	0
+0104	IV C	Guestrooms & Suites - Plas/IE/DET				19800.00	0
+0104	IV D	Public Areas - Specifications				29700.00	0
+0104	IV E	Apartments - Specifications				19800.00	0
+0104	IV F	Guestrroms & Suites - Specifications				24750.00	0
+0104	V	Tender Assistance	A	BILK		63850.00	0
+0105	 	H.R.Deli, Pub.Area/Pres Suites				0.00	0
+0105	DP	Initial Payment	A	RB		18000.00	1
+0105	I	PLANNING	A	RB	5/11/2001 0:00:00	81000.00	0
+0105	II	Design Concept	A	RB	7/12/2001 0:00:00	81000.00	0
+0106	 	HYATT REGENCY PARIS MADALEINE				0.00	0
+0106	DP	Down Payment	A	BOB		6800.00	1
+0106	I	PLANNING	A	RB	5/14/2001 0:00:00	11016.00	0
+0106	II	DESIGN CONCEPT	A	RB	5/9/2001 0:00:00	11016.00	0
+0106	III	Architectural Information	A	BOB		15300.00	0
+0106	IV	Millwork & Specs	A	BOB		14688.00	0
+0106	V	Coordination & Installation	A	BOB		9180.00	0
+0107	 	LE MERIDIEN BANGKOK				0.00	0
+0107	I	PLANNING	A	RB	5/30/2001 0:00:00		0
+0108	 	Villa Magna Hotel Madrid Spain				0.00	0
+0108	I	PLANNING	A	RB	5/17/2001 0:00:00		0
+0109	 	Hilton Sidney				0.00	0
+0109	I	PLANNINIG	A	RB	5/30/2001 0:00:00		0
+0109	II	DESIGN CONCEPT	A	RB	5/22/2001 0:00:00		0
+0110	 	MAYFAIR HOTEL, SHANGHAI				0.00	0
+0110	AS	Additional Services	A	BILK		10000.00	0
+0110	DP	DOWN PAYMENT	A	BOB		74000.00	1
+0110	I	PLANNING	A	BOB	5/22/2001 0:00:00	50320.00	0
+0110	II	DESIGN CONCEPT	A	BOB	5/31/2001 0:00:00	50320.00	0
+0110	III	Architectural Information	A	BOB		74000.00	0
+0110	IV	Millwork & Specs	A	BOB	9/26/2001 0:00:00	71040.00	0
+0110	JSC	JOB SITE COORDINATOR	A	BILK			0
+0110	V	Tender Assistence	A	BOB		38480.00	0
+0110	VI	Construction and Installation	A	BILK		11840.00	0
+0110.1	 	Ramada Plaza - Bar				0.00	0
+0110.1	DP	Down Payment	A	BILK		5000.00	1
+0110.1	I	Planning	A	BILK		6750.00	0
+0110.1	II	Design Concept	A	BILK		6750.00	0
+0110.1	III	Architectural Information	A	BILK		11250.00	0
+0110.1	IV	Ramada Plaza - Bar	A	BILK	6/16/2003 0:00:00	13500.00	0
+0110.1	V					6750.00	0
+0111	 	KUNLUN HOTEL BEIJING				0.00	0
+0111	DP	DOWN PAYMENT	A	BOB		10000.00	1
+0111	I	PLANNING	A	RB	6/7/2001 0:00:00	9000.00	0
+0111	II	DESIGN CONCEPT	A	RB	6/7/2001 0:00:00	9000.00	0
+0111	III	Architectural Information	A	BOB		12500.00	0
+0111	IV	Millwork & Specs	A	BOB		12000.00	0
+0111	V	Tender Assistence	A	RB	9/26/2001 0:00:00	7500.00	0
+0112	 	HYATT REGENCY  LISBON				0.00	0
+0112	DP	DOWN PAYMENT	A	BOB		27500.00	1
+0112	I	PLANNING	A	BOB		44550.00	0
+0112	II	DESIGN CONCEPT	A	BOB		44550.00	0
+0112	III	ARCHITECTURAL INFORMATION	A	BOB		61875.00	0
+0112	IV	MILLWORK & SPECS	A	BOB		59400.00	0
+0112	V	TENDER ASSISTANCE	A	BOB		37125.00	0
+0113	 	Hyatt Regency Casablanca				0.00	0
+0113	I	Planning	A	BILK	7/11/2001 0:00:00		0
+0114	 	Shangri-la Pudong				0.00	0
+0114	AS	AS				12000.00	0
+0114	DP	Down Payment	A	BILK		99500.00	1
+0114	IA	planning	A	BILK		74625.00	0
+0114	IB	Planning	A	BILK		74625.00	0
+0114	II	Design Concept	A	BILK	10/11/2001 0:00:00	149250.0	0
+0114	III	Architectural Information	A	BILK		248750.0	0
+0114	IV	Millwork & Specs	A	BILK		149250.0	0
+0114	JSC	Job Site Coordination				12820.51	0
+0114	V	Contract Document Stage - FF&E Tender Package	A	BILK		149250.0	0
+0114	VI	Compilation of Defect Lists	A	BILK		49750.00	0
+0115	 	Harbour Plaza Presidential ste				0.00	0
+0115	DP	Down Payment	A	BILK		19800.00	1
+0115	I	Planning	A	BILK		32076.00	0
+0115	II	Design Concept	A	BILK		32076.00	0
+0115	III	Architectural Information	A	BILK		44550.00	0
+0115	IV	Millwork and Specs	A	BILK		42768.00	0
+0115	V	Tender Assistence	A	BILK		26730.00	0
+0116	 	Shangri-La Dubai				0.00	0
+0116	DP	Down Payment	A	BILK		16000.00	1
+0116	I	Planning	A	BILK	7/12/2001 0:00:00	24000.00	0
+0116	II	Design Concept	A	BILK	8/22/2001 0:00:00	24000.00	0
+0116	III	Architectural Information	A	BILK		40000.00	0
+0116	IV	Millwork & Specs	A	BILK		24000.00	0
+0116	V	Tender Assistence	A	BILK		24000.00	0
+0116	VI	Construction & Installation	A	BILK		8000.00	0
+0117	 	New World Office Main Lobby				0.00	0
+0117	DP	Down Payment	A	BILK		19800.00	1
+0117	I	Planning	A	BILK		30294.00	0
+0117	II	Design Concept	A	BILK		30294.00	0
+0117	III	Architectural Information	A	BILK	9/21/2001 0:00:00	44550.00	0
+0117	IV	Millwork & Specs	A	BILK		42768.00	0
+0117	V	Tender Assitance	A	BILK		23166.00	0
+0117	VI	Construction & Installation	A	BILK		7128.00	0
+0118	 	Mayfair Hotel 4th Level Public				0.00	0
+0118	II	Design Concept	A	BILK	11/13/2001 0:00:00		0
+0120	 	Costa Dorada Resort & Residenc				0.00	0
+0120	DP	Down Payment	A	BILK		44800.00	1
+0120	I	Planning	A	BILK	8/27/2001 0:00:00	72576.00	0
+0120	II	Design Concept	A	BILK	8/27/2001 0:00:00	72576.00	0
+0120	III	Architectural Concept	A	BILK	9/26/2001 0:00:00	100800.0	0
+0120	IV	Millwork & specs	A	BILK	9/26/2001 0:00:00	96768.00	0
+0120	V	Tender Assistence	A	BILK	10/18/2001 0:00:00	60480.00	0
+0121	 	Le Meridien cairo Royal Suites				0.00	0
+0121	DP	DOWN PAYMENT	A	BILK		14500.00	1
+0121	I	Planning	A	BILK	9/26/2001 0:00:00	1.00	0
+0121	II	Design Concept	A	BILK	10/18/2001 0:00:00		0
+0122	 	PHILIPPE VALEIX APARTMENT				0.00	0
+0123	 	NEW WORLD TOWER, L4,L5,L11				0.00	0
+0123	111	ARCITECTURAL INFORMATION	A	BILK		70312.50	0
+0123	DP	DOWN PAYMENT	A	BILK		31250.00	1
+0123	I	PLANNING	A	BILK		50625.00	0
+0123	II	Design Concept	A	BILK	1/25/2002 0:00:00	50625.00	0
+0123	III	Architectural Information	A	BILK	12/11/2001 0:00:00	70312.50	0
+0123	IV	MILLWORK & SPECS	A	BILK		67500.00	0
+0123	V	COORDINATION & INSTALLATION	A	BILK		42187.50	0
+0124	 	Branksome II Development				0.00	0
+0124	DP	Down Payment	A	BILK		6000.00	1
+0124	I	Plannig	A	BILK		6000.00	0
+0124	II	Design Concept	A	BILK		6000.00	0
+0126	 	French Quarter Hotel, Shanghai				0.00	0
+0126	AS	Additional Services	A	BILK	11/15/2002 0:00:00		0
+0126	AW	ADDITIONAL WORK	A	BILK		10000.00	0
+0126	DP	Down Payment	A	BILK		96800.00	1
+0126	I	Planning	A	BILK		168528.8	0
+0126	II	Design Concept	A	BILK		227770.4	0
+0126	III	Architectural Information	A	BILK		201150.4	0
+0126	IV	Millwork & Specs	A	BILK		168432.0	0
+0126	V	Tender Assistence	A	BILK		105318.4	0
+0201	 	Hyatt Regency Mumbai-Suites				0.00	0
+0201	AS	Additional Services	A	BILK			0
+0201	I	Planning	A	BILK	5/1/2002 0:00:00		0
+0202	 	Kunlun Hotel(Executive Rooms)				0.00	0
+0202	I	Planning	A	BILK		22500.00	0
+0202	II	Design Concept	A	BILK		22500.00	0
+0202	III	Design Concept	A	BILK		31250.00	0
+0202	IP	initial Payment	A	BILK		10000.00	0
+0202	IV	Millwork & Specs	A	BILK		30000.00	0
+0202	V	Tender Assistence	A	BILK		18750.00	0
+0205	 	New World Tower, 3rd Level				0.00	0
+0205	I	Planning	A	BILK	6/26/2002 0:00:00		0
+0205	II	Planning	A	BILK	7/24/2002 0:00:00		0
+0205	IV	Millwork & Specs	A	BILK	1/16/2003 0:00:00		0
+0206	 	Kunlun Lobby Corridors				0.00	0
+0206	DP	Down payment	A	BILK		10000.00	1
+0206	I	Planninig	A	BILK		12600.00	0
+0206	II	Design Concept	A	BILK		12600.00	0
+0206	III	Architectural Information	A	BILK		17500.00	0
+0206	IV	Millwork & specs	A	BILK		16800.00	0
+0206	V	Tender Assistence	A	BILK		10500.00	0
+0207	 	TSNEN WAN, N.T. SERV.APT/CLUB				0.00	0
+0207	DP	Down Payment	A	BILK		7350.00	1
+0207	I	Completion Phase I	A	BILK		16800.00	0
+0207	II	Completion Phase II	A	BILK		29400.00	0
+0207	III	Completion Phase III	A	BILK		25200.00	0
+0207	IV	REVIEW/COMMENTS	A	BILK		4200.00	0
+0207	UA	Upon Appointment	A	BILK		8400.00	0
+0208	 	?				0.00	0
+0208	1	Planning	A	RB	1/16/2003 0:00:00		0
+0208	I	Planning	A	RB	1/16/2003 0:00:00		0
+0209	 	TSNEN WAN N.T.SERV.APT.RESIDEN				0.00	0
+0209	DP	Down Payment	A	BILK		8400.00	1
+0209	I	Completion Phase I	A	BILK		14700.00	0
+0209	II	Completion Phase II	A	BILK		25725.00	0
+0209	III	Completion Phase III	A	BILK		22050.00	0
+0209	IV	REVIEW/COMMENTS	A	BILK		3675.00	0
+0209	UA	UPON APPOINTMENT	A	BILK		7350.00	0
+0210	 	MONT PARNES HOTEL & CASINO				0.00	0
+0210	DP	DOWN PAYMENT	A	BILK		109500.0	1
+0210	DT	Design Time	A	BILK		30000.00	0
+0210	I	PLANNING	A	BILK	11/15/2002 0:00:00		0
+0210	II	Design Concept	A	BILK	11/15/2002 0:00:00		0
+0211	 	RAMADA PLAZA, CHINESE RESTAURA				0.00	0
+0211	DP	Down Payment	A	BILK		11600.00	1
+0211	I	Planning	A	BILK		7888.00	0
+0211	II	Design Concept	A	BILK		7888.00	0
+0211	III	Architectural Information	A	BILK		11600.00	0
+0211	IV	Millwork & Specs	A	BILK		11136.00	0
+0211	V	Tender Assistance	A	BILK		6032.00	0
+0211	VI	Construction & Installation	A	BILK		1856.00	0
+0212	 	KUNLUN HOTEL/REVOLVING REST.				0.00	0
+0212	DP	DOWN PAYMENT	A	BILK		7500.00	1
+0212	I	PLANNING	A	BILK		12150.00	0
+0212	II	DESIGN CONCEPT	A	BILK		12150.00	0
+0212	III	ARCH. INFORMATION PACKAGE	A	BILK		16875.00	0
+0212	IV	MILLWORK & SPECS	A	BILK		16200.00	0
+0212	V	COORDINATION & INSTALLATION	A	BILK		10125.00	0
+0214	 	Hyatt Regency Delhi/Various				0.00	0
+0214	CR	CAFÉ RESTAURANT	A	BILK	11/25/2002 0:00:00	15000.00	0
+0214	IR	INDIAN RESTAURANT	A	BILK		40000.00	0
+0214	ML	MAIN LOBBY	A	BILK		40000.00	0
+0214	PS	PRESIDENTIAL SUITE	A	BILK	12/10/2002 0:00:00	30000.00	0
+0214	RC	REGENCY CLUB	A	BILK		10000.00	0
+0215	 	Additional Services Mongkok K2				0.00	0
+0215	AS	Additional Services	A	BILK		171000.0	0
+0215	IV	MILLWORK AND SPECS	A	BILK	6/16/2003 0:00:00		0
+0216	 	MARINA SQUARE HOTEL & CASINO				0.00	0
+0216	DP	DOWN PAYMENT	A	BILK		98000.00	1
+0216	I	PLANNING	A	BILK		176400.0	0
+0216	II	DESIGN CONCEPTION	A	BILK		176400.0	0
+0216	III	ARCHITECTURAL INFORMATION	A	BILK		282240.0	0
+0216	IV	MILLWORK & SPECS	A	BILK		246960.0	0
+0216	V	TIME AND MATERIAL BASIS	A	BILK			0
+0216	VI	ADDITIONAL SERVICES				0.00	0
+0216.1	JSC	JOB SITE COORDINATOR				50000.00	0
+0216.2	III	AS Phase III				43974.52	0
+0216.2	I-II	AS Phase I & II				54934.40	0
+0216.2	IV	AS Phase IV				38454.08	0
+0217	 	KEMPINSKY HOTEL				0.00	0
+0217	DP	DOWN PAYMENT	A	BILK		131250.0	1
+0217	I	Plannng	A	RB		105000.0	0
+0217	II	Design Concept	A	BILK		105000.0	0
+0217	III	ARCHITECTURAL INFORMATION	A	BILK		105000.0	0
+0217	IV	MILLWORK & SPECS	A	BILK		52500.00	0
+0217	V	COORDINATION & INSTALLATION	A	BILK		26250.00	0
+0218	 	CHATEAU REGALIA, BEIJING				0.00	0
+0218	DP	DOWN PAYMENT	A	BILK		22709.80	1
+0218	I	PLANNING	A	RB		30658.23	0
+0218	II	DESIGN CONCEPT	A	BILK		30658.23	0
+0218	III	ARCHITECTURAL INFORMATION	A	BILK		51097.05	0
+0218	IV	MILLWORK & SPECS	A	BILK		61316.46	0
+0218	V	COORDINATION & INSTALLATION	A	BILK		30658.23	0
+0302	 	Shanghai Shi Mao Int'l Plaza				0.00	0
+0302	DP	Down Payment	A	BILK		160000.0	1
+0302	I	Planning	A	BILK	3/19/2003 0:00:00	160000.0	0
+0302	II	Concept / Design Development	A	BILK	5/1/2003 0:00:00	240000.0	0
+0302	III	Detail Design	A	BILK	9/24/2003 0:00:00	320000.0	0
+0302	IV	Guestrooms & Hotel Serv. Apt. Mockup & Corridors	A	BILK		80000.00	0
+0302	V	Tender Dwgs & Technical Specs / Milkwork & specs				320000.0	0
+0302	VI	Tender				80000.00	0
+0302	VII	Site Inspections Periodically				240000.0	0
+0302.1	AS	Gastrodome Restaurant				19000.00	0
+0302.2	DP	Down Payment				3146.60	0
+0302.2	I	Planning				3146.60	0
+0302.2	II	Concept / Design Development				4719.90	0
+0302.2	III	Detail Design				6293.20	0
+0302.2	IV	Guestrooms & Hotel Serv. Apt. Mockup & Corridors				1573.30	0
+0302.2	V	Tender Dwgs & Technical Specs / Milkwork & specs				6293.20	0
+0302.2	VI	Tender				1573.30	0
+0302.2	VII	Site Inspections Periodically				4719.90	0
+0303	 	H. R. Caicutta-Add Ser-Club K				0.00	0
+0303	DP	Down Payment	A	BILK		8000.00	1
+0303	I	PLANNING	A	BILK	3/19/2003 0:00:00	10872.00	0
+0303	II	Design Concept	A	BILK		10872.00	0
+0303	III	Architectural Information	A	BILK		21736.80	0
+0303	IV	Millwork & Specs	A	BILK		21736.80	0
+0303	V	Coordination and inspections				6782.40	0
+0304	 	IFC SERVICE APT. MODEL ROOM				0.00	0
+0304	DP	DOWN PAYMENT	A	BILK		9519.23	1
+0304	I	PLANNING	A	BILK	3/19/2003 0:00:00	15865.38	0
+0304	II	Design Concept	A	BILK		18782.05	0
+0304	III	Arch. Information Package	A	BILK		19038.46	0
+0305	 	GRAND HYATT HONG KONG, PA				0.00	0
+0305	I	PLANNING	A	BILK	11/14/2003 0:00:00	31891.03	0
+0305	II					31891.03	0
+0305	III					25512.82	0
+0305	IV					25512.82	0
+0305	V					12756.41	0
+0306	 	SHANGRI-LA MAKATI/ISLAND CAFE				0.00	0
+0306	DP	DOWN PAYMENT	A	BILK		10000.00	1
+0306	I	PLANNING	A	BILK		16200.00	0
+0306	II	DESIGN CONCEPT	A	BILK		16200.00	0
+0306	III	ARCHITECTURAL INFORMATION	A	BILK		22500.00	0
+0306	IV	MILLWORK AND SPECS	A	BILK		21600.00	0
+0306	V	TENDER ASSISTANCE	A	BILK		13500.00	0
+0307	 	KUNLUN MAIN LOBBY				0.00	0
+0307	DP	DOWN PAYMENT	A	BILK		21000.00	1
+0307	I	PLANNING	A	BILK		34020.00	0
+0307	II	DESIGN CONCEPT	A	BILK		34020.00	0
+0307	III	ARCHITECTURAL INFORMATION	A	BILK		47250.00	0
+0307	IV	MILLWORK & SPECS	A	BILK		45360.00	0
+0307	V	TENDER ASSISTANCE	A	BILK		28350.00	0
+0308	 	KUNLUN FUNCTION ROOMS				0.00	0
+0308	DP	DOWN PAYMENT	A	BILK		5500.00	1
+0308	I	PLANNING	A	BILK		8910.00	0
+0308	II	DESIGN CONCEPT	A	BILK		8910.00	0
+0308	III	ARCHITECTURAL INFORMATION	A	BILK		12375.00	0
+0308	IV	MILLWORK & SPECS	A	BILK		11880.00	0
+0308	V	TENDER ASSISTANCE	A	BILK		7425.00	0
+0309	 	East Seaport Hotel - Ningdo				0.00	0
+0309	DP	Down Payment	A	BILK		75000.00	1
+0309	I	Planning	A	BILK		135000.0	0
+0309	II	Design Concept	A	BILK		148500.0	0
+0309	III	Architectural Information	A	BILK		148500.0	0
+0309	IV	Millwork & Specs	A	BILK		141750.0	0
+0309	V	Coordination & Installation	A	BILK		101250.0	0
+0310	 	KUNLUN MR. LIU'S CONFERENCE RM				0.00	0
+0310	DP	DOWN PAYMENT	A	BILK		1500.00	1
+0310	I	PLANNING	A	BILK		2700.00	0
+0310	II	DESIGN CONCEPT	A	BILK		2970.00	0
+0310	III	ARCHITECTURAL INFORMATION	A	BILK		2970.00	0
+0310	IV	MILLWORK & SPECS	A	BILK		2835.00	0
+0310	V	TENDER ASSISTENCE	A	BILK		2025.00	0
+0311	 	Four Seasons Serv. Apart. H.K.				0.00	0
+0311	DP	Down Payment	A	BILK		29000.00	1
+0311	I	Planning / Design	A	BILK		58000.00	0
+0311	II	Design Development	A	BILK		72500.00	0
+0311	III	Contract Documents & Specs Stage	A	BI;K		87000.00	0
+0311	IV	Contract Administration	A	BILK		34800.00	0
+0311	V	P. Completion				8700.00	0
+0311.1	DP	DOWN PAYMENT				6730.77	1
+0311.1	I	PLANNING				8974.36	0
+0311.1	II	DESIGN DEVELOPMENT				13461.54	0
+0311.1	III	CONTRAC DOC. & SPEC. STAGE				15705.13	0
+0311.2	DP	Down Payment				6025.64	1
+0311.2	I	Upon award of the fit-out Contract				6025.64	0
+0311.2	II	Upon Approval of shop drawings				6025.64	0
+0311.2	III	Upon Commencement of fit-out Work on site				4519.23	0
+0311.2	IV	Upon 50% completion of work				4519.23	0
+0311.2	V	Partial Completion				3012.82	0
+0311.3	A	Additional Works for Suites				8974.36	0
+0312	 	BEIJING APARTMENTS				0.00	0
+0312	DP	DOWN PAYMENT	A	BILK		10000.00	1
+0312	I	PLANNING	A	BILK		18000.00	0
+0312	II	DESIGN CONCEPT	A	BILK		19800.00	0
+0312	III	ARCHITECTURAL INFORMATION	A	BILK		19800.00	0
+0312	IV	MILLWORK AND SPECS	A	BILK		18900.00	0
+0312	V	INSTALLATION AND COORDINATION	A	BILK		13500.00	0
+0313	 	Park Lane Hotel/Cafe Rest.				0.00	0
+0313	DP	Down Payment	A	BILK		20833.34	1
+0313	I	Planning	A	BILK		12500.00	0
+0313	II	Design Concept	A	BILK		13750.00	0
+0313	III	Architectural Information	A	BILK		13750.00	0
+0313	IV	Millwork and Specs	A	BILK		13125.00	0
+0313	V	Coordination & Installation	A	BILK		9375.00	0
+0314	 	DEEP BLUE PLAZA				0.00	0
+0314	DP	Down Payment	A	BILK		25000.00	1
+0314	I	Planning	A	BILK		33333.34	0
+0314	II	Design Concept	A	BILK		41666.67	0
+0314	III	Architectural Information	A	BILK		41666.67	0
+0314	IV	Millwork and Specs	A	BILK		16666.67	0
+0314	V	Coordination and Installation	A	BILK		8333.34	0
+0314.1	DP	Down Payment				4184.62	0
+0314.1	I	Planning				5579.49	0
+0314.1	II	Design Concept / Colour				6974.36	0
+0314.1	III	Construction Documents				6974.36	0
+0314.1	IV	FF&E Specifications				2789.74	0
+0314.1	V	Tender / Site inspection				1394.87	0
+0316	 IC.	Initial Consultation				124000.0	0
+0316	I A	Public Areas				93000.00	0
+0316	I B	Apartments				34100.00	0
+0316	I C	Guestrooms and Suites				24800.00	0
+0316	II A	Public Areas				37200.00	0
+0316	II B	Apartments				9300.00	0
+0316	II C	Guestrooms and Suites				12400.00	0
+0316	III A	PA - Preliminary AR/FF/RC				21700.00	0
+0316	III D	PA - FC/EM/IE/DET				31000.00	0
+0316	IIIBC	GR and Suites prel. AR/FF/RC				18600.00	0
+0316	IIIEF	Two Model Room and corridor				34100.00	0
+0316	IV A	Public Areas FD				12400.00	0
+0316	IV D	Public Areas Specifications				27900.00	0
+0316	IVBC	GR & Suites  FloorPlans/IE/DET				37200.00	0
+0316	IVEF	Guestrooms & Suites Spec				43400.00	0
+0316	V					58900.00	0
+0316.1	L3&4	Revision Level 3&4 -Health Club Add Serv.				10000.00	0
+0316.2	DP	Down Payment				8500.00	0
+0316.2	I	Preliminary Concept Plan				15300.00	0
+0316.2	II	Concept/Design Development				15300.00	0
+0316.2	III&4	Int. Arch Info /Millwork Drawings & FF&E Spec				42075.00	0
+0316.2	V	Design Coordination During Site Const & Inst				3825.00	0
+0316.3	As	Add. Serv. L34 - Alfresco Bar				50000.00	0
+0317	DP	Down Payment				59300.00	1
+0317	I	Planning - Preliminary plans				59300.00	0
+0317	II	Concept/Design Develoment				88950.00	0
+0317	III	Interior Architectural Information Package				118600.0	0
+0317	IV	Model Room Package				29650.00	0
+0317	V	Millwork Drawings and FF&E Specifications				118600.0	0
+0317	VI	Bid Inviting				29650.00	0
+0317	VII	Periodic Site Visits				59300.00	0
+0317	VIII	Defect List				29650.00	0
+0317.1	GR	Guest Rooms				28010.40	0
+0317.1	PA	Public Areas				4989.60	0
+0319	DP	DOWN PAYMENT				8173.08	0
+0319	I	Planning				10897.44	0
+0319	II	Design Concept				13621.79	0
+0319	III	Architectural Information				13621.79	0
+0319	IV	Millwork and Specs				5448.72	0
+0319	V	Coordination and Installation				2724.36	0
+0401	DP	Down Payment				81000.00	1
+0401	I	Planning - Preliminary plans				81000.00	0
+0401	II	Concept/Design Develoment				121500.0	0
+0401	III	Interior Architectural Information Package				162000.0	0
+0401	IV	Model Room Package				40500.00	0
+0401	V	Millwork Drawings and FF&E Specifications				162000.0	0
+0401	VI	Bid Inviting				40500.00	0
+0401	VII	Coordination Meetings, Site Visits & Installation				81000.00	0
+0401	VIII	COMPLETION AND ACCEPTANCE				40500.00	0
+0402	DP	Down Payment				47875.00	0
+0402	I A	Planning Club Lobby				31916.67	0
+0402	I B	Planning Sky Lounge				15958.33	0
+0402	I C	Planning Health Club				15958.33	0
+0402	II A	Design concept Club lobby				39895.83	0
+0402	II B	Design concept Sky Lounge				19947.92	0
+0402	II C	Design concept Health Club				19947.92	0
+0402	III A	Construc. Doc. Club Lobby				39895.83	0
+0402	III B	Construc. Doc. Sky Lounge				19947.92	0
+0402	III C	Construc. Doc. Health Club				19947.92	0
+0402	IV A	FF&E Club Lobby				15958.34	0
+0402	IV B	FF&E Sky Lounge				7979.17	0
+0402	IV C	FF&E Health Club				7979.17	0
+0402	V A	Tender/Site insp. Club Lobby				5319.45	0
+0402	V B	Tender/Site insp. Sky Lounge				5319.45	0
+0402	V C	Tender/Site insp. Health Club				5319.45	0
+0404	DP	DOWN PAYMENT				96654.54	1
+0404	I	Planning - Preliminary plans				96654.54	0
+0404	II	Concept/Design Develoment				120818.2	0
+0404	III	Interior Architectural Information Package				96654.54	0
+0404	IV	Millwork Drawings & FF&E Specifications				48327.27	0
+0404	V	Design Coord. During Site Construction & Inst.				24163.63	0
+0405	DP	Down Payment				51282.05	1
+0405	I	Phase I				51282.05	0
+0406	I	Design Concept				35000.00	0
+0410	DP	DOWN PAYMENT				106950.0	1
+0410	I	Schematic Design				142600.0	0
+0410	II	Design Development				178250.0	0
+0410	III	Contract documnetns and procurament documentation				213900.0	0
+0410	IV	Millwork Drawings & FF&E Specifications				71300.00	0
+0411	DP	Down Payment				9400.00	0
+0411	I	Planning and Concept				42300.00	0
+0411	II	Architectural Information Pkg. & Tender Documents				42300.00	0
+0411	III	Café Restaurant Additional Services				35000.00	0
+0413	DP	Down Payment				5000.00	1
+0413	I	Planning				8000.00	0
+0413	II	Concept Design / Development				8000.00	0
+0413	III	Interio Architectual Informatio Pakage				11000.00	0
+0413	IV	Millwork Drawings & FF&E Spacifications				11000.00	0
+0413	V	Design Coordiantion During Site Contruction & Inst				7000.00	0
+0414	DP	Down Payment				3750.00	0
+0414	I	Upon Completion Of Conceptual Design				8750.00	0
+0414	II	Issue of Tender Document				7500.00	0
+0414	III	Practical Completion of Works				3750.00	0
+0414	IV	Upon Issue of Certificate of Making Good Defects				1250.00	0
+0415	DP	Down Payment				46000.00	1
+0415	I	Phase I				74520.00	0
+0415	II	Phase II				74520.00	0
+0415	III	Phase III				103500.0	0
+0415	IV	Phase IV				99360.00	0
+0415	V	Phase V				62100.00	0
+0416	DP	Down Payment				80000.00	1
+0416	I	Planning and Design Concept				80000.00	0
+0416	II	Interior Architectural Information Package				100000.0	0
+0416	III	Millwork Drawings & FF&E Specifications				120000.0	0
+0416	IV	Design Coord. During site constr. And installation				20000.00	0
+0419	DP	Down Payment				2000.00	1
+0419	I	Sketch Preliminary Exterior Arch. Concept				3200.00	0
+0419	II	Exterior Architectural Concept				4800.00	0
+0420	DP	Down Payment				2000.00	1
+0420	I	Sketch Preliminary Exterior Arch. Concept				3200.00	0
+0420	II	Exterior Architectural Concept				4800.00	0
+0421	1	No. 1 Harbour Road				95195.38	0
+0421	2.1	Drawing room Down Payment / 10%				11899.00	0
+0421	2.2	Drawing room Phase I/18%($150,354.8)				19276.26	0
+0421	2.3	Drawing room Phase II/25%($208,826.10)				26772.58	0
+0421	2.4	Drawing room Phase III/24%($200,473.00)				25701.66	0
+0421	2.5	Drawing room Phase IV/18%($150.354.8)				19276.26	0
+0421	2.6	Drawing room Phase V/15%($125,295.70)				16063.55	0
+0421	3.1	Champagne Bar Down Payment / 10%				2379.79	0
+0421	3.2	Champagne Bar Phase I / 18% ($30,071.00)				3855.26	0
+0421	3.3	Champagne Bar Phase II / 25% ($41,765.20)				5354.51	0
+0421	3.4	Champagne Bar Phase III / 24% ($40,094.60)				5140.33	0
+0421	3.5	Champagne Bar Phase IV / 18% ($30,071.00)				3855.26	0
+0421	3.6	Champagne Bar Phase V / 15% ($25,059.10)				3212.71	0
+0421.1	1	Upon Completion of grand Club Lounge				3989.74	0
+0421.1	2	Upon Completion of Grand Club Meeting Rooms				3989.74	0
+0421.1	3	Upon Completion of Grand Café				1329.91	0
+0421.1	4	Upon Completion of Bell Desk				2659.82	0
+0421.1	5	Upon Completion of Ballroom Foyer				1329.91	0
+0421.1	6	Upon Completion of Lobby Entrance				1329.91	0
+0421.1	7	Upon Comp of Seating Area at Lobby & Mezzaine lev				3324.78	0
+0421.1	8	Upon Completion of Grissini Lift Lobby				1994.83	0
+0421.1	DP	Down Payment				4987.18	0
+0421.2	LCD	LCD Signage				6410.26	0
+0421.3	DP	Down Payment				266.00	0
+0421.3	FP	Final Payment				66.50	0
+0421.3	II	Phase II				532.00	0
+0421.3	IV	Phase III and IV				465.50	0
+0421.4	DP	Down Payment				399.00	0
+0421.4	FP	Final Payment				99.75	0
+0421.4	II	Phase II				798.00	0
+0421.4	IV	Phase III and IV				698.25	0
+0421.5	DP	Down Payment				532.00	0
+0421.5	FP	Final Payment				133.00	0
+0421.5	II	Phase II				1064.00	0
+0421.5	IV	Phase III and IV				931.00	0
+0421.6	DP	Down Payment				266.00	0
+0421.6	FP	Final Payment				66.50	0
+0421.6	II	Phase II				532.00	0
+0421.6	IV	Phase III and IV				465.50	0
+0421.7	DP	Down Payment				465.00	0
+0421.7	FP	Final Payment				116.25	0
+0421.7	II	Phase II				930.00	0
+0421.7	IV	Phase III and IV				813.75	0
+0421.8	C	Completion of the Project 5%				325.00	0
+0421.8	DP	Down Payment				1300.00	0
+0421.8	II	Upon Approval of Phase II 40%				2600.00	0
+0421.8	IV	Upon Approval of Phase IV 35%				2275.00	0
+0422	DP	Down Payment				96659.22	1
+0422	I	Planning				96659.21	0
+0422	II	Design Concept / Colour				120824.0	0
+0422	III	Construction Documents				96659.22	0
+0422	IV	FF & E & Millwork Details				48329.61	0
+0422	V	Tender Assistence				24164.80	0
+0423	I  C	Initial Consultation				43000.00	1
+0423	IA	Phase I A : (Public Areas)1:100Planning Floor Plan				38700.00	0
+0423	IB	Phase I B : (Service Apartments)1:50Planning Floor				25800.00	0
+0423	IIA	Phase II A : Public Areas 1:100 FF Floor Plans, Se				38700.00	0
+0423	IIB	Phase II B : Service Apartments 1:50 FF Floor Plan				25800.00	0
+0423	IIIA	Phase III A : Public Areas  AR,FF,RC Plans				25800.00	0
+0423	IIIB	Phase III B : Service Apartments  AR,FF,RC Plans				12900.00	0
+0423	IIIC	Phase III C : Public Areas   FC &EM Plans, Interio				38700.00	0
+0423	IIID	Phase III D : Model One Bedroom Apartment Package				30100.00	0
+0423	IVA	Phase IV A : Public Areas  FD Plans				25800.00	0
+0423	IVB	Phase IV B : Servicve Apartments  Floor Plans, Ele				38700.00	0
+0423	IVC	Phase IV C : Public Areas  Specifications				21500.00	0
+0423	IVD	Phase IV D : Service Apartments  Specifications				21500.00	0
+0423	V	Phase V     : Design Co-ordination during site Con				43000.00	0
+0424	DP	Down Payment				2000.00	1
+0424	I	Sketch Preliminary Exterior Arch. Concept				3200.00	0
+0424	II	Exterior Architectural Concept				4800.00	0
+0501	DP	DOWN PAYMENT				10000.00	1
+0501	I	PHASE I				10000.00	0
+0501	II	PAHSE II				12500.00	0
+0501	III	PHASE III				10000.00	0
+0501	IV	PHASE IV				5000.00	0
+0501	V	PHASE V				2500.00	0
+0502	DP	Down Payment				52500.00	0
+0502	I	2.1 Conceptual Design				105000.0	0
+0502	II	2.2a Studio + One Bedroom Suite				131250.0	0
+0502	III	2.2b Production of working dwgs				131250.0	0
+0502	IV	2.3a Construction & Site Attendan				78750.00	0
+0502	V	2.3b End of Liability Period				13125.00	0
+0502	VI	2.3c Certification				13125.00	0
+0503	DP	Deposit				127582.0	1
+0503	I	Phase I				170109.4	0
+0503	II	Phase II				212636.7	0
+0503	III	Phase III				212636.7	0
+0503	IV	Phase IV				89743.59	0
+0503	V	Phase V				46217.95	0
+0504	DP	DOWN PAYMENT				81500.00	0
+0504	I	Phase I				132030.0	0
+0504	II	Phase II				132030.0	0
+0504	III	Phase III				143440.0	0
+0504	IV	Phase IV				142625.0	0
+0504	V	Phase V				20375.00	0
+0504	VI	Phase VI				122250.0	0
+0504	VII	Phase VII				20375.00	0
+0504	VIII	Phase VIII				20375.00	0
+0504.1	AS	Additional Fee				100000.0	0
+0504.2	BP	Balance Payment				39000.00	0
+0504.2	DP	Down Payment				39000.00	0
+0505	DP	Down Payment				106000.0	1
+0505	I	Phase I				106000.0	0
+0505	II	Phase II				132500.0	0
+0505	III	Phase III				106000.0	0
+0505	IV	Phase IV				53000.00	0
+0505	V	Phase V				26500.00	0
+0507	DP	Down Payment				17500.00	1
+0507	I	Phase I				26250.00	0
+0507	II	Phase II				43750.00	0
+0507	III	Phase III				61250.00	0
+0507	IV	Phase IV				17500.00	0
+0507	V	Phase V				8750.00	0
+0508	DS	Design Services				17000.00	0
+0509	DP	Down Payment				54500.00	0
+0509	I	Planning				88290.00	0
+0509	II	Concept/Design Development				88290.00	0
+0509	III	Interior Architectural Information Package				122625.0	0
+0509	IV	Millwork Drawing & FF&E Specifications				117720.0	0
+0509	V	Design Coordination During Site Const & Installati				73575.00	0
+0510	DP	Down Payment				81700.00	0
+0510	I	Planning				132354.0	0
+0510	II	Concept/Design Development				132354.0	0
+0510	III	Interior Architectural Information Package				183825.0	0
+0510	IV	Millwork Drawing & FF&E Specifications				176472.0	0
+0510	V	Design Coordination During Site Const and Installa				110295.0	0
+0511	DP	Down Payment				75000.00	0
+0511	I	Planning				222300.0	0
+0511	II	Concept/Design Development				222300.0	0
+0511	III	Interior Architectural Information Package				308750.0	0
+0511	IV	Millwork Drawings & FF&E Specifications				296400.0	0
+0511	V	Design Coordination During Site Const & Installati				185250.0	0
+0511.1	AD1	Additional Services / ROI				12300.00	0
+0511.1	AD10	ROI DECEMBER				42527.50	0
+0511.1	AD2	Additional Services / Ground Level				10110.00	0
+0511.1	AD3	ROI MAY				20370.00	0
+0511.1	AD4	ROI JUNE				39465.00	0
+0511.1	AD5	ROI JULY				37080.00	0
+0511.1	AD6	ROI AUGUST				45952.50	0
+0511.1	AD7	ROI SEPTEMBER				58115.00	0
+0511.1	AD8	ROI OCTOBER				125358.5	0
+0511.1	AD9	ROI NOVEMBER				72175.00	0
+0512	DP	Down Payment				8000.00	0
+0512	I	Planning				8000.00	0
+0512	II	Concept/Design Development				10000.00	0
+0512	III	Interior Architectural Information Package				8000.00	0
+0512	IV	Millwork Drawings and FF&E Specifications				4000.00	0
+0512	V	Design Coordination During Site Const. & Installa				2000.00	0
+0513	DP	DOWN PAYMENT				91038.46	0
+0513	I	PLANNING				91038.46	0
+0513	II	Concept/Design Development				91038.46	0
+0513	III	Interior Architectural Information Package				91038.46	0
+0513	IV	Millwork Drawings and FF&E Specifications				68278.85	0
+0513	V	Design Coordination During Cintr. And Inst.				22759.62	0
+0515	DP	Down Payment				14133.97	0
+0515	I	Planning				14133.97	0
+0515	II	Concept/Desig Development				14133.97	0
+0515	III	Contruction Documents (Interior Arch. Inf. Package				17667.44	0
+0515	IV	Furnishing, Fixtures Specification (FF&e)				7067.05	0
+0515	V	Tender/Site Inspec.				3533.46	0
+0516	DP	Down Payment				7500.00	1
+0516	I	Planning				12150.00	0
+0516	II	Concept Design / Development				12150.00	0
+0516	III	Interio Architectual Informatio Pakage				16875.00	0
+0516	IV	Millwork Drawings & FF&E Spacifications				16200.00	0
+0516	V	Design Coordiantion During Site Contruction & Inst				10125.00	0
+0516.1	DP	Down Payment				4000.00	1
+0516.1	I	Planning				6480.00	0
+0516.1	II	Concept Design / Development				6480.00	0
+0516.1	III	Interio Architectual Informatio Pakage				9000.00	0
+0516.1	IV	Millwork Drawings & FF&E Spacifications				8640.00	0
+0516.1	V	Design Coordiantion During Site Contruction & Inst				5400.00	0
+0517	DP	Down Payment				12500.00	1
+0517	I	Planning				20250.00	0
+0517	II	Concept Design / Development				20250.00	0
+0517	III	Interio Architectual Informatio Pakage				28125.00	0
+0517	IV	Millwork Drawings & FF&E Spacifications				27000.00	0
+0517	V	Design Coordiantion During Site Contruction & Inst				16875.00	0
+0518	DP	Down Payment				81800.00	1
+0518	I	Planning				132516.0	0
+0518	II	Concept Design / Development				132516.0	0
+0518	III	Interio Architectual Informatio Pakage				184050.0	0
+0518	IV	Millwork Drawings & FF&E Spacifications				176688.0	0
+0518	V	Design Coordiantion During Site Contruction & Inst				110430.0	0
+0519	DP	Down Payment				98741.41	0
+0519	PhI	Planning				98741.41	0
+0519	PhII	Concept/Design Development				98741.41	0
+0519	PhIII	Interior Architectural Information Package				98741.41	0
+0519	PhIV	Millwork Drawings and FF&E Specifications				74056.06	0
+0519	PhV	Dsgn Coordination During Site Const.&Installation				24685.35	0
+0522	1	Planning (Apt)				24230.77	0
+0522	1.1	Planning (Apt. Hotel)				13846.15	0
+0522	2	Concept/Design Development ( Apt.)				24230.77	0
+0522	2.2	Concept/Design Development (Apt. Hotel)				13846.15	0
+0522	3	Interior Architectural Information Package (Apt)				24230.77	0
+0522	3.3	Interior Architectural Information Package (Apt Hotel)				13846.15	0
+0522	4	Millwork Drawings & FF&E Spec (Apt)				18173.08	0
+0522	4.4	Millwork Drawings & FF&E Spec (Apt Hotel)				10384.62	0
+0522	5	Design Coord During Site Const. & Inst (Apt)				6057.69	0
+0522	5.5	Design Coord During Site Const. & Inst (Apt Hotel)				3461.54	0
+0522	DP	Down Payment				38076.92	0
+0522.1	DP	Down Payment				51282.05	0
+0522.1	I.1	Phase I (Apartment)				33846.15	0
+0522.1	I.2	Phase I (Apartment Hotel)				17435.90	0
+0522.1	II.1	Phase II (Apartment)				33846.15	0
+0522.1	II.2	Phase II (Apartment Hotel)				17435.90	0
+0522.1	III.1	Phase III (Apartment)				33846.15	0
+0522.1	III.2	Phase III (Apartment Hotel)				17435.90	0
+0522.1	IV.1	Phase IV (Apartment)				25384.62	0
+0522.1	IV.2	Phase IV (Apartment Hotel)				13076.92	0
+0522.1	V	Phase V 15%				12820.51	0
+0522.2	DP	Down Payment				60182.29	0
+0522.2	I	Phase I				48145.83	0
+0522.2	II	Phase II				12036.46	0
+0523	DP	Down Payment				10000.00	0
+0523	I	Planning				2000.00	0
+0523	II	Concept/Design Development				4000.00	0
+0523	III	Interior Architectural Information Package				2000.00	0
+0523	IV	Millwork Drawings and FF&E Specifications				2000.00	0
+0524	DP	Down Payment				13978.33	0
+0524	I	Office Bldg Lobby-Phase I				13978.33	0
+0524	II	Office Bldg Lobby-Phase II				13978.33	0
+0524	III	Office Bldg Lobby-Phase III				17472.92	0
+0524	IV	Office Bldg Lobby-Phase IV				6989.17	0
+0524	V	Office Bldg Lobby-Phase V				3494.58	0
+0525	DP	Down Payment				208000.0	0
+0525	I	Planning				208000.0	0
+0525	II	Design Concept / Development				260000.0	0
+0525	III	Architectural Information Package				208000.0	0
+0525	IV	Millwork Drawings and FF&E Specifications				104000.0	0
+0525	V	Design Coordination During Site Const & Installat				52000.00	0
+0526	DP	Down Payment				42000.00	0
+0526	I	Planning				42000.00	0
+0526	II	Design Concept				52500.00	0
+0526	III	Architectual Package				42000.00	0
+0526	IV	FF& E				21000.00	0
+0526	V	All area-Site Inspection/co-ordination				10500.00	0
+0526.1	DP	Down Payment				10800.00	0
+0526.1	I	Planning				10800.00	0
+0526.1	II	Concept/DSGN Dev				10800.00	0
+0526.1	III	Interior Architect Info Package				13500.00	0
+0526.1	IV	Millwork Drawings & FF&E Spec				5400.00	0
+0526.1	V	Design Coord During Site Const. & Inst				2700.00	0
+0528	DP	Down Payment				159739.6	1
+0528	I	Planning				159739.6	0
+0528	II	Design Concept/Colour-(Design Development)				199674.5	0
+0528	III	Construction Document				159739.6	0
+0528	IV	FF&E				79869.80	0
+0528	V	Tender/Site Inspect(Dsgn Coord During Site Cont/In				39934.90	0
+0530	DP	Down Payment				10000.00	0
+0530	I	Delivery of the report				10000.00	0
+0531	DP	Down Payment				76153.85	0
+0531	I	Planning				76153.85	0
+0531	II	Design Concept				95192.31	0
+0531	III	Interior Architectural Information Package				76153.85	0
+0531	IV	Millwork Drawings and FF&E Specifications				38076.92	0
+0531	V	Design Coordination During Site Const. & Installat				19038.46	0
+0532	DP	Down Payment- Penthouse & Townhouse				20492.31	1
+0532	I P	Planning - Penthouse				10346.15	0
+0532	I T	Planning - Townhouse				10858.46	0
+0532	II P	Design Concept - Penthouse				10246.16	0
+0532	II T	Design Concept - Townhouse				10246.16	0
+0532	III P	Interior Architectural Inf Package - Penthouse				13620.00	0
+0532	III T	Interior Architectural Inf Package - Townhouse				11995.38	0
+0532	IV P	FF & E Specifications - Penthouse				5861.54	0
+0532	IV T	FF & E Specifications - Townhouse				4384.16	0
+0532.1	DP	Down Payment				10256.41	0
+0532.1	I	Planning				15384.62	0
+0532.1	II	Arch. Information				23076.92	0
+0532.1	IV	Site Inspection				2564.10	0
+0601	DP	Down Payment				163657.9	0
+0601	I	Phase I				81828.97	0
+0602	DF	Design Fee For Star River Room Type Layout Adjt				6153.85	0
+0602.1	DP	Down Payment				24076.92	0
+0602.1	IA	Planning - B51 Apartment				10834.62	0
+0602.1	IB	Planning - B10-A Apartment				13242.31	0
+0602.1	IIA	Design Concept - B51 Apartment				10834.62	0
+0602.1	IIB	Design Concept - B10-A Apartment				13242.31	0
+0602.1	IIIA	Architectural Information - B51 Apartment				13543.27	0
+0602.1	IIIB	Architectural Information - B10-A Apartment				16552.88	0
+0602.1	IVA	FF & E - B51 Apartment				5417.31	0
+0602.1	IVB	FF & E - B10-A Apartment				6621.15	0
+0602.1	V	Site Inspection - All Area				6019.23	0
+0603	DP	Down Payment				34615.38	0
+0603	I-1	Villa No. 16-B -Planning				13153.85	0
+0603	I-2	Two Single Suite No.5 Bldg. -Planning				12461.54	0
+0603	I-3	No.2 Building A Type -Planning				4846.15	0
+0603	I-4	No.2 Building B Type -Planning				4153.85	0
+0603	II-1	Villa No. 16-B -Design Concept				13153.85	0
+0603	II-2	Two Single Suite No.5 Bldg -Design Concept				12461.54	0
+0603	II-3	No.2 Building A Type -Design Concept				4846.15	0
+0603	II-4	No.2 Building B Type -Design Concept				4153.85	0
+0603	III-1	Villa No. 16-B -Arch. Information				16442.31	0
+0603	III-2	Two Single Suite No.5 Bldg -Arch. Information				15576.92	0
+0603	III-3	No.2 Building A Type -Arch. Information				6057.69	0
+0603	III-4	No.2 Building B Type -Arch. Information				5192.31	0
+0603	IV-1	Villa No. 16-B -FF & E				6576.92	0
+0603	IV-2	Two Single Suite No.5 Bldg -FF & E				6230.77	0
+0603	IV-3	No.2 Building A Type -FF & E				2423.08	0
+0603	IV-4	No.2 Building B Type -FF & E				2076.92	0
+0603	V	All Area - Site Inspection				8653.85	0
+0604	DP	Down Payment				27726.92	0
+0604	I	Planning				27726.92	0
+0604	II	Concept/Design Development				27726.92	0
+0604	III	Interior Architectural Information				34658.65	0
+0604	IV	Millwork Drawings/FF&E Specifications				13863.46	0
+0604	V	Design Coordination during Site Const & Install				6931.73	0
+0605	DP	Down Payment				113123.1	0
+0605	I	Planning				113123.1	0
+0605	II	Concept/Design Development				113123.1	0
+0605	III	Interior architectural Information				141403.8	0
+0605	IV	Millwork Drawings/ FF&E specifications				56561.54	0
+0605	V	Design Coordination during Site Const & Install				28280.77	0
+0606	DP	Down Payment				15000.00	0
+0606	GF1	Glass Facade (Pool Side)				9000.00	0
+0606	GF2	Glass Facade (Entry Side)				9000.00	0
+0606	PC	Porte Conchere				13500.00	0
+0606	PLS	Polo Lounge Seating Layout including				9000.00	0
+0606	RCB	Regency Club Buffet Counter Design				4500.00	0
+0606	RESD	Residence				90000.00	0
+0607	DP	Down Payment				156304.2	1
+0607	I	Phase I				156304.2	0
+0607	II	Phase II				156304.2	0
+0607	III	Phase III				195380.3	0
+0607	IV	Pahse IV				78152.10	0
+0607	V	Phase V				39076.05	0
+0608	DP	Down Payment				28509.23	1
+0608	I	Phase I				28509.23	0
+0608	II	Phase II				28509.23	0
+0608	III	Phase III				35636.54	0
+0608	IV	Phase IV				14254.62	0
+0608	V	Phase V				7127.31	0
+0608.01	1L1	Public Area - Planning				25752.82	0
+0608.01	1L2	Public Area - Planning				24348.58	0
+0608.01	2L1	Public Area - Concept Design				25752.82	0
+0608.01	2L2	Public Area - Concept Design				24348.58	0
+0608.01	3L1	Public Area - Arch. Information				32191.03	0
+0608.01	3L2	Public Area - Arch. Information				30435.72	0
+0608.01	4L1	Public Area - FF & E				12876.41	0
+0608.01	4L2	Public Area - FF & E				12174.29	0
+0608.01	I	PHI # 3 - Basement				11050.00	0
+0608.01	II	PHII # 3 - Basement				11050.00	0
+0608.01	III	PHIII # 3 - Basement				13812.50	0
+0608.01	IV	PHIV # 3 -Basement				5525.00	0
+0608.01	SADF	Supplementry Agreement Design Fee				87808.27	0
+0608.01	V	All Area - Site Inspection				15287.85	0
+0608.1	1DP	Down Payment - Club House				43589.74	0
+0608.1	1L	PHI # 3 - Basement				11050.00	0
+0608.1	1L1	Public Area - Planning				25752.82	0
+0608.1	1L2	Public Area - Planning				24348.58	0
+0608.1	2.L	PHII # 3 - Basement				11050.00	0
+0608.1	2DP	Down Payment - Supplementary Agreement Dsgn fee				17561.65	0
+0608.1	2L1	Public Area - Concept Design				25752.82	0
+0608.1	2L2	Public Area - Concept Design				24348.58	0
+0608.1	3.L	PHIII # 3 - Basement				13812.50	0
+0608.1	3L1	Public Area - Arch. Information				32191.03	0
+0608.1	3L2	Public Area - Arch. Information				30435.72	0
+0608.1	4.L	PHIV # 3 - Basement				5525.00	0
+0608.1	4L1	Public Area - FF & E				12876.41	0
+0608.1	4L2	Public Area - FF & E				12174.29	0
+0608.1	V	All Area - Site Inspection				15287.85	0
+0609	DP	Down Payment				55608.23	0
+0609	I.1	Planning-L1 Sales Office				25301.74	0
+0609	I.2	Planning-A L2 Room Type A				4448.65	0
+0609	I.3	Planning-B L2 Room Type B				3336.50	0
+0609	I.4	Planning-B&C L2 Room Type B&C				2502.37	0
+0609	I.5	Planning-D L2 Room Type D				3002.85	0
+0609	I.6	Planning-E L2 Room Type E				2557.97	0
+0609	I.7	Planning-Level 2 Corridor & Staircase				1112.17	0
+0609	I.8	Planning-F L3 Room Type F				13345.97	0
+0609	II.1	Design Concept-L1 sales Office				25301.74	0
+0609	II.2	Design Concept-A L2 Room Type A				4448.65	0
+0609	II.3	Design Concept-B L2 Room Type B				3336.50	0
+0609	II.4	Design Concept-B&C L2 Room Type B&C				2502.37	0
+0609	II.5	Design Concept-D L2 Room Type D				3002.85	0
+0609	II.6	Design Concept-E L2 Room Type E				2557.97	0
+0609	II.7	Design Concept-Level 2 Corridor & Staircase				1112.17	0
+0609	II.8	Design Concept-L3 Room Type F				13345.97	0
+0609	III.1	Arch. Inf.-L1 Sales Office				31627.19	0
+0609	III.2	Arch. Inf.-A L2 Room Type A				5560.82	0
+0609	III.3	Arch. Inf.-B L2 Room Type B				4170.62	0
+0609	III.4	Arch. Inf.-B&C L2 Room Type B&C				3127.96	0
+0609	III.5	Arch. Inf.-D L2 Room Type D				3753.55	0
+0609	III.6	Arch. Inf.-E L2 Room Type E				3197.47	0
+0609	III.7	Arch. Inf.-Level 2 Corridor & Staircase				1390.21	0
+0609	III.8	Arch. Inf.-F L3 Room Type F				16682.47	0
+0609	IV.1	FF & E-L1 Sales Office				12650.87	0
+0609	IV.2	FF & E-A L2 Room Type A				2224.33	0
+0609	IV.3	FF & E-B L2 Room Type B				1668.24	0
+0609	IV.4	FF & E-B&C L2 Room Type B&C				1251.18	0
+0609	IV.5	FF & E-D L2 Room Type D				1501.42	0
+0609	IV.6	FF & E-E L2 Room Type E				1278.99	0
+0609	IV.7	FF & E-Level 2 Corridor & Staircase				556.09	0
+0609	IV.8	FF & E-F L3 Room Type F				6672.99	0
+0609	V	All Area				13902.05	0
+0611	 DP	Down Payment				110256.4	0
+0611	1.01	Planning-L1 Entrance,Recp. Lobby,Lift Lobby				5512.82	0
+0611	1.02	Planning-L4 Main Lobby				8820.51	0
+0611	1.03	Planning-L4 Main Restaurant & Residence Lounge				16538.46	0
+0611	1.04	Planning-L4 Business Centre				5512.82	0
+0611	1.05	Planning-L4 Swimming Pool Area				3307.69	0
+0611	1.06	Planning-L4 Health Club, OX GYM				7717.95	0
+0611	1.07	Planning-L4 Changing Room				5512.82	0
+0611	1.08	Planning-L4 Guest W.C. Area				2205.13	0
+0611	1.09	Planning-L4 Public Corridor				3307.69	0
+0611	1.10	Planning-Studio				5512.82	0
+0611	1.11	Planning-One Bay Room				11025.64	0
+0611	1.12	Planning-Two Bay Room				4410.26	0
+0611	1.13	Planning-Three Bay Room				5512.82	0
+0611	1.14	Planning-Four Bay Room				6615.38	0
+0611	1.15	Planning-Complex				11025.64	0
+0611	1.16	Planning-Corridor				5512.82	0
+0611	1.17	Planning- Lift Lobby and Lift Cab Interior				2205.13	0
+0611	2.01	Design Concept-L1 Entrance, Recpt Lobby,Lift Lobby				5512.82	0
+0611	2.02	Design Concept-L4 Main Lobby				8820.51	0
+0611	2.03	Design Concept-L4 Main Rest. and Residence Lounge				16538.46	0
+0611	2.04	Design Concept-L4 Business Centre				5512.82	0
+0611	2.05	Design Concept-L4 Swimming Pool Area				3307.69	0
+0611	2.06	Design Concept-L4 Health Club, OX GYM				7717.95	0
+0611	2.07	Design Concept-L4 Changing Room				5512.82	0
+0611	2.08	Design Concept-L4 Guest W.C. Area				2205.13	0
+0611	2.09	Design Concept-L4 Public Corridor				3307.69	0
+0611	2.10	Design Concept-Studio				5512.82	0
+0611	2.11	Design Concept-One Bay Room				11025.64	0
+0611	2.12	Design Concept-Two Bay Room				4410.26	0
+0611	2.13	Design Concept-Three Bay Room				5512.82	0
+0611	2.14	Design Concept-Four Bay Room				6615.38	0
+0611	2.15	Design Concept-Complex				11025.64	0
+0611	2.16	Design Concept-Corridor				5512.82	0
+0611	2.17	Design Concept-Lobby and Lift Cab Interior				2205.13	0
+0611	3.01	Arch. Inf.-L1 Entrance Recpt. Lobby,Lift Lobby				6891.03	0
+0611	3.02	Arch. Inf.-L4 Main Lobby				11025.64	0
+0611	3.03	Arch. Inf.-L4 Main Restaurant and Residence Lounge				20673.08	0
+0611	3.04	Arch. Inf.-L4 Business Centre				6891.03	0
+0611	3.05	Arch. Inf.-L4 Swimming Pool Area				4134.62	0
+0611	3.06	Arch. Inf.-L4 Health Club, OX GYM				9647.44	0
+0611	3.07	Arch. Inf.-L4 Changing Room				6891.03	0
+0611	3.08	Arch. Inf.-L4 Guest W.C. Area				2756.41	0
+0611	3.09	Arch. Inf.-L4 Public Corridor				4134.62	0
+0611	3.10	Arch. Inf.-Studio				6891.03	0
+0611	3.11	Arch. Inf.-One Bay Room				13782.05	0
+0611	3.12	Arch. Inf.-Two Bay Room				5512.82	0
+0611	3.13	Arch. Inf.-Three Bay Room				6891.03	0
+0611	3.14	Arch. Inf.-Four Bay Room				8269.23	0
+0611	3.15	Arch. Inf.-Complex				13782.05	0
+0611	3.16	Arch. Inf.-Corridor				6891.03	0
+0611	3.17	Arch. Inf.-Lift Lobby and Lift Cab Interior				2756.41	0
+0611	4.01	FF & E-L1 Entrance, Reception Lobby, Lift Lobby				2756.41	0
+0611	4.02	FF & E-L4 Main Lobby				4410.26	0
+0611	4.03	FF & E-L4 Main Restaurant and Residence Lounge				8269.23	0
+0611	4.04	FF & E-L4 Business Centre				2756.41	0
+0611	4.05	FF & E-L4 Swimming Pool Area				1653.85	0
+0611	4.06	FF & E-L4 Health Club, OX GYM				3858.97	0
+0611	4.07	FF & E-L4 Changing Room				2756.41	0
+0611	4.08	FF & E-L4 Guest W.C. Area				1102.56	0
+0611	4.09	FF & E-L4 Public Corridor				1653.85	0
+0611	4.10	FF & E-Studio				2756.41	0
+0611	4.11	FF & E-One Bay Room				5512.82	0
+0611	4.12	FF & E- Two Bay Room				2205.13	0
+0611	4.13	FF & E-Three Bay Room				2756.41	0
+0611	4.14	FF & E-Four Bay Room				3307.69	0
+0611	4.15	FF & E-Complex				5512.82	0
+0611	4.16	FF & E-Corridor				2756.41	0
+0611	4.17	FF & E-Lift Lobby anf Lift Cab Interior				1102.56	0
+0611	5	FF & E-All Area				27564.10	0
+0611.1	DP	Down Payment				62307.69	0
+0611.1	I	Floor Planning				62307.69	0
+0611.1	II	Concept Design / Design Development				62307.69	0
+0611.1	III	Interior Architectural Information				77884.62	0
+0611.1	IV	Pre-Fabricated Woodwork Drawings/FF&E Spec				31153.85	0
+0611.1	V	Design Coordination During Site Const. & Inst.				15576.92	0
+0612	1	Mobilisation				94000.00	0
+0612	2	Pre-Design Concept Phase				75200.00	0
+0612	3	Schematic Design				75200.00	0
+0612	4	Design Development				58100.00	0
+0612	5	Residential Model Unit				45300.00	0
+0612	6	Contruction Documents				84600.00	0
+0612	7	Contruction Administration				37600.00	0
+0612.1	AS	Additional Design Services				18000.00	0
+0613	DP	Down Payment				10000.00	0
+0613	I	Planning				7200.00	0
+0613	II	Concept/Design development				7200.00	0
+0613	III	Interior Architectural Inf. Package				10000.00	0
+0613	IV	Millwork Drawings & FF & E Spec.				9600.00	0
+0613	V	Design Coordination during Site Const. & Install				6000.00	0
+0614	DP	Down Payment - After Execution of contract				73076.92	0
+0614	I	Planning- After Validation of Dsgn Deliverables				73076.92	0
+0614	II	Design Concept- After Validation of Dsgn Deliverab				121794.9	0
+0614	III	Int. Architectural-After Valid. Deliverable Sketch				121794.9	0
+0614	IV	FF & E-After Valid. Deliv. Const. Drawing				73076.92	0
+0614	V	Site Construction &Inst. Stage Comp. Whole project				24358.99	0
+0615	DP	Down Payment				93000.00	0
+0615	I	Planning				150660.0	0
+0615	II	Concept/Design Development				150660.0	0
+0615	III	Interior Architectural Information Package				209250.0	0
+0615	IV	Millwork Drawings & FF & E Specification				200880.0	0
+0615	V	Design coordination during Site Construction & Ins				125550.0	0
+0616	DP	Down Payment				143204.7	0
+0616	I	Planning				143204.7	0
+0616	II	Concept/Design Development				143204.7	0
+0616	III	Interior Architectural Information Package				179006.0	0
+0616	IV	Millwork Drawings/FF & E Specifications				71602.44	0
+0616	V	Design Coordination during Site Construction & Ins				35801.31	0
+0616.1	DP	Down Payment				75794.87	0
+0616.1	I	Planning				75794.87	0
+0616.1	II	Concept / Design Development				75794.87	0
+0616.1	III	Interior Architectural Information Package				94743.59	0
+0616.1	IV	Millwork Drawings/FF &E Specifications				37897.44	0
+0616.1	V	Design Coord. During Site Const. & Installation				18948.72	0
+0616.2	DP	Down Payment				3700.00	0
+0616.2	I	Planning				3700.00	0
+0616.2	II	Concept/Design Development				3700.00	0
+0616.2	III	Interior Architectural Information Package				4625.00	0
+0616.2	IV	Millwork Drawings/FF & E Specifications				1850.00	0
+0616.2	V	Design Coordination during Site Construction & Ins				925.00	0
+0616.3	REDF	Re-Desing Fee				2564.10	0
+0617	DP	Down Payment				46153.85	0
+0617	I	Planning				46153.85	0
+0617	II	Concept / Design Development				46153.85	0
+0617	III	Interior Architectural Information				57692.31	0
+0617	IV	Millwork Drawings / FF & E Specifications				23076.92	0
+0617	V	Design Coordination During Site Const & Inst..				11538.46	0
+0618	DP	Down Payment				148297.2	0
+0618	I	Planning				148297.2	0
+0618	II	Concept / Design Development				148297.2	0
+0618	III	Interior Architectural Information				185371.5	0
+0618	IV	Millwork Drawings/FF& E Specifications				74148.58	0
+0618	V	Design Coordination During Site Const. & Install				37179.49	0
+0618.1	DP	Down Payment				20000.00	0
+0619	DP	Down Payment				143589.7	0
+0619	I	Planning				143589.7	0
+0619	II	Concept / Design Development				143589.7	0
+0619	III	Interior Architectural Information				179487.2	0
+0619	IV	Millwork Drawings FF & E Specification				71794.87	0
+0619	V	Design Coordination During Site				35897.44	0
+0619.1	DS	Alteration Fee For Design Services				153846.2	0
+0619.2	DP	Down Payment				60523.08	0
+0619.3	DP	Down Payment				52361.54	0
+0619.3	I	Planning				52361.54	0
+0619.3	II	Concept / Design Development				26180.77	0
+0619.3	III	Interior Architectural Information				91632.69	0
+0619.3	IV	Millwork Drawings FF & E Specification				26180.77	0
+0619.3	V	Design Coordination During Site				13090.38	0
+0620	DP	Down Payment				168930.0	0
+0620	I	Planning				212840.0	0
+0620	II	Concept / Design Development				212840.0	0
+0620	III	Interior Architectural Information				212840.0	0
+0620	IV	Millwork Drawings / FF & E Specifications				159630.0	0
+0620	V	Design Coordination During Site Const. & Inst				97120.00	0
+0622	DP	Down Payment				285800.0	0
+0622	I	Planning				285800.0	0
+0622	II	Concept / Design Development				285800.0	0
+0622	III	Interior Architectural Information				357250.0	0
+0622	IV	Millwork Drawings / FF & E Specifications				142900.0	0
+0622	V	Design Coordination During Site Const. & Inst				71450.00	0
+0702	DP	Down Payment				69500.00	1
+0702	I	Phase I				112590.0	0
+0702	II	Phase II				112590.0	0
+0702	III	Phase III				156375.0	0
+0702	IIIA	Changes to Guest Tower - VE				45000.00	0
+0702	IV	Phase IV				150120.0	0
+0702	V	Phase V				93825.00	0
+0705	DP	Down Payment				212820.5	1
+0705	I	Phase I				212820.5	0
+0705	II	Phase II				212820.5	0
+0705	III	Phase III				266025.6	0
+0705	IV	Phase IV				106410.3	0
+0705	V	Phase V				53205.13	0
+0705.2	AS.1	Upon Execution of Agreement 50%				7500.00	0
+0705.2	AS.2	Upon receipt 2 sets of FF&E Spec 50%				7500.00	0
+0705.3	DP	DOWN PAYMENT				12461.54	0
+0705.3	I	PLANNING				12461.54	0
+0705.3	II	CONCEPT DESIGN				12461.54	0
+0705.3	III	ARCHITECTURAL INFORMATION				15576.92	0
+0705.3	IV	MILLWORK & SPECS				6230.77	0
+0705.3	V	DESIGN COORD DURING SITE CONST & INST.				3115.38	0
+0706	DP	Down Payment				89500.00	1
+0706	I	Phase I				144990.0	0
+0706	II	Phase II				144990.0	0
+0706	III	Phase III				201375.0	0
+0706	IV	Phase IV				193320.0	0
+0706	V	Phase V				120825.0	0
+0707	DP	Down Payment				9050.00	0
+0707	I	Design Concept				40725.00	0
+0707	II	Working Drawings				40725.00	0
+0708	DPI	Down Payment and Phase I				118846.1	0
+0708	II-3	Phase II and III				133701.9	0
+0708	IV	Phase IV				29711.54	0
+0708	V	Phase V				14855.79	0
+0708.1	DP	Down Payment				8653.85	0
+0708.1	I	Phase I				10096.15	0
+0708.1	II	Phase II				10096.15	0
+0709	DP	Down Payment				51923.08	0
+0709	I	Stage I				51923.08	0
+0709	II	Stage II				86538.46	0
+0709	III	Stage III				86538.46	0
+0709	IV	Stage IV				51923.08	0
+0709	V	Construction and installation				17307.69	0
+0711	DP	Down Payment				48807.70	0
+0711	I	Phase I				48807.70	0
+0711	II	Phase II				48807.70	0
+0711	III	Phase III				61009.61	0
+0711	IV	Phase IV				24403.85	0
+0711	V	Phase V				12202.00	0
+0712	DP	Down Payment				143589.7	0
+0712	I	Planning				143589.7	0
+0712	II	Concept / Design Development				143589.7	0
+0712	III	Interior Architectural Information				179487.2	0
+0712	IV	Millwork Drawings / FF & E Specifications				71794.87	0
+0712	V	Design Coordination During Site Const. & Inst				35897.43	0
+0713	DP	Down Payment				278000.0	0
+0713	I	Planning				104075.0	0
+0713	II	Concept / Design Development				104075.0	0
+0713	III	Interior Architectural Information Package				324100.0	0
+0713	IV	Millwork Drawings / FF & E Specifications				324100.0	0
+0713	V	Completion of Tender Phase				162050.0	0
+0713	VI	Design Coord. During Site Const. & Installation				243075.0	0
+0713	VII	Obtaining Certificate of fitness for Occupation				81025.00	0
+0715	DP	Down Payment				24473.08	0
+0715	I	Phase I				28551.92	0
+0715	II	Phase II				28551.92	0
+0716	DP	Down Payment				17971.15	0
+0716	I	Phase I				20966.35	0
+0716	II	Phase II				20966.35	0
+0717	DP	Down Payment				26175.00	0
+0717	I	Phase I				30537.50	0
+0717	II	Phase II				30537.50	0
+0718	1M	Mobilization - BLD				20000.00	0
+0718	1MO	Mobilization - WATG				50000.00	0
+0718	C	Concept Refinement - BLD				18500.00	0
+0718	C1	Concept Refinement - WATG				60500.00	0
+0718	F	Final Concept Design - BLD				18500.00	0
+0718	F1	Final Concept Design - WATG				60500.00	0
+0719	DP	Down Payment				92055.13	0
+0719	I	Planning				184110.3	0
+0719	II	Concept / Design Development				184110.3	0
+0719	III	Interior Architectural Information Package				184110.3	0
+0719	IV	Millwork Drawings / FF& E Specifications				138082.7	0
+0719	V	Design Coordination During Site Const & Installat				138082.7	0
+0719.1	DP	Mobilization				21153.85	0
+0719.1	I	Planning				42307.69	0
+0719.1	II	Conceptual/Design Dev				42307.69	0
+0719.1	III	Interior Arch. Inf. Package				42307.69	0
+0719.1	IV	Millwork Drawings FF&E Spec				31730.77	0
+0719.1	V	Design Coord During Site Const. & Inst.				31730.77	0
+0720	DP	Down Payment				22300.00	0
+0720	I	Planning				36126.00	0
+0720	II	Concept / Design Development				36126.00	0
+0720	III	Interior Architectural Information Package				50175.00	0
+0720	IV	Millwork Drawings & FF&E Specifications				48168.00	0
+0720	V	Design Coordination during Site Const and Install				30105.00	0
+0721	DP	Non-Refundable Down Payment				324214.8	0
+0721	I	Planning, Plan for Function Layout				432284.8	0
+0721	II	Concept Design (Preliminarily Design)				432284.8	0
+0721	III	Design Development				432284.8	0
+0721	IV	Tender Document & Analyze(Millwork Drwg,Spec FF&E)				432284.8	0
+0721	V	Design Co-Ordination & Site Insp Till Comp works				108071.0	0
+0721.2	C2.IV	Clause 2. Stage IV:Tender Doc. & Analysis(Millw Drwng/FF&E Spec)				241646.3	0
+0721.2	C2.V	Clause 2.Stage V:Desgn Coord. & Tech Supervision Comp. Of Work				60411.64	0
+0721.2	C3.1	Clause 3.Stage I:Planning & Paln Function Layout				235883.6	0
+0721.2	C3.2	Clause 3.Stage II:Design Concept(Preliminary Design)				235883.6	0
+0721.2	C3.3	Clause 3. Stage III:Design Development				235883.6	0
+0721.2	C3.4	Clause 3. Stage IV:Tender Doc & Analysis (MillW Drwng/FF&E Spec)				188706.8	0
+0721.2	C3.5	Clause 3. Stage V:Degn Coord. & Tech Supervision Comp Work				47176.71	0
+0722	1	Down Payment after execution of the contract				57692.31	0
+0722	2	After Validatio of the Dsgn deliver Planning Stage				57692.21	0
+0722	3	After validation of the deliverables of the design concept and design development stage				96153.85	0
+0722	4	After validation of the design deliverables of the sketch construction drawing stage (I.E. interior architectural documents)				96153.85	0
+0722	5	After Validation of the Design Deliverables of the Construction Drawing stage (I.E. drawings of Prefabricated Wooden Members and FF&E code)				57692.31	0
+0722	6	From the Site Const and Installation stage till complet of the whole proj including the layout and placing movable furniture and decorative articles				19230.77	0
+0723	DP	Down Payment				410256.4	0
+0723	I	Planning				410256.4	0
+0723	II	Concept / Design Development				410256.4	0
+0723	III	Interior Architectural Information				512820.5	0
+0723	IV	Millwork Drawings / FF&E Specifications				205128.2	0
+0723	V	Design Coordination During Site Const.& Inst				102564.1	0
+0724	DP	Upon Signing of agreement				132000.0	0
+0724	IA/IB	Planning  / Concept Design				176000.0	0
+0724	II	Design Development				220000.0	0
+0724	IIIA	Tender Documentation - Architectural Package				132000.0	0
+0724	IIIB	Tender Documentation- FF & E Package				132000.0	0
+0724	IV	Construction and Inspection Stage				44000.00	0
+0724	V	Completion of Schedule of Defects				44000.00	0
+0724.1	I	Level 2A Lobby/Bar-redo-Phase I A/B (20% for Phase I)				30000.00	0
+0724.1	II	Level 2A Lobby/Bar-redo-Phase II (25% Phase/repeat 15%)				22500.00	0
+0724.1	III	Level 3 Change in brief Repeat - Phase I A/BD 20%(Partial 10%)				7500.00	0
+0725	DP	Down Payment				165384.6	0
+0725	I	Planning				330769.2	0
+0725	II	Design Concept / Design Development				413461.5	0
+0725	III	Interior Architectural Information				413461.5	0
+0725	IV	Millwork Drawings / FF& E Specifications				248076.9	0
+0725	V	Design Coordination During Site Construction and Installation				82692.31	0
+0802	DP	Down Payment				197600.0	0
+0802	I	Planning				197600.0	0
+0802	II	Concept / Design Development				197600.0	0
+0802	III	Interior Architectural Information				247000.0	0
+0802	IV	Millwork Drawings / FF & E Spec				98800.00	0
+0802	V	Design Coord. During Site Const. & Inst.				49400.00	0
+0803	DP	Down Payment				206625.0	0
+0803	I	Planning				275500.0	0
+0803	II	Concept / Design Development				344375.0	0
+0803	III	Interior Architectural Information Package				344375.0	0
+0803	IV	Millwork Drawings & FF&E Specifications				137750.0	0
+0803	V	Design Coordination During Site Const. & Inst.				68875.00	0
+0804	DP	Down Payment				158320.0	0
+0804	I	Planning				158320.0	0
+0804	II	Concept / Design Development				158320.0	0
+0804	III	Interior Arch. Information				197900.0	0
+0804	IV	Millwork Drawings / FF&E Spec				79160.00	0
+0804	V	Construction				39580.00	0
+0804.2	DP	Down Payment				16000.00	0
+0804.2	I	Planning				16000.00	0
+0804.2	II	Concept/Design Development				16000.00	0
+0804.2	III	Int. Arch. Information				20000.00	0
+0804.2	IV	Millwork Drwgs/FF&E Spec				8000.00	0
+0804.2	V	Degn Coord during Site Const & Inst.				4000.00	0
+0805	DP	Down Payment				150000.0	0
+0805	I	Planning				120000.0	0
+0805	II	Concept / Design Development				120000.0	0
+0805	III	Interior Arch. Info				150000.0	0
+0805	IV	Millwork Drawings/FF&E Spec				150000.0	0
+0805	V	Design Coord. During Site Const.& Inst.				60000.00	0
+0806	DP	Down Payment				170512.8	0
+0806	I	Planning				170512.8	0
+0806	II	Concept / Design Development				170512.8	0
+0806	III	Interior Architectural Information Package				213141.0	0
+0806	IV	Millwork Drawings & FF&E Specifications				85256.41	0
+0806	V	Design Coord. During Site Const.& Inst.				42628.20	0
+0807	DP	Down Payment				274905.1	0
+0807	I	Planning				274905.1	0
+0807	II	Design Concept				274905.1	0
+0807	III	Architectural Information				343631.4	0
+0807	IV	Millwork & Specs				137452.6	0
+0807	V	Tender Assistance				68726.28	0
+0812	DP	Down Payment				95000.00	0
+0812	I	Planning				153900.0	0
+0812	II	Concept/Design Development				153900.0	0
+0812	III	Interior Architectural Information Package				213750.0	0
+0812	IV	Millwork Drawings FF& E Spec.				205200.0	0
+0812	V	Design Coord. During Site Const. & Inst.				128500.0	0
+0813	1DP	Down Payment				38733.00	0
+0813	B1	PH I - Type 1 (A4) Studio				2557.59	0
+0813	B2	PH I - Type 2 (B3) 1-Bed, 1-Bath, 1 Pantry				3705.09	0
+0813	B3	PH I - Type 3 (D) 3-Bed, 2-Bath				30929.83	0
+0813	B4	PH I - Club House				40273.49	0
+0813	C1	PH II - Type 1 (A4) Studio				2557.59	0
+0813	C2	PH II - Type 2 (B3) 1-Bed, 1-Bath, 1 Pantry				3705.09	0
+0813	C3	PH II - Type 3 (D) 3-Bed, 2-Bath				30929.83	0
+0813	C4	PH II - Club House				40273.49	0
+0813	D1	PH III - Type 1 (A4) Studio				2557.59	0
+0813	D2	PH III - Type 2 (B3) 1-Bed, 1-Bath, 1 Pantry				3705.09	0
+0813	D3	PH III - Type 3 (D) 3-Bed, 2 Bath				30929.83	0
+0813	D4	PH III - Club House				40273.49	0
+0813	E1	PH IV - Type 1 (A4) Studio				1918.02	0
+0813	E2	PH IV - Type 2 (B3) 1-Bed, 1-Bath, 1 Pantry				2778.92	0
+0813	E3	PH IV - Type 3 (D) 3-Bed, 2 Bath				23197.58	0
+0813	E4	 PH IV - Club House				30204.99	0
+0813	F1	PH V - Upon Comp. Of 50% Int. Fit. Out works				23239.80	0
+0813	F2	PH V - Upon Comp. Of 100% Int. Fit. Out works				23239.80	0
+0813	F3	PH V - Upon Issuance Of Defect List				11619.91	0
+0814	.DP	BLD - Down Payment				259535.7	0
+0814	BLD 1	BLD - PH I				420447.8	0
+0814	BLD 2	BLD - PH II				420447.8	0
+0814	BLD 3	BLD - PH III				583955.3	0
+0814	BLD 4	BLD - PH IV				560597.1	1
+0814	BLD 5	BLD - PH V				350373.3	0
+0814	LMOB	Mobilisation				32542.28	0
+0814	LST1	Stage 1 - Lighting Consultants				123737.8	0
+0814	LST2	Stage 2 - Lighting Consultants				98282.70	0
+0814	LST3	Stage 3 - Lighting Consultants				5443.00	0
+0814	LST4	Stage 4 - Lighting Consultants				27767.53	0
+0814	LST5	Stage 5 - Lighting Consultants				24228.28	0
+0814	LSTEX	General Expenses - Lighting Consultants				13337.58	0
+0814	SD.0	Signage Design - Down Payment				15910.00	0
+0814	SD1	Signage Design - Schematic Design				31750.00	0
+0814	SD2	Signage Design - Design Development				63683.77	0
+0814	SD3	Signage Design - Const. Documents or Mech. Artwork				31840.00	0
+0814	SD4	Signage Design - Bidding & Negotiation or Print Pricing				7960.00	0
+0814	SD5	Signage Design - Const. Admin. or Print Production Mngt				7960.00	0
+0814	SPG.0	Printed Graphics Design - Down Payment				9300.00	0
+0814	SPGD1	Printed Graphics Design - Schematic Design				18600.00	0
+0814	SPGD2	Printed Graphics Design - Design Development				37200.00	0
+0814	SPGD3	Printed Graphics Design - Const. Documents or Mech. Artwork				18600.00	0
+0814	SPGD4	Printed Graphics Design - Bidding & Negotiation or Print Pricing				4650.00	0
+0814	SPGD5	Printed Graphics Design - Const. Admin. or Print Production Mngt				4650.00	0
+0815	DP	Down Payment				149000.0	0
+0815	I	Planning				241380.0	0
+0815	II	Concept/Design Development				241380.0	0
+0815	III	Interior Arch. Info. Package				335250.0	0
+0815	IV	Millwork Drawings & FF&E Spec				321840.0	0
+0815	V	Design Coord During Site Const & Inst				201150.0	0
+0817	DP	Down Payment				225839.8	0
+0817	I	Planning				225839.8	0
+0817	II	Concept/Design Development				225839.8	0
+0817	III	Interior Architectural Information Package				282299.5	0
+0817	IV	Millwork Drawings FF& E Spec.				112919.8	0
+0817	V	Design Coord. During Site Const. & Inst.				56459.91	0
+0818	DP	Down Payment				176000.0	0
+0818	I	Planning				176000.0	0
+0818	II	Concept/Design Development				176000.0	0
+0818	III	Interior Architectural Information Package				220000.0	0
+0818	IV	Millwork Drawings FF& E Spec.				88000.00	0
+0818	V	Design Coord. During Site Const. & Inst.				44000.00	0
+0820	DP	Down Payment				394500.4	0
+0820	I	Planning				394500.4	0
+0820	II	Concept/Design Development				394500.4	0
+0820	III	Millwork Drawings FF& E Spec.				493125.5	0
+0820	IV	Millwork Drawings FF& E Spec.				197250.2	0
+0820	V	Design Coord. During Site Const. & Inst.				98625.09	0
+0821	DP	Down Payment				28221.38	0
+0821	I	Lobby Concept (Thailand & Shanghai)				24243.06	0
+0821	II	Exhibition				18094.46	0
+0822	DP	Down Payment				151735.7	0
+0822	I	Planning				151735.7	0
+0822	II	Concept/Design Development				151735.7	0
+0822	III	Interior Architectural Info.				190075.0	0
+0822	IV	Millwork Drawings/FF&E Specifications				76073.44	0
+0822	V	Design Coord During Site Const. & Inst.				38036.72	0
+0823	1.	Typical Guestroom-Design Concept Presentation				12410.57	0
+0823	2.2.1	Typical Guestroom Mock Up Arch, Info. & FF&E Spec.				16060.74	0
+0823	2.2.3	Typical Guestroom Mock Up Construction				2920.13	0
+0823	DP	Down Payment				12410.57	0
+0901	DP	Down Payment				351359.2	0
+0901	I	Planning				351359.2	0
+0901	II	Concept/Design Development				351359.2	0
+0901	III	Interior Architectural Information				439199.8	0
+0901	IV	Millwork Drawings/FF&E Specifications				175677.8	0
+0901	V	Design Cood. During Site Const & Inst				87838.93	0
+0902	DP	Down Payment				321780.0	0
+0902	I	Planning				321780.0	0
+0902	II	Cocept / Design Dev				321780.0	0
+0902	III	Interior Architectural Info				321780.0	0
+0902	IV	Millwork Drawings / FF&E Spec				209157.0	0
+0902	V	Dsgn Coord During Site Const. & Inst				112623.0	0
+0903	DP	Down Payment				233856.6	0
+0903	I	Planning				233856.6	0
+0903	II	Concept/Design Dev				233856.6	0
+0903	III	Int. Arch. Information				292320.7	0
+0903	IV	Millwork Drawings/FF&E Spec				116928.3	0
+0903	V	Design Coord. During Site Const. & Inst.				58464.15	0
+0904	DP	Down Payment				37500.00	0
+0904	I	Planning				60750.00	0
+0904	II	Concept/Design Dev				60750.00	0
+0904	III	Interior Architect Info Package				84375.00	0
+0904	IV	Millwork Drawings & FF&E Spec				81000.00	0
+0904	V	Design Coord During Site Const. & Inst				50625.00	0
+0906	DP	Down Payment				79189.69	0
+0906	I	Planning - Phase I				105586.3	0
+0906	II	Design Concept - Phase II				79189.69	0
+0907	DP	Down Payment				65907.42	0
+0907	I	Planning				87878.61	0
+0907	II	Concept/Design Dev				87878.61	0
+0907	III	Interior Architect Info Package				87878.61	0
+0907	IV	Millwork Drawings & FF&E Spec				87878.61	0
+0907	V	Design Coord During Site Const. & Inst				21972.48	0
+0908	DP	Down Payment				263335.0	0
+0908	I	Planning				263335.0	0
+0908	II	Concept / Design Dev				263335.0	0
+0908	III	Interior Architectural Inf				329168.8	0
+0908	IV	Millwork Drawings/FF& E Spec				131667.5	0
+0908	V	Design Coord During Site Const & Inst				65833.74	0
+0909	DP	DOWN PAYMENT				106800.0	0
+0909	I	PLANNING				106800.0	0
+0909	II	DESIGN CONCEPT				320400.0	0
+0909	III	ARCHITECTURAL INFORMATION				213600.0	0
+0909	IV	MILLWORK & SPECS				213600.0	0
+0909	V	DESIGN COORD DURING SITE CONST & INST.				106800.0	0
+0910	DP	On Signing of the acceptance Letter				51000.00	0
+0910	I	On Supply of PH I Drawings				51000.00	0
+0910	II	On Supply of PH II Drawings				51000.00	0
+0910	III	On Supply of PH III Drawings				63750.00	0
+0910	IV	On Supply of PH IV Drawings				25500.00	0
+0910	V	On Supply of PH V Drawings				12750.00	0
+0911	DP	On Signing of the Acceptance Letter				37000.00	0
+0911	I	On Supply of Phase I Drawings				37000.00	0
+0911	II	On Supply of Phase II Drawings				37000.00	0
+0911	III	On Supply of Phase III Drawings				46250.00	0
+0911	IV	On Supply of Phase IV Drawings				18500.00	0
+0911	V	On Supply of Phase V Drawings				9250.00	0
+0912	DP	Down Payment				10000.00	0
+0912	I	Planning				10000.00	0
+0912	II	Concept/Design Dev				10000.00	0
+0912	III	Interior Arch Info				12500.00	0
+0912	IV	Millwork Drawings/FF&E Spec				5000.00	0
+0912	V	Design Cood. During Site Const. & Inst				2500.00	0
+0913	DP	Down Payment				26352.00	0
+0913	I	Preliminary Arch Concept Sketch(3 Preliminary Concept)				35136.00	0
+0913	II	Conceptual Arch. Dsgn				26352.00	0
+0914	DP	DOWN PAYMENT				119743.6	0
+0914	I,II3	PHASE I, II & III				134711.5	0
+0914	IV	MILLWORK DRAWINGS/FF&E SPEC.				29935.90	0
+0914	V	DESIGN COORD DURING SITE CONST & INST				14967.95	0
+0915	DP	Down Payment				17562.86	0
+0915	I	Planning				23417.15	0
+0915	II	Design Concept				17562.86	0
+0916	DPA	Down Payment - Apt. Public Area & Resd				72571.90	0
+0916	DPB	Down Payment - Residential Apt. (PHI, Planning x7)				20484.02	0
+0916	IA	Planning - Apt. Public Area & Resd				72571.90	0
+0916	IB	Planning - Residential Apt. (PHI, Planning x7)				81936.06	0
+0916	IIA	Concept/Dsgn - Apt. Public Area & Resd				72571.90	0
+0916	IIIA	Int. Arch. Info - Apt. Public Area & Resd				90714.89	0
+0916	IVA	Millwork Draw/FF&E Spec - Apt. Public Area & Resd				36285.95	0
+0916	VA	Dsgn Coord During Site Const & Inst - Apt. Public Area & Resd				18142.98	0
+0918	DP	Down Payment				22102.56	0
+0918	I	Planning				22102.56	0
+0918	II	Concept/Dsgn. Dev. (10 working 10days)				22102.56	0
+0918	III	Int. Arch. Info (10 working days)				27628.21	0
+0918	IV	Millwork Dwgs/FF&E Spec.(20 working days)				11051.28	0
+0918	V	Dsgn Coord. During Site Const. & Inst				5525.64	0
+0919	DP	Down Payment				161794.9	0
+0919	I	Planning				161794.9	0
+0919	II	Concept / Design Development				161794.9	0
+0919	III	Interior Architectural Information				202243.6	0
+0919	IV	Millwork Drawings/FF& E Specifications				80897.44	0
+0919	V	Design Coordination During Site Const. & Install				40448.72	0
+0919.2	DP	Down Payment, Phase I & Phase II				43662.56	0
+0919.2	PHIII	Phase III, Phase IV & Phase V				29108.33	0
+0920	DP	Down Payment				228452.6	0
+0920	I	Planning				228452.6	0
+0920	II	Concept/Design Dev				228452.6	0
+0920	III	Interior Architect Info Package				285565.8	0
+0920	IV	Millwork Drawings & FF&E Spec				114226.3	0
+0920	V	Design Coord During Site Const. & Inst				57113.15	0
+0921	DP	Down Payment				181538.5	0
+0921	I	Planning				181538.5	0
+0921	II	Concept/Design Development				242051.3	0
+0921	III	Int. Arch. Information				242051.3	0
+0921	IV	Millwork Drwgs/FF&E Spec				242051.3	0
+0921	V	Tender Asistance				90769.23	0
+0921	VI	Degn Coord during Site Const & Ins				30256.41	0
+0923	DP	DOWN PAYMENT				36000.00	0
+0923	I	PLANNING				36000.00	0
+0923	II	DESIGN CONCEPT				36000.00	0
+0923	III	ARCHITECTURAL INFORMATION				45000.00	0
+0923	IV	MILLWORK & SPECS				18000.00	0
+0923	V	DESIGN COORD DURING SITE CONST & INST.				9000.00	0
+100	 	GENERAL OFFICE				0.00	0
+1001	DP	Down Payment				208711.7	0
+1001	I	Planning				278282.3	0
+1001	II	Concept/Design Dev				278282.3	0
+1001	III	Int. Arch. Information				278282.3	0
+1001	IV	Millwork Drawings & FF&E Spec				278282.3	0
+1001	V	Design Coord During Site Const. & Inst				69570.57	0
+1002	CHDP	Down Payment - Club House Design Fee				38080.73	0
+1002	CHI	Planning				38080.73	0
+1002	CHII	Concept/DSGN Dev				38080.73	0
+1002	CHIII	Int. Arch. Inf.				38080.73	0
+1002	CHIV	Millwork Draw/FF&E Spec.				28560.55	0
+1002	CHV	DSNG Coord during site Const & Inst				9520.19	0
+1002	SODP	Down Payment - Sales Off Dsgn Fee				57121.10	0
+1002	SOI	Planning				57121.10	0
+1002	SOII	Concept/DSGN Dev				57121.10	0
+1002	SOIII	Int. Arch. Inf.				57121.10	0
+1002	SOIV	Millwork Draw/FF&E Spec.				42840.82	0
+1002	SOV	DSNG Coord during site Const & Inst				14280.26	0
+1002	TADP	Down Payment - Typical Apt. Model RM & Public Lobby DSGN Fee				30025.19	0
+1002	TAI	Planning				30025.19	0
+1002	TAII	Concept/DSGN Dev				30025.19	0
+1002	TAIII	Int. Arch. Inf.				30025.19	0
+1002	TAIV	Millwork Draw/FF&E Spec.				22518.89	0
+1002	TAV	DSNG Coord during site Const & Inst				7506.31	0
+1003	DP	Upon Cont/Letter Intent Signed				21794.87	0
+1003	I	Completion of Planning & Design Concept				32692.31	0
+1003	II	Completion of Design Development				32692.31	0
+1003	III	Completion of 50% Tender Draw & FF&E				32692.31	0
+1003	IV	Completion of All Tender Drawings				43589.74	0
+1003	V	Completion of All FF&E Document				32692.31	0
+1003	VI	Upon Signed Fitting Out Cont. Cont.				21794.87	0
+1004	DP	DOWN PAYMENT				198611.5	0
+1004	I	PLANNING				198611.5	0
+1004	II	DESIGN CONCEPT				198611.5	0
+1004	III	ARCHITECTURAL INFORMATION				248264.3	0
+1004	IV	MILLWORK & SPECS				99305.74	0
+1004	V	DESIGN COORD DURING SITE CONST & INST.				49652.87	0
+1005	DPT2	DOWN PAYMENT - PART 2:RESIDENTIAL APT MODEL RM,LOBBY&CLUB HOUSE				130527.0	0
+1005	DPT3	DOWN PAYMENT - RESIDENTIAL APT T3 UNIT D				2927.94	0
+1005	T2I	PHASE I - PART 2:RESIDENTIAL APT MODEL RM,LOBBY&CLUB HOUSE				130527.0	0
+1005	T2II	PHASE II - PART 2:RESIDENTIAL APT MODEL RM,LOBBY&CLUB HOUSE				130527.0	0
+1005	T2III	PHASE III - PART 2:RESIDENTIAL APT MODEL RM,LOBBY&CLUB HOUSE				163159.0	0
+1005	T2IV	PHASE IV - PART 2:RESIDENTIAL APT MODEL RM,LOBBY&CLUB HOUSE				65267.00	0
+1005	T2V	PHASE V  - PART 2:RESIDENTIAL APT MODEL RM,LOBBY&CLUB HOUSE				32631.00	0
+1005	T3I	PHASE I -RESIDENTIAL APT T3 UNIT D				11711.74	0
+1005.2	DF	Design Fees - Revised Layout				13237.04	0
+1007	DP	DOWN PAYMENT				22140.00	0
+1007	I	PLANNING				22140.00	0
+1007	II	DESIGN CONCEPT				22140.00	0
+1007	III	ARCHITECTURAL INFORMATION				27675.00	0
+1007	IV	MILLWORK & SPECS				11070.00	0
+1007	V	DESIGN COORD DURING SITE CONST & INST.				5535.00	0
+1008	DP	Down Payment				131822.7	0
+1008	I	Planning				131822.7	0
+1008	II	DESIGN CONCEPT				131822.7	0
+1008	III	ARCHITECTURAL INFORMATION				164778.4	0
+1008	IV	MILLWORK & SPECS				65911.37	0
+1008	V	DESIGN COORD DURING SITE CONST & INST.				32955.69	0
+1009	DP	Down Payment				28000.00	0
+1009	I	Planning				28000.00	0
+1009	II	Concept/Design Development				28000.00	0
+1009	III	Int. Arch. Information				35000.00	0
+1009	IV	Millwork Drwgs/FF&E Spec				14000.00	0
+1009	V	Degn Coord during Site Const & Inst.				7000.00	0
+1010	DP	Down Payment				33500.00	0
+1010	I	Planning				54270.00	0
+1010	II	Concept/Design Development				54270.00	0
+1010	III	Interior Archit. Info. Package				75375.00	0
+1010	IV	Millwork Drawings and FF&E Spec.				72360.00	0
+1010	V	Design Coord. During Const. & Inst.				45225.00	0
+1010.01	DP	Down Payment				9200.00	0
+1010.01	I	Planning				14904.00	0
+1010.01	II	Concept/Design Development				14904.00	0
+1010.01	III	Interior Architectural Info. Package				20700.00	0
+1010.01	IV	Millwork Drawings & FF&E Specifications				19872.00	0
+1010.01	V	Design Coord. During Construction & Installation				12420.00	0
+1010.2	AS	Major Drawing Revisions / Main Club Area				17420.00	0
+1011	1DP	Down Payment Part I - Full Renovation				44410.26	0
+1011	1FR	PHI- Full Renovation				66615.38	0
+1011	1PR	PHI- Partial Renovation				4673.08	0
+1011	2DP	Down Payment Part II - Partial Renovation				3115.38	0
+1011	2FR	PHII - Full Renovation				88820.51	0
+1011	2PR	PHII - Partial Renovation				6230.77	0
+1011	3FR	PHIII - Full Renovation				111025.6	0
+1011	3PR	PHIII - Partial Renovation				7788.46	0
+1011	4FR	PHIV - Full Renovation				66615.38	0
+1011	4PR	PHIV - Partial Renovation				4673.08	0
+1011	5FR	PHV - Full Renovation				66615.38	0
+1011	5PR	PHIV - Partial Renovation				4673.08	0
+1012	DP	DOWN PAYMENT				259769.0	0
+1012	I	PLANNING				259769.0	0
+1012	II	DESIGN CONCEPT				259769.0	0
+1012	III	ARCHITECTURAL INFORMATION				324711.3	0
+1012	IV	MILLWORK & SPECS				129884.5	0
+1012	V	DESIGN COORD DURING SITE CONST & INST.				64942.26	0
+1013	DP	Down Payment				36359.14	0
+1013	I	Planning				36359.14	0
+1013	II	Concept/Design Development				36359.14	0
+1013	III	Int. Arch. Information				45448.92	0
+1013	IV	Millwork Drwgs/FF&E Spec				18179.57	0
+1013	V	Degn Coord during Site Const & Inst.				9090.34	0
+1014	DP	Down Payment				360000.0	0
+1014	I	Planning				360000.0	0
+1014	II	Concept/Design Development				360000.0	0
+1014	III	Int. Arch. Information				450000.0	0
+1014	IV	Millwork Drwgs/FF&E Spec				180000.0	0
+1014	V	Dsgn Coord during Site Const & Inst.				90000.00	0
+1014.1	AS	Int. Dsgn Consultant Add Model RM-Standard Twin				20000.00	0
+1014.2	JSC	Job Site Coordination				64073.08	0
+1014.3	JSC	Job Site Coordination				64073.07	0
+1014.4	JSC	Job Site Coordination				64073.07	0
+1014.5	JSC	Job Site Coordination				42721.52	0
+1014.6	JSC	Job Site Coordination				48417.72	0
+1015	DP	Down Payment				265656.6	0
+1015	I	Planning				265656.6	0
+1015	II	Concept/Design Development				265656.6	0
+1015	III	Int. Arch. Information				332070.8	0
+1015	IV	Millwork Drwgs/FF&E Spec				132828.3	0
+1015	V	Degn Coord during Site Const & Inst.				66414.15	0
+1016	DP	Down Payment				179377.2	0
+1016	I	Planning				179377.2	0
+1016	II	Concept/Design Development				179377.2	0
+1016	III	Int. Arch. Information				224221.5	0
+1016	IV	Millwork Drawings & FF&E Spec				89688.58	0
+1016	V	Design Coord During Site Const. & Inst				44844.29	0
+1016.2	DP	DOWN PAYMENT				31898.73	0
+1016.2	I	PLANNING				31898.73	0
+1016.2	II	DESIGN CONCEPT				31898.73	0
+1016.2	III	ARCHITECTURAL INFORMATION				39873.42	0
+1016.2	IV	MILLWORK & SPECS				15949.37	0
+1016.2	V	DESIGN COORD DURING SITE CONST & INST.				7974.68	0
+1017	DP	DOWN PAYMENT				75037.82	0
+1017	I	PLANNING				75037.82	0
+1017	II	DESIGN CONCEPT				75037.82	0
+1017	III	ARCHITECTURAL INFORMATION				93797.28	0
+1017	IV	MILLWORK & SPECS				37518.91	0
+1017	V	TENDER ASSISTANCE				18759.46	0
+1018	DP	Down Payment				207092.3	0
+1018	I	Planning				276123.8	0
+1018	II	Concept/Design Development				276123.8	0
+1018	III	Int. Arch. Information				345153.9	0
+1018	IV	Millwork Drwgs/FF&E Spec				207092.3	0
+1018	V	Design Coord during Site Const & Inst.				69030.78	0
+1019	DP	Down Payment				248623.5	0
+1019	I	Planning				248623.5	0
+1019	II	Concept/Design Development				248623.5	0
+1019	III	Int. Arch. Information				310779.4	0
+1019	IV	Millwork Drwgs/FF&E Spec				124311.8	0
+1019	V	Degn Coord during Site Const & Inst.				62155.89	0
+1020	PP	Pre- Planning				100000.0	0
+1021	DP	Down Payment				81983.01	0
+1021	I	Planning				81983.01	0
+1021	II	Concept/Design Development				81983.01	0
+1021	III	Int. Arch. Information				102478.8	0
+1021	IV	Millwork Drwgs/FF&E Spec				40991.51	0
+1021	V	Degn Coord during Site Const & Inst.				20495.75	0
+1022	DPHR	Down Payment / High Rise				75138.22	0
+1022	DPLR	Down Payment / Low Rise				105453.9	0
+1022	HR1	Planning / High Rise				75138.22	0
+1022	HR2	Concept/Design Development / High Rise				75138.22	0
+1022	HR3	Int. Arch. Information / High Rise				93922.21	0
+1022	HR4	Millwork Drwgs/FF&E Spec / High Rise				37569.49	0
+1022	HR5	Degn Coord during Site Const & Inst. / Low Rise				18783.99	0
+1022	LR1	Planning / Low Rise				105453.9	0
+1022	LR2	Concept/Design Development / Low Rise				105453.9	0
+1022	LR3	Int. Arch. Information / Low Rise				131817.9	0
+1022	LR4	Millwork Drwgs/FF&E Spec / Low Rise				52699.94	0
+1022	LR5	Degn Coord during Site Const & Inst. / Low Rise				26349.22	0
+1022.1	AS	Additional Serv. - 13 Rendering				22768.26	0
+1023	DP	Down Payment				150194.1	0
+1023	I	Planning				150194.1	0
+1023	II	Concept/Design Development				150194.1	0
+1023	III	Int. Arch. Information				187742.6	0
+1023	IV	Millwork Drwgs/FF&E Spec				75097.04	0
+1023	V	Design Coord during Site Const & Inst.				37548.42	0
+1023.1	DP	Down Payment				23019.41	0
+1023.1	I	Planning				23019.41	0
+1023.1	II	Concept/Design Development				23019.41	0
+1023.1	III	Int. Arch. Information				28774.27	0
+1023.1	IV	Millwork Drwgs/FF&E Spec				11509.73	0
+1023.1	V	Design Coord during Site Const & Inst.				5754.85	0
+1025	DP	Down Payment				149941.5	0
+1025	I	Planning				149941.5	0
+1025	II	Design Concept/Development				149941.5	0
+1025	III	Int. Arch. Information				187426.9	0
+1025	IV	Millwork Drwgs/FF&E Spec				74970.77	0
+1025	V	Design Coord during Site Const & Inst.				37485.38	0
+1026	DP	Down Payment				12000.00	0
+1026	I	Planning				18000.00	0
+1026	III	Int. Arch. Information				18000.00	0
+1026	IV	Millwork Drwgs/FF&E Spec				9000.00	0
+1026	V	Design Coord during Site Const & Inst.				3000.00	0
+1027	DP	Down Payment				37406.95	0
+1027	I	Planning				37406.95	0
+1027	II	Design Concept/Development				37406.95	0
+1027	III	Int. Arch. Information				46758.68	0
+1027	IV	Millwork Drwgs/FF&E Spec				18703.47	0
+1027	V	Degn Coord during Site Const & Inst.				9351.73	0
+1102	AS	Additional Service - Redesign Fee				31462.00	0
+1102	DP	Down Payment				226400.0	0
+1102	I	Planning				226400.0	0
+1102	II	Design Concept/Development				226400.0	0
+1102	III	Int. Arch. Information				283000.0	0
+1102	IV	Millwork Drwgs/FF&E Spec				113200.0	0
+1102	V	Degn Coord during Site Const & Inst.				56600.00	0
+1102.1	DP	Down Payment				36903.00	0
+1102.1	I	Planning				36903.00	0
+1102.1	II	Design Concept/Development				36903.00	0
+1102.1	III	Int. Arch. Information				46129.00	0
+1102.1	IV	Millwork Drwgs/FF&E Spec				18452.00	0
+1102.1	V	Degn  Coord during Site Const & Inst..				9226.00	0
+1102.2	DP	Down Payment				27240.00	0
+1102.2	I	Planning				27240.00	0
+1102.2	II	Design Concept/Development				27240.00	0
+1102.2	III	Int. Arch. Information				34050.00	0
+1102.2	IV	Millwork Drwgs/FF&E Spec				13620.00	0
+1102.2	V	Degn  Coord during Site Const & Inst..				6810.00	0
+1102.3	I	Design fee for additional guestrooms types				113000.0	0
+1103	DP	Down Payment				164262.9	0
+1103	I	Planning				164262.9	0
+1103	II	Design Concept/Development				164262.9	0
+1103	III	Int. Arch. Information				205328.6	0
+1103	IV	Millwork Drwgs/FF&E Spec				82131.43	0
+1103	V	Degn Coord during Site Const & Inst.				41065.71	0
+1103.1	DP	Down Payment				135294.2	0
+1103.1	I	Planning				135294.2	0
+1103.1	II	Design Concept/Development				135294.2	0
+1103.1	III	Int. Arch. Information				169117.8	0
+1103.1	IV	Millwork Drwgs/FF&E Spec				67647.11	0
+1104	DP	Down Payment				137768.5	0
+1104	I	Planning				137768.5	0
+1104	II	Design Concept/Development				137768.5	0
+1104	III	Int. Arch. Information				172210.6	0
+1104	IV	Millwork Drwgs/FF&E Spec				68884.23	0
+1104	V	Degn Coord during Site Const & Inst.				34442.10	0
+1105	DP	Down Payment				255699.1	0
+1105	I	Planning				255699.1	0
+1105	II	Design Concept/Development				255699.1	0
+1105	III	Int. Arch. Information				319623.9	0
+1105	IV	Millwork Drwgs/FF&E Spec				127849.6	0
+1105	V	Degn Coord during Site Const & Inst.				63924.76	0
+1105.1	DP	Down Payment				16291.75	0
+1105.1	I	Planning				16291.75	0
+1105.1	II	Concept/Design Development				16291.75	0
+1105.1	III	Int. Arch. Information				20364.68	0
+1105.1	IV	Millwork Drwgs/FF&E Spec				8145.87	0
+1105.1	V	Degn Coord during Site Const & Inst.				4072.94	0
+1105.2	DP	Down Payment				9940.00	0
+1105.2	I	Planning				26231.75	0
+1105.2	II	Design Concept				26231.75	0
+1105.2	III	Architectural Information				32789.68	0
+1105.2	IV	Millwork Drwgs/FF&E Spec				13116.10	0
+1105.2	V	Degn Coord during Site Const & Inst.				6557.71	0
+1105.4	DP	Down Payment				19050.19	0
+1105.4	I	Planning				28575.28	0
+1105.4	III	Int. Arch. Information				33337.83	0
+1105.4	IV	Millwork Drwgs/FF&E Spec				9525.11	0
+1105.4	V	Design Coord. During Construction & Installation				4762.55	0
+1108	DP	Down Payment				172269.3	0
+1108	I	Planning				172269.3	0
+1108	II	Design Concept/Development				172269.3	0
+1108	III	Int. Arch. Information				172269.3	0
+1108	IV	Millwork Drwgs/FF&E Spec				86134.64	0
+1108	V	Degn Coord during Site Const & Inst.				86134.64	0
+1109	DP	Intial Down Payment				63600.00	0
+1109	I	Planning				95400.00	0
+1109	II	Concept/Design Development				95400.00	0
+1109	III	Int. Arch. Information				31800.00	0
+1109	IV	Millwork Drwgs/FF&E Spec -Degn Coord during Site Const & Inst.				31800.00	0
+1112	DP	Down Payment				254565.4	0
+1112	I	Planning				254565.4	0
+1112	II	Concept/Design Development				254565.4	0
+1112	III	Interior Architectural Info. Package				318206.8	0
+1112	IV	Millwork Drawings & FF&E Specifications				127282.7	0
+1112	V	Design Coord. During Construction & Installation				63641.35	0
+1113	DP	Down Payment				236511.9	0
+1113	I	Planning				236511.9	0
+1113	II	Concept/Design Development				236511.9	0
+1113	III	Interior Architectural Info. Package				295639.9	0
+1113	IV	Millwork Drawings & FF&E Specifications				118256.0	0
+1113	V	Design Coord. During Construction & Installation				59127.90	0
+1113.1	DP	DOWN PAYMENT				73670.25	0
+1113.1	I	PLANNING				73670.25	0
+1113.1	II	DESIGN CONCEPT				73670.25	0
+1113.1	III	ARCHITECTURAL INFORMATION				92087.50	0
+1113.1	IV	MILLWORK & SPECS				36834.97	0
+1113.1	V	TENDER ASSISTANCE				18417.41	0
+1114	DP	Down Payment				278988.7	0
+1114	I	Planning				278988.7	0
+1114	II	Concept/Design Development				278988.7	0
+1114	III	Int. Arch. Information				306887.5	0
+1114	IV	Millwork Drwgs/FF&E Spec				139494.3	0
+1114	V	Degn Coord during Site Const & Inst.				111595.5	0
+1115	DP	Down Payment				293419.8	0
+1115	I	Planning				293419.8	0
+1115	II	Design Concept				293419.8	0
+1115	III	Interior Architectural Info. Package				366774.8	0
+1115	IV	Millwork Drawings & FF&E Specifications				146709.9	0
+1115	V	Design Coord. During Construction & Installation				73354.87	0
+1116	DP	Down Payment				57500.00	0
+1116	I	Planning				93150.00	0
+1116	II	Concept/Design Development				93150.00	0
+1116	III	Interior Architectural Information Package				129375.0	0
+1116	IV	Millwork Drawings & FF&E Spec				124200.0	0
+1116	V	Design Coordination During Const. & Inst				77625.00	0
+1116.1	DP	Down Payment				16000.00	0
+1116.1	I	Planning				25920.00	0
+1116.1	II	Concept/Design Development				25920.00	0
+1116.1	III	Interior Architectural Information Package				36000.00	0
+1116.1	V	Design Coordination During Const. & Inst				21600.00	0
+1116.1	VI	Millwork Drawings & FF&E Spec				34560.00	0
+1116.2	DP	Down Payment				28000.00	0
+1116.2	I	Planning				45360.00	0
+1116.2	II	Concept/Design Development				45360.00	0
+1116.2	III	Interior Architectural Information Package				63000.00	0
+1116.2	IV	Millwork Drawings & FF&E Spec				60480.00	0
+1116.2	V	Design Coordination During Const. & Inst				37800.00	0
+1117	DP	Down Payment				189948.6	0
+1117	I	Planning				189948.6	0
+1117	II	Design Concept				189948.6	0
+1117	III	Interior Architectural Info. Package				237435.7	0
+1117	IV	Millwork Drawings & FF&E Specifications				94974.25	0
+1117	V	Design Coord. During Construction & Installation				47487.14	0
+1118	DP	Down Pyament				13540.00	0
+1118	I	Planning				13540.00	0
+1118	II	Concept/Design Development				13540.00	0
+1118	III	Int. Arch. Information				16925.00	0
+1118	IV	Millwork Drwgs/FF&E Spec				6770.00	0
+1118	V	Design Coord. During Construction & Installation				3385.00	0
+1120	DP	Mobilization				133150.7	0
+1120	I	Final Concept Architecture Design				155342.5	0
+1120	II	Schematic Architecture Design				133150.7	0
+1120	III	Document Review				22191.79	0
+1201	DP	Down Payment				34615.38	0
+1201	I	Planning				34615.38	0
+1201	II	Design Concept				34615.38	0
+1201	III	Architectural Information				43269.23	0
+1201	IV	Millwork Drwgs/FF&E Spec				17307.69	0
+1201	V	Degn Coord during Site Const & Inst.				8653.85	0
+1202	DP	Down Pyament				33252.00	0
+1202	I	Planning				16626.00	0
+1202	II	Concept/Design Development				15648.00	0
+1202	III	Int. Arch. Information				21516.00	0
+1202	IV	Millwork Drwgs/FF&E Spec				7824.00	0
+1202	V	Balance				2934.00	0
+1203	DP	Down Payment				222910.1	0
+1203	I	Planning				222910.1	0
+1203	II	Design Concept				222910.1	0
+1203	III	Architectural Information				278637.6	0
+1203	IV	Millwork Drwgs/FF&E Spec				111455.0	0
+1203	V	Degn Coord during Site Const & Inst.				55728.00	0
+1204	DP	Down Payment				12400.00	0
+1204	I	Planning				18600.00	0
+1204	II	Concept/Design Development				18600.00	0
+1204	III	Int. Arch. Information				6200.00	0
+1204	IV	Millwork Drwgs/FF&E Spec				6200.00	0
+1204	V	Degn Coord during Site Const & Inst.				0.00	0
+1205	1FS	Planning -  Full Scope				17820.00	0
+1205	1SR	Planning - Soft Refurbishment				34020.00	0
+1205	2FS	Concept/Design Development -  Full Scope				17820.00	0
+1205	2SR	Concept/Design Development - Soft Refurbishment				34020.00	0
+1205	3FS	Interior Architectural Info Package -  Full Scope				24750.00	0
+1205	3SR	Interior Architectural Info Package - Soft Refurbishment				47250.00	0
+1205	4FS	Millwork Drawings and FF&E Spec -  Full Scope				45360.00	0
+1205	4SR	Millwork Drawings and FF&E Spec - Soft Refurbishment				23760.00	0
+1205	5FS	Design Coordination During Const and Inst - Full Scope				14850.00	0
+1205	5SR	Design Coord During Const & Inst - Soft Refurbishmen				28350.00	0
+1205	DP	Down Payment - Soft Refurbishment				21000.00	0
+1205	DPFS	Down Payment - Full Scope				11000.00	0
+1205.1	1IC	Planning-Internet Café				2754.00	0
+1205.1	2IC	Concept/Design Develop-Internet Café				2754.00	0
+1205.1	2LC	Concept/Design Develop-Lift Cab				1575.00	0
+1205.1	3IC	Int. Arch. Info - Internet Café				3825.00	0
+1205.1	3LC	Int. Arch. Info -Lift Cab				2520.00	0
+1205.1	4IC	Millwork Drwgs/FF&E Spec-Internet Café				3672.00	0
+1205.1	4LC	Millwork Drwgs/FF&E Spec-Lift Cab				1260.00	0
+1205.1	5IC	Design Coord. During Const & Inst-Internet Café				2295.00	0
+1205.1	5LC	Design Coord. During Const & Inst-Lift Cab				945.00	0
+1205.1	DP-IC	Down Pyament-Internet Café				1700.00	0
+1205.1	DP-LC	Down Pyament-Lift Cab				700.00	0
+1205.2	DP	Down Payment				4800.00	0
+1205.2	I	Fact Finding				4320.00	0
+1205.2	II	Concept/Design Development				12960.00	0
+1205.2	III	Specifications				19440.00	0
+1205.2	IV	Dsgn Coordination during Renov. & Inst				6480.00	0
+1206	DP	Down Pyament				69340.00	0
+1206	I	Planning				69340.00	0
+1206	II	Concept/Design Development				69340.00	0
+1206	III	Int. Arch. Information				86675.00	0
+1206	IV	Millwork Drwgs/FF&E Spec				34670.00	0
+1206	V	Design Coord during Site Const & Inst.				17335.00	0
+1207	DP	Down Pyament				11871.79	0
+1207	I	Planning				11871.79	0
+1207	II	Concept/Design Development				17807.69	0
+1207	III	Int. Arch. Information				29679.49	0
+1207	IV	Millwork Drwgs/FF&E Spec				29679.49	0
+1207	V	Degn Coord during Site Const & Inst.				17807.69	0
+1208	DP	Down Payment				9050.00	0
+1209	DP	Down Pyament				45000.00	0
+1209	I	Planning				60000.00	0
+1209	II	Concept/Design Development				60000.00	0
+1209	III	Int. Arch. Information				75000.00	0
+1209	IV	Millwork Drwgs/FF&E Spec				37500.00	0
+1209	V	Design Coord. During Construction & Installation				22500.00	0
+1209.1	DP	Down Pyament				8235.00	0
+1209.1	I	Planning				10980.00	0
+1209.1	II	Concept/Design Development				10980.00	0
+1209.1	III	Int. Arch. Information				13725.00	0
+1209.1	IV	Millwork Drwgs/FF&E Spec				6862.50	0
+1209.1	V	Design Coord. During Construction & Installation				4117.50	0
+1210	DP	Down Pyament				25500.00	0
+1210	I	Planning				41310.00	0
+1210	II	Concept/Design Development				41310.00	0
+1210	III	Int. Arch. Information				57375.00	0
+1210	IV	Millwork Drwgs/FF&E Spec				55080.00	0
+1210	V	Design Coord. During Construction & Installation				34425.00	0
+1210.01	DP	Down Pyament				5000.00	0
+1210.01	I	Planning				3000.00	0
+1210.01	II	Concept/Design Development				4000.00	0
+1210.01	III	Int. Arch. Information				13000.00	0
+1210.1	DP	Down Pyament				16000.00	0
+1210.1	I	Planning				11520.00	0
+1210.1	II	Concept/Design Development				11520.00	0
+1210.1	III	Int. Arch. Information				16000.00	0
+1210.1	IV	Millwork Drwgs/FF&E Spec				15360.00	0
+1210.1	V	Design Coord. During Construction & Installation				9600.00	0
+1210.2	DP	Down Pyament				5000.00	0
+1210.2	I	Planning				3000.00	0
+1210.2	II	Concept/Design Development				4000.00	0
+1210.2	III	Int. Arch. Information				13000.00	0
+1212	DP	Down Pyament				19026.42	0
+1212	I	Planning				19026.42	0
+1212	II	Concept/Design Development				19026.42	0
+1212	III	Int. Arch. Information				23783.02	0
+1212	IV	Millwork Drwgs/FF&E Spec				9513.21	0
+1212	V	Design Coord. During Construction & Installation				4756.60	0
+1213	DP	Down Payment				10800.00	0
+1213	I	Planning				10800.00	0
+1213	II	Design Concept				10800.00	0
+1213	III	Architectural Information				13500.00	0
+1213	IV	Millwork Drwgs/FF&E Spec				5400.00	0
+1213	V	Degn Coord during Site Const & Inst.				2700.00	0
+1214	DP	Down Pyament				19600.00	0
+1214	I	Planning				31752.00	0
+1214	II	Concept/Design Development				31752.00	0
+1214	III	Int. Arch. Information				44100.00	0
+1214	IV	Millwork Drwgs/FF&E Spec				42336.00	0
+1214	V	Design Coord. During Construction & Installation				26460.00	0
+1215	DP	Down Payment				76500.00	0
+1215	I	Planning				137700.0	0
+1215	II	Design Concept				137700.0	0
+1215	III	Architectural Information				191250.0	0
+1215	IV	Millwork Drwgs/FF&E Spec				191250.0	0
+1215	V	Degn Coord during Site Const & Inst.				30600.00	0
+1215.1	DP	DOWN PAYMENT	A	BOB		39500.00	1
+1215.1	I	PLANNING	A	BOB		71100.00	0
+1215.1	II	DESIGN CONCEPT	A	BOB		71100.00	0
+1215.1	III	ARCHITECTURAL INFORMATION	A	BOB		98750.00	0
+1215.1	IV	MILLWORK & SPECS	A	BOB		98750.00	0
+1215.1	V	TENDER ASSISTANCE	A	BOB		15800.00	0
+1215.2	DP	Down Payment				9000.00	0
+1215.2	I	Planning				16200.00	0
+1215.2	II	Design Concept				16200.00	0
+1215.2	III	Architectural Information				22500.00	0
+1215.2	IV	Millwork Drwgs/FF&E Spec				22500.00	0
+1215.2	V	Degn Coord during Site Const & Inst.				3600.00	0
+1216	DP	Down Payment				25000.00	1
+1216	I	Phase I				40500.00	0
+1216	II	Phase II				40500.00	0
+1216	III	Phase III				56250.00	0
+1216	IV	Phase IV				54000.00	0
+1216	V	Phase V				33750.00	0
+1216.9	0DP	Mobilization				100000.0	0
+1216.9	1FCD	Final Concept Design				165000.0	0
+1216.9	2SD	Schematic Design				225000.0	0
+1216.9	3DD	Design Development				275000.0	0
+1216.9	4CD	Construction Documentation				305000.0	0
+1216.9	5T	Tender				30000.00	0
+1216.91	00PMP	Preliminary Master Planning				50000.00	0
+1217	DP	DownPayment - Paradiso Hotel				35000.00	0
+1217	I	Planning - Paradiso Hotel				56700.00	0
+1217	II	Concept/Design Development - Paradiso Hotel				56700.00	0
+1217	III	Int. Arch. Information - Paradiso Hotel				78750.00	0
+1217	IV	Millwork Drwgs/FF&E Spec - Darwin Bay Hotel				75600.00	0
+1217	V	Degn Coord during Site Const & Inst. - Paradiso Hotel				47250.00	0
+1218	DP	Down Payment				244168.8	0
+1218	I	Planning				244168.8	0
+1218	II	Concept/Design Development				244168.8	0
+1218	III	Int. Arch. Information				305211.1	0
+1218	IV	Millwork Drwgs/FF&E Spec				122084.4	0
+1218	V	Design Coord. During Construction & Installation				61042.36	0
+1219	DP	Down Pyament				20000.00	0
+1219	I	Planning				20000.00	0
+1219	II	Concept/Design Development				20000.00	0
+1219	III	Int. Arch. Information				25000.00	0
+1219	IV	Millwork Drwgs/FF&E Spec				10000.00	0
+1219	V	Design Coord. During Construction & Installation				5000.00	0
+1220	DP	Down Pyament				160538.5	0
+1220	I	Planning				160538.5	0
+1220	II	Concept/Design Development				160538.5	0
+1220	III	Int. Arch. Information				200673.1	0
+1220	IV	Millwork Drwgs/FF&E Spec				80269.23	0
+1220	V	Design Coord. During Construction & Installation				40134.62	0
+1221	DF	Design Fee				17000.00	0
+1222	DP	Down Payment				129200.0	0
+1222	I	Planning				213180.0	0
+1222	II	Concept/Design Development				303620.0	0
+1222	III	Int. Arch. Information				193800.0	0
+1222	IV	Millwork Drwgs/FF&E Spec				193800.0	0
+1222	V	Design Coord. During Construction & Installation				258400.0	0
+1223	DP	Down Payment				273392.4	0
+1223	I	Planning				273392.4	0
+1223	II	Design Concept				273392.4	0
+1223	III	Architectural Information				341740.6	0
+1223	IV	Millwork Drwgs/FF&E Spec				136696.2	0
+1223	V	Degn Coord during Site Const & Inst.				68348.11	0
+1225	DP	Down Payment				58069.62	0
+1225	I	Planning				58069.62	0
+1225	II	Concept/Design Development				58069.62	0
+1225	III	Int. Arch. Information				72587.03	0
+1225	IV	Millwork Drwgs/FF&E Spec				29034.81	0
+1225	V	Design Coord. During Construction & Installation				14517.41	0
+1226	DP	Down Payment				43937.45	0
+1226	I	Planning				43937.45	0
+1226	II	Concept/Design Development				43937.45	0
+1226	III	Int. Arch. Information				54921.82	0
+1226	IV	Millwork Drwgs/FF&E Spec				21968.73	0
+1226	V	Design Coord. During Construction & Installation				10948.53	0
+1227	DPM	Multi Bay Suites Mobilization				221204.8	0
+1227	DPT	Tower Suites Mobilization				60252.14	0
+1228	DP	Down Payment				72088.61	0
+1228	I	Planning				72088.61	0
+1228	II	Concept/Design Development				72088.61	0
+1228	III	Int. Arch. Information				90110.76	0
+1228	IV	Millwork Drwgs/FF&E Spec				36044.30	0
+1228	V	Design Coord. During Construction & Installation				18022.15	0
+1229	DP	Down Payment				29113.92	0
+1229	I	Planning				29113.92	0
+1229	II	Concept/Design Development				29113.92	0
+1229	III	Int. Arch. Information				36392.41	0
+1229	IV	Millwork Drwgs/FF&E Spec				14556.96	0
+1229	V	Design Coord. During Construction & Installation				7278.48	0
+1230.9	PMP					100000.0	0
+1231.9	DP	Down Payment - Consultations				50000.00	0
+1232.9	AR	Architecture Services Propsal				475000.0	0
+1232.9	MP	Initial Concept Master Plan				50000.00	0
+1233	DP	Down Payment				351265.8	0
+1233	I	PLANNING				351265.8	0
+1233	II	DESIGN CONCEPT				351265.8	0
+1233	III	ARCHITECTURAL INFORMATION				439082.3	0
+1233	IV	MILLWORK & SPECS				175632.9	0
+1233	V	TENDER ASSISTANCE				87816.46	0
+1234.9	0DP	Mobilization				32000.00	0
+1234.9	1ICMP	Initial Concept Master Plan				60000.00	0
+1234.9	2FMPD	Final Concept Master Plan				68000.00	0
+1235.8	0DP	Mobilization				160136.0	0
+1235.8	1IFCD	Initial & Final Architecture Concept Design				160136.0	0
+1235.8	2SD	Schematic Architecture Design				136115.6	0
+1235.8	3DR	Document Review				24020.41	0
+1236	DP	Down Payment				23465.49	0
+1236	I	Planning				23465.49	0
+1236	II	Design Concept				23465.49	0
+1236	III	Architectural Information				29331.87	0
+1236	IV	Millwork & Specs				11732.75	0
+1236	V	Design Coord. During Construction & Installation				5866.42	0
+1236.1	AR	Architecture Service Proposal				500000.0	0
+1237	DP	Down Payment				85149.61	0
+1237	I	Planning				85149.61	0
+1237	II	Design Concept				85149.61	0
+1237	III	Architectural Information				106437.2	0
+1237	IV	Millwork & Specs				42574.81	0
+1237	V	Design Coord. During Construction & Installation				21287.40	0
+1238	DP	Down Payment				15000.00	1
+1238	I	Phase I				24300.00	0
+1238	II	Phase II				24300.00	0
+1238	III	Phase III				33750.00	0
+1238	IV	Phase IV				32400.00	0
+1238	V	Phase V				20250.00	0
+1238.9	0DP	Mobilization				10500.00	0
+1238.9	1IFCD	Initial & Final Concept Design				27000.00	0
+1238.9	2SD	Schematic Design				20250.00	0
+1238.9	3DD	Design Development				20250.00	0
+1238.9	4CD	Construction Documentation				27000.00	0
+1240	DP	Down Payment				3630.00	0
+1240	I	Fact Finding				3267.00	0
+1240	II	Concept/Design Development				14701.50	0
+1240	III	Specifications				9801.00	0
+1240	IV	Design Coordination During Ren & Inst.				4900.50	0
+1241	DP	Down Payment				3500.00	0
+1241	I	Planning & Design Concept				9450.00	0
+1241	II	Interior Arch Infom Package				7875.00	0
+1241	III	Architectural Details,Millwork Draw & FF&E Spec				7875.00	0
+1241	IV	Design Coord During Site Const & Inst.				6300.00	0
+1301	DP	Down Payment				48416.26	0
+1301	I	Planning				48416.26	0
+1301	II	Design Concept				48416.26	0
+1301	III	Architectural Information				60520.33	0
+1301	IV	Millwork & Specs				24208.13	0
+1301	V	Design Coord. During Construction & Installation				12104.18	0
+1301.1	DP	Down Payment				11772.15	0
+1301.1	II	Planning				5886.08	0
+1301.1	III	Design Concept				7357.60	0
+1301.1	IV	Architectural Information				2943.04	0
+1301.1	V	Millwork & Specs				1471.52	0
+1302	DP	Down Payment				178373.4	0
+1302	I	Planning				178373.4	0
+1302	II	Design Concept				178373.4	0
+1302	III	Architectural Information				178373.4	0
+1302	IV	Millwork & Specs				89187.01	0
+1302	V	Design Coord. During Construction & Installation				89186.72	0
+1305	DP	Down Payment				66082.28	0
+1305	I	Planning				66082.28	0
+1305	II	Design Concept				66082.28	0
+1305	III	Architectural Information				82602.85	0
+1305	IV	Millwork Drwgs/FF&E Spec				33041.14	0
+1305	V	Degn Coord during Site Const & Inst.				16520.47	0
+1306.9	MP	Master Planning Design Services				20000.00	0
+1307	DP	Down Payment				149746.8	0
+1307	I	Planning				149746.8	0
+1307	II	Design Concept				149746.8	0
+1307	III	Architectural Information				187183.5	0
+1307	IV	Millwork Drwgs/FF&E Spec				74873.42	0
+1307	V	Degn Coord during Site Const & Inst.				37436.71	0
+1308	DP	Down Payment				15000.00	0
+1308	I	Fact Finding				13500.00	0
+1308	II	Concept/Design Development				54000.00	0
+1308	III	Specifications				47250.00	0
+1308	IV	Design Coordination During Renovation & Inst				20250.00	0
+1309	DP	DOWN PAYMENT				46730.77	1
+1309	I	PLANNING				46730.77	0
+1309	II	DESIGN CONCEPT				46730.77	0
+1309	III	ARCH. INFORMATION PACKAGE				58413.46	0
+1309	IV	MILLWORK & SPEC				23365.38	0
+1309	V	COORDINATION & INSTATLLATION				11682.69	0
+1310	DP	DOWN PAYMENT				55500.00	0
+1310	I	PLANNING				99900.00	0
+1310	II	DESIGN CONCEPT				99900.00	0
+1310	III	ARCH. INFORMATION PACKAGE				122100.0	0
+1310	IV	MILLWORK & SPEC				122100.0	0
+1310	V	COORDINATION & INSTATLLATION				55500.00	0
+1311	DP	Down Payment				1250.00	0
+1311	I	Fact Finding				1125.00	0
+1311	II	Concept/Design Development				5062.50	0
+1311	III	Specifications				3375.00	0
+1311	IV	Design Coordination during Renovation & Inst				1687.50	0
+1312	1MR	Fact Finding - Model Room				4950.00	0
+1312	1S	Fact Finding - Spa				540.00	0
+1312	2MR	Concept/Design Development - Model Room				22275.00	0
+1312	2S	Concept/Design Development - Spa				2430.00	0
+1312	3MR	Specifications - Model Room				14850.00	0
+1312	3S	Specifications - Spa				1620.00	0
+1312	4MR	Design Coordination during Renovation & Inst. - Model Room				7425.00	0
+1312	4S	Design Coordination during Renovation & Inst. - Spa				810.00	0
+1312	DPMR	Down Payment - Model Room				5500.00	0
+1312	DPS	Down Payment - Spa				600.00	0
+1313	DP	DOWN PAYMENT				21310.13	0
+1313	I	PLANNING				21310.13	0
+1313	II	DESIGN CONCEPT				21310.13	0
+1313	III	ARCH. INFORMATION PACKAGE				26637.66	0
+1313	IV	MILLWORK & SPEC				10655.06	0
+1313	V	COORDINATION & INSTATLLATION				5372.53	0
+1314	DP1	Down Payment- Public Area				22735.00	0
+1314	DP2	Down Payment - Apartments				23765.00	0
+1314	I.2	Planning - Apartments				31686.00	0
+1314	I.I	Planning - Public Area				30314.00	0
+1314	II.1	Design Concept - Public Area				30314.00	0
+1314	II.2	Design Concept - Apartments				31686.00	0
+1314	III.1	Design Development - Public Area				30314.00	0
+1314	III.2	Design Development - Apartments				31686.00	0
+1314	IV.1	Millwork Drawings & FF&E Specs				30314.00	0
+1314	IV.2	Millwork Drawings & FF&E Specs				31686.00	0
+1314	V.1	Design Coord. During Site Const. & Inst				7577.00	0
+1314	V.2	Design Coord. During Site Const. & Inst				7923.00	0
+1315	DP	Down Pyament				60867.09	0
+1315	I	Planning				60867.09	0
+1315	II	Concept/Design Development				60867.09	0
+1315	III	Int. Arch. Information				76083.86	0
+1315	IV	Millwork Drwgs/FF&E Spec				30433.54	0
+1315	V	Design Coord. During Construction & Installation				15216.77	0
+1316	DP	Down Payment				237341.8	0
+1316	I	Planning				237341.8	0
+1316	II	Design Concept				237341.8	0
+1316	III	Architectural Information				296677.2	0
+1316	IV	Millwork & Specs				118670.9	0
+1316	V	Design Coord. During Construction & Installation				59335.40	0
+1317	DP	DOWN PAYMENT				68037.97	0
+1317	III	ARCHITECTURAL INFORMATION				170094.9	0
+1317	IV	MILLWORK & SPECS				85047.47	0
+1317	V	TENDER ASSISTANCE				17009.49	0
+1318	DP	Down Payment				138088.6	0
+1318	I	Planning				138088.6	0
+1318	II	Concept/Design Development				138088.6	0
+1318	III	Int. Arch. Information				172610.8	0
+1318	IV	Millwork Drwgs/FF&E Spec				69044.30	0
+1318	V	Design Coord. During Construction & Installation				34522.15	0
+1319	DP	Down Payment				13721.52	0
+1319	I	Planning				13721.52	0
+1319	II	Concept/Design Development				13721.52	0
+1319	III	Int. Arch. Information				17151.90	0
+1319	IV	Millwork Drwgs/FF&E Spec				6860.76	0
+1319	V	Design Coord. During Construction & Installation				3430.38	0
+1320	DP	Down Payment				43589.74	0
+1320	I	Planning				43589.74	0
+1320	II	Concept/Design Development				43589.74	0
+1320	III	Int. Arch. Information				54487.18	0
+1320	IV	Millwork Drwgs/FF&E Spec				21794.87	0
+1320	V	Design Coord. During Construction & Installation				10897.44	0
+1320.1	DP	Down Payment				30769.23	0
+1320.1	I	Planning				30769.23	0
+1320.1	II	Concept/Design Development				30769.23	0
+1320.1	III	Int. Arch. Information				38461.54	0
+1320.1	IV	Millwork Drwgs/FF&E Spec				15384.62	0
+1320.1	V	Design Coord. During Construction & Installation				7692.31	0
+1321	DP	Down Payment				290526.6	0
+1321	I	Planning				290526.6	0
+1321	II	Design Concept				290526.6	0
+1321	III	Architectural Information				363158.2	0
+1321	IV	Millwork & Specs				145263.3	0
+1321	V	Design Coord. During Construction & Installation				72631.65	0
+1322	DP	Down Pyament				102113.9	0
+1322	I	Planning				102113.9	0
+1322	II	Concept/Design Development				102113.9	0
+1322	III	Int. Arch. Information				127642.4	0
+1322	IV	Millwork Drwgs/FF&E Spec				51056.96	0
+1322	V	Design Coord. During Construction & Installation				25528.48	0
+1323	DP	Down Pyament				22151.90	0
+1323	I	Planning				22151.90	0
+1323	II	Concept/Design Development				22151.90	0
+1323	III	Int. Arch. Information				27689.87	0
+1323	IV	Millwork Drwgs/FF&E Spec				11075.95	0
+1323	V	Design Coord. During Construction & Installation				5537.97	0
+1324	IDS	Interior Design Services				100000.0	0
+1326	DP	Down Payment				118107.6	0
+1326	I	Planning				118107.6	0
+1326	II	Design Concept				118107.6	0
+1326	III	Architectural Information				147634.5	0
+1326	IV	Millwork & Specs				59053.80	0
+1326	V	Design Coord. During Construction & Installation				29526.90	0
+1327	DP	Down Payment				102626.6	0
+1327	I	Planning				76969.94	0
+1327	II	Design Concept				128283.2	0
+1327	III	Architectural Information				128283.2	0
+1327	IV	Millwork & Specs				51265.82	0
+1327	V	Design Coord. During Construction & Installation				25656.65	0
+1328	DP	Down Payment				71282.28	0
+1328	I	Planning				71282.28	0
+1328	II	Design Concept				71282.28	0
+1328	III	Architectural Information				136571.2	0
+1328	IV	Millwork & Specs				35641.14	0
+1328	V	Design Coord. During Construction & Installation				17820.57	0
+1330	DP	Down Payment				253164.6	0
+1330	I	Planning				253164.6	0
+1330	II	Design Concept				253164.6	0
+1330	III	Architectural Information				316455.7	0
+1330	IV	Millwork & Specs				126582.3	0
+1330	V	Design Coord. During Construction & Installation				63291.14	0
+1331	DP	Down Pyament				120253.2	0
+1331	I	Planning				120253.2	0
+1331	II	Concept/Design Development				120253.2	0
+1331	III	Int. Arch. Information				150316.5	0
+1331	IV	Millwork Drwgs/FF&E Spec				60126.58	0
+1331	V	Design Coord. During Construction & Installation				30063.29	0
+200	 	?				0.00	0
+200	NB	NEW BUSINESS DEVELOPMENT	A	MASH	5/7/1996 0:00:00		0
+215.1	 	MARINA SQUARE HOTEL & CASINO				0.00	0
+500	 	THE SOURCE GROUP				0.00	0
+800	 	JIM &  JOHNS PERSONAL PROJECTS				0.00	0
+9007	 	HYATT REGENCY JOHOR BAHRU				0.00	0
+9007	DP	DOWN PAYMENT	A	NAYL		28250.00	1
+9007	I	PHASE I	A	NAYL		84750.00	0
+9007	II	PHASE II	A	NAYL		84750.00	0
+9007	III	PHASE III	A	NAYL		84750.00	0
+9007	IV	PHASE IV	A	NAYL		169500.0	0
+9007	V	PHASE V	A	NAYL		28250.00	0
+9007	VI	PHASE VI	A	NAYL		84750.00	0
+9106	 	HYATT REGENCY PRAGUE				0.00	0
+9107	 	WORLD TRADE CENTER				0.00	0
+9108	 	MERIDIEN HOTEL, CAIRO				0.00	0
+9108	I	MERIDIEN HOTEL, CAIRO	A	BEIN	10/17/1994 0:00:00		0
+9108	III	MERIDIEN HOTEL, CAIRO	A	BEIN	2/23/1995 0:00:00		0
+9108.3	 	MERIDIEN HOTEL, ROYAL SALON				0.00	0
+9109	 	CHATEAU DE BANGKOK/LUMPINI				0.00	0
+9109	DP	DOWN PAYMENT	A	HEIT		30000.00	1
+9109	I	PHASE I	A	HEIT		45360.00	0
+9109	II	PHASE II	A	HEIT		45360.00	0
+9109	III	PHASE III	A	HEIT		34560.00	0
+9109	IV	PHASE IV	A	HEIT		90721.00	0
+9109	VI	CHATEAU DE BANGKOK/LUMPINI	A	HEIT	4/3/1995 0:00:00		0
+9123	 	GRAND HYATT HONG KONG				0.00	0
+9123	DP	DOWN PAYMENT	A	CHEN		4800.00	1
+9123	I	PHASE I	A	CHEN		8640.00	0
+9123	II	PHASE II	A	CHEN		10800.00	0
+9123	III	PHASE III	A	CHEN		15120.00	0
+9123	IV	PHASE IV	A	CHEN		8640.00	0
+9123	V	ADDITIONAL SERVICES	A	CHEN		11500.00	0
+9123	VI	GRAND HYATT HONG KONG	A	CHEN	1/22/1996 0:00:00		0
+9211	 	GRAND HYATT KUALA LUMPUR				0.00	0
+9211	DP	DOWN PAYMENT	A	BEIN		73000.00	1
+9211	I	PLANNING	A	BEIN		91980.00	0
+9211	II	DESIGN CONCEPT	A	BEIN		91980.00	0
+9211	III	ARCHITECTURAL INFORMATION	A	BEIN		137970.0	0
+9211	IV	MILLWORK & SPECS	A	BEIN		164250.0	0
+9211	V	TENDER ASSISTANCE	A	BEIN		26280.00	0
+9211	VI	CONSTRUCTION &  INSTALLATION	A	BEIN		144540.0	0
+9211.1	 	DUTA GRAND HOTELS/ADD. SERVICE				0.00	0
+9211.1	I	PLANNING	A	FY			0
+9211.1	II	DESIGN CONCEPT	A	FY			0
+9211.1	III	ARCHITECTURAL INFORMATION	A	FY			0
+9211.1	IV	MILLWORK & SPECS	A	FY			0
+9211.1	V	TENDER ASSISTANCE	A	FY			0
+9211.1	VI	CONSTRUCTION & INSTALLATION	A	FY			0
+9218	 	HYATT REGENCY, JERUSALEM				0.00	0
+9223	 	PEAK CAFE				0.00	0
+9223	VI	PEAK RESTAURANT	A	CRIS	1/10/1995 0:00:00		0
+9224	 	GREEN BAY RESORT, TAIWAN				0.00	0
+9224	DP	DOWN PAYMENT	A	BEIN		75000.00	1
+9224	I	PHASE I	A	BEIN		40000.00	0
+9224	II	PHASE II	A	BEIN		120000.0	0
+9224	III	PHASE III	A	BEIN		40000.00	0
+9224	IV	PHASE IV	A	BEIN			0
+9224	V	PHASE V	A	BEIN			0
+9225	 	GRAND HYATT KAOHSIUNG				0.00	0
+9225	DP	DOWN PAYMENT	A	PARS		157750.0	1
+9225	I	PLANNING	A	PARS		248456.3	0
+9225	II	DESIGN CONCEPT	A	PARS		248456.3	0
+9225	III	ARCHITECTURAL INFORMATION	A	PARS		312345.0	0
+9225	IV	MILLWORK & SPECS	A	PARS		354937.5	0
+9225	V	TENDER ASSISTANCE	A	PARS		42592.50	0
+9225	VI	CONSTRUCTION & INSTALLATION	A	PARS		212962.5	0
+9228.1	 	GRAND HYATT TAIPEI/IL LEONE				0.00	0
+9228.2	 	GRAND HYATT TAIPEI, CLUB MART				0.00	0
+9228.2	DP	DOWN PAYMENT	A	FLOO		4800.00	1
+9228.2	I	PHASE I	A	FLOO		5285.00	0
+9228.2	II	PHASE II	A	FLOO		5285.00	0
+9228.2	III	PHASE III	A	FLOO		6040.00	0
+9228.2	IV	PHASE IV	A	FLOO		9060.00	0
+9228.2	V	PHASE V	A	FLOO		4530.00	0
+9228.4	 	GRAND HYATT TAIPEI/OTHER AREAS				0.00	0
+9228.4	III	GRAND HYATT TAIPEI/OTHER AREAS	A	FLOO	2/23/1995 0:00:00		0
+9228.5	 	GRAND HYATT TAIPEI/ADDT'L AREA				0.00	0
+9228.5	III	GRAND HYATT TAIPEI/ADDT'L AREA	A	FLOO	2/23/1995 0:00:00		0
+9229	 	HYATT REGENCY DEAD SEA				0.00	0
+9229	DP	DOWN PAYMENT	A	SILV		21600.00	1
+9229	I	PLANNING	A	SILV		52220.00	0
+9229	II	DESIGN CONCEPT	A	SILV		52220.00	0
+9229	III	ARCHITECTURAL INFORMATION	A	SILV		59680.00	0
+9229	IV	MILLWORK & SPECS	A	SILV		74600.00	0
+9229	V	HYATT REGENCY DEAD SEA	A	SILV	11/10/1995 0:00:00		0
+9229	VA	TENDER ASSISTANCE	A	SILV		14920.00	0
+9229	VI	CONSTRUCTION & INSTALLATION	A	SILV		44760.00	0
+9304	 	GRAND HYATT MELBOURNE				0.00	0
+9304	DP	DOWN PAYMENT	A	BEIN		10000.00	1
+9304	I	PLANNING	A	BEIN		18000.00	0
+9304	II	DESIGN CONCEPT	A	BEIN		27000.00	0
+9304	III	ARCHITECTURAL INFORMATION	A	BEIN		36000.00	0
+9304	IV	MILLWORK & SPECS	A	BEIN		9000.00	0
+9304	V	ADDITIONAL SERVICES	A	BEIN		80000.00	0
+9305	 	GRAND HYATT FUKUOKA				0.00	0
+9305	DP	DOWN PAYMENT	A	GUTH		40000.00	1
+9305	I	PLANNING	A	GUTH		101500.0	0
+9305	II	DESIGN CONCEPT	A	GUTH		101500.0	0
+9305	III	ARCHITECTURAL INFORMATION	A	GUTH		127600.0	0
+9305	IV	MILLWORK  & SPECS	A	GUTH		145000.0	0
+9305	V	TENDER ASSISTANCE	A	GUTH		17400.00	0
+9305	VI	CONSTRUCTION & INSTALLATION	A	GUTH		87000.00	0
+9309	 	GUOMAN HOTEL, KUALA LUMPUR				0.00	0
+9309	DP	DOWN PAYMENT	A	HEIT		51576.80	1
+9309	I	PLANNING	A	HEIT		154730.4	0
+9309	II	DESIGN CONCEPT	A	HEIT		154730.4	0
+9309	III	ARCHITECTURAL INFORMATION	A	HEIT		178174.4	0
+9309	IV	MILLWORK & SPECS	A	HEIT		223186.9	0
+9309	V	TENDER ASSISTANCE	A	HEIT		42199.20	0
+9309	VI	CONSTRUCTION & INSTALLATION	A	HEIT		133161.9	0
+9310	 	PARK HYATT ZURICH				0.00	0
+9310	I	PHASE I	A	JEFF	9/19/1994 0:00:00		0
+9310	II	PHASE II	A	JEFF			0
+9310	III	PHASE III	A	JEFF			0
+9310	IV	PHASE IV	A	JEFF			0
+9405	 	MAX MOAR APT				0.00	0
+9405	I	PHASE I	A	HARE			0
+9405	II	PHASE II	A	HARE			0
+9405	III	PHASE III	A	HARE	8/1/1994 0:00:00		0
+9405	IV	PHASE IV	A	HARE			0
+9405	V	PHASE V	A	HARE			0
+9406	 	GRAND HYATT SHANGHAI				0.00	0
+9406	DP	DOWN PAYMENT	A	HEIT		110000.0	1
+9406	I	PLANNING	A	JPH	7/27/1995 0:00:00		0
+9406	I?	PLANNING	A	HEIT		173250.0	0
+9406	II	DESIGN CONCEPT	A	HEIT		173250.0	0
+9406	III	ARCHITECTURAL INFORMATION	A	HEIT		217800.0	0
+9406	IV	MILLWORK & SPECS	A	HEIT		247500.0	0
+9406	V	TENDER ASSISTANCE	A	HEIT		29700.00	0
+9406	VI	CONSTRUCTION & INSTALLATION	A	HEIT		148500.0	0
+9407	 	MANDARIN ORIENTAL, MEXICO CITY				0.00	0
+9407	DP	DOWN PAYMENT	A	GUTH		15900.00	1
+9407	I	PLANNING	A	GUTH		23850.00	0
+9407	II	DESIGN CONCEPT	A	GUTH		23850.00	0
+9407	III	ARCHITECTURAL INFORMATION	A	GUTH		23850.00	0
+9407	IV	MILLWORK & SPECS	A	GUTH		23850.00	0
+9407	V	PHASE V	A	GUTH		23850.00	0
+9407	VI	CONSTRUCTION & INSTALLATION	A	GUTH		23850.00	0
+9408	 	KAOHSIUNG RESTAURANT COMPLEX				0.00	0
+9408	DP	DOWN PAYMENT	A	PARS		25000.00	1
+9408	I	PLANNING	A	PARS		39375.00	0
+9408	II	DESIGN CONCEPT	A	PARS		39375.00	0
+9408	III	ARCHITECTURAL INFORMATION	A	PARS		49500.00	0
+9408	IV	MILLWORK & SPECS	A	PARS		56250.00	0
+9408	V	TENDER ASSISTANCE	A	PARS		6750.00	0
+9408	VI	CONSTRUCTION & INSTALLATION	A	PARS		33750.00	0
+9409	 	PARK  HYATT PARIS				0.00	0
+9409	I	PARK  HYATT PARIS	A	BEIN	7/29/1994 0:00:00		0
+9410	 	NAN-SHA HOTEL, ARCHITECTURAL				0.00	0
+9410	I	PHASE I	A	GUTH		171500.0	0
+9410	II	PHASE II	A	GUTH	8/24/1994 0:00:00	245000.0	0
+9410	III	PHASE III	A	GUTH	8/24/1994 0:00:00	24500.00	0
+9410	IV	PHASE IV	A	GUTH	10/17/1994 0:00:00	49000.00	0
+9410	V	PHASE V	A	GUTH			0
+9411	 	NAN-SHA HOTEL I.D.				0.00	0
+9411	I	PHASE I	A	MASH			0
+9411	II	PHASE II	A	MASH			0
+9411	III	PHASE III	A	MASH			0
+9411	IV	PHASE IV	A	MASH			0
+9411	V	PHASE V	A	MASH			0
+9412	 	HYATT BAKU				0.00	0
+9412	I	PHASE I	A	LHAR			0
+9412	II	PHASE II	A	LHAR			0
+9412	III	PHASE III	A	LHAR			0
+9412	IV	PHASE IV	A	LHAR			0
+9412	V	PHASE V	A	LHAR			0
+9413	 	SHA JIAO ISLAND				0.00	0
+9413	I	PHASE I	A	AS			0
+9413	II	PHASE II	A	AS			0
+9413	III	PHASE III	A	AS			0
+9414	 	HAYMAN ISLAND RESORT				0.00	0
+9414	I	PHASE I	A	PROP			0
+9414	II	PHASE II	A	PROP			0
+9414	III	PHASE III	A	PROP			0
+9414	IV	PHASE IV	A	PROP			0
+9414	V	PHASE V	A	PROP			0
+9415	 	CAIRO HOTEL				0.00	0
+9415	ADD	ADDITIONAL GRAND ROYAL SUITE	A	AS			0
+9415	AS	ADDITIONAL 6 FLOORS	A	AS			0
+9415	I	PH I AB/PLANNING/CONCEPT	A	JEFF		122700.0	0
+9415	IB	IB	A	JEFF	10/2/1995 0:00:00		0
+9415	II	ARCHITECTURAL INFORMATION	A	JEFF		245400.0	0
+9415	III	MILLWORK & SPECS	A	JEFF		286300.0	0
+9415	IV	TENDER/CONSTRUCTION/INSTALL	A	JEFF		163600.0	0
+9415	JSC	NEIL FOWLER/JOB SITE COORDINAT	A	BOB			0
+9415	PA	ADDITIONAL SERV./PULIC AREAS	A	RB			0
+9415	PUR	PURCHASING FEE	A	BOB			0
+9415	T&M	TIME & MATERIALS/GALLERIA	A	AS			0
+9415	V	TENDER ASSISTENCE	A	JEFF	8/13/1998 0:00:00		0
+9415.5	 	CAIRO HOTEL / GALLERIA				0.00	0
+9415.5	AS	GALLERIA FLOW SPACE	A	RB		15000.00	0
+9415.5	I	PH I AB/PLANNING/CONCEPT	A	AS		63375.00	0
+9415.5	II	ARCHITECTURAL INFORMATION	A	AS		126750.0	0
+9415.5	III	MILLWORK & SPECS	A	AS		250400.0	0
+9415.5	IV	TENDER/CONSTRUCTION/INSTALL	A	AS		84500.00	0
+9415.7	 	CAIRO HOTEL / OPERATOR CHANGES				0.00	0
+9415.7	I	PHASE I A/B PLANNING/CONCEPT	A	AIMA		202750.0	0
+9415.7	II	ARCH INFORMATION PACKAGE	A	AIMA		136200.0	0
+9415.7	III	MILLWORK & SPECS	A	AIMA		388950.0	0
+9415.7	IV	COORDINATION & INSTALLATION	A	AIMA		78100.00	0
+9415.8	 	CAIRO HOTEL/GRAND ROYAL SUITE				0.00	0
+9415.8	AS	ADDITIONAL SERVICES	A	RB			0
+9415.8	I	PH I A/B PLANNING/CONCEPT	A	BOB		75000.00	0
+9415.8	II	DESIGN CONCEPT	A	BOB		150000.0	0
+9415.8	III	MILLWORK & SPECS	A	BOB		175000.0	0
+9415.8	IV	COORDINATION & INSTALLATION	A	BOB		100000.0	0
+9415.9	 	TEST FOR CONV				0.00	0
+9415.9	AS	LE ROYAL MERIDIEN NILE/PODIUM	A	RB			0
+9416	 	MANILA BAY				0.00	0
+9416	I	PHASE I	A	ANYE			0
+9416	II	PHASE II	A	ANYE			0
+9416	III	PHASE III	A	ANYE	10/17/1994 0:00:00		0
+9416	IV	PHASE IV	A	ANYE			0
+9416	V	PHASE V	A	ANYE			0
+9417	 	EL FARO, CARTEGENA				0.00	0
+9417	I	PLANNING	A	MASH		1.848e+06	0
+9417	II	DESIGN CONCEPT	A	MASH		264000.0	0
+9417	III	ACH. INFO	A	MASH		79200.00	0
+9417	IV	PHASE IV	A	MASH			0
+9417	V	PHASE V	A	MASH			0
+9417.1	 	HYATT EL FARO DE CARTAGENA(ID)				0.00	0
+9417.1	I	PLANNING	A	RB		60375.00	0
+9417.1	II	DESIGN CONCEPT	A	MASH		60375.00	0
+9417.1	III	ACH. INFO	A	MASH		75900.00	0
+9417.1	IV	MILLWORK & SPECS	A	MASH		86250.00	0
+9417.1	V	TENDER ASSISTANCE	A	MASH		10351.00	0
+9417.1	VI	CONSTR. & iNSTALL.	A	MASH		51750.00	0
+9417.2	 	EL FARO HYATT RESORT				0.00	0
+9417.2	MP	HYATT EL FARO DE CARTEGENA MP	A	MASH			0
+9417.3	 	HYATT EL FARO DE CART. AR / RE				0.00	0
+9417.3	I	PLANNING	A	MASH		123200.0	0
+9417.3	II	DESIGN CONCEPT	A	MASH		176000.0	0
+9417.3	III	ARCHITECTURAL INFORMATION	A	MASH		52800.00	0
+9417.4	 	HYATT EL FARO DE CART.(ID)(RE)				0.00	0
+9417.4	I	PLANNING	A	MASH		40250.00	0
+9417.4	II	DESIGN CONCEPT	A	MASH		40250.00	0
+9417.4	III	ACH. INFO.	A	MASH		50600.00	0
+9417.4	IV	MILLWORK & SPECS	A	MASH		57500.00	0
+9417.4	V	TENDER ASSISTANCE	A	MASH		6900.00	0
+9417.4	VI	CONSTR. & INSTALL.	A	MASH		34500.00	0
+9417.5	 	HYATT EL FARO ID/GOLF/HEALTH				0.00	0
+9417.5	I	PLANNING	A	MASH		48125.00	0
+9417.5	II	DESIGN CONCEPT	A	MASH		48125.00	0
+9417.5	III	ACH. INFO	A	MASH		60500.00	0
+9417.5	IV	MILLWORK & SPECS	A	MASH		68750.00	0
+9417.5	V	TENDER ASSISTANCE	A	MASH		8250.00	0
+9417.5	VI	CONSTRUCTION & INSTALLATION	A	MASH		41250.00	0
+9418	 	NAN-SHA NEW CITY				0.00	0
+9418	I	PHASE I	A	MASH			0
+9418	II	PHASE II	A	MASH			0
+9418	III	PHASE III	A	MASH			0
+9418	IV	PHASE IV	A	MASH			0
+9418	V	PHASE V	A	MASH			0
+9419	 	GH HONG KONG VARIOUS AREAS				0.00	0
+9419	I	PHASE I	A	MISC			0
+9419	II	PHASE II	A	MISC			0
+9419	III	PHASE III	A	MISC			0
+9419	IV	PHASE IV	A	MISC			0
+9419	V	PHASE V	A	MISC			0
+9420	 	PREHRAN, MELBOURNE				0.00	0
+9420	I	PHASE I	A	MASH			0
+9420	II	PHASE II	A	MASH			0
+9420	III	PHASE III	A	MASH			0
+9420	IV	PHASE IV	A	MASH			0
+9420	V	PHASE V	A	MASH			0
+9421	 	LORD JIM'S RESTAURANT				0.00	0
+9421	I	PLANNING	A	MASH			0
+9421	II	DESIGN CONCEPT	A	MASH			0
+9421	III	ARCHITECTURAL INFORMATION	A	MASH			0
+9421	IV	MILLWORK & SPECS	A	MASH			0
+9421	V	CONSTRUCTION & INSTALLATION	A	MASH			0
+9421	VI	PHASE VI	A	MASH			0
+9501	 	CATHEDRAL PLACE				0.00	0
+9501	I	PHASE I	A	MASH			0
+9501	II	PHASE II	A	MASH			0
+9501	III	PHASE III	A	MASH			0
+9501	IV	PHASE IV	A	MASH			0
+9501	V	PHASE V	A	MASH			0
+9501	VI	PHASE VI	A	MASH			0
+9502	 	JOHN GANDELL APARTMENT				0.00	0
+9502	DP	DOWN PAYMENT	A	MASH			0
+9502	I	PLANNING	A	MASH			0
+9502	II	DESIGN CONCEPT	A	MASH			0
+9502	III	ARCHITECTURAL INFORMATON	A	MASH			0
+9502	IV	MILLWORK & SPECS	A	MASH			0
+9502	V	TENDER ASSISTANCE	A	MASH			0
+9502	VI	CONSTRUCTION & INSTALLATION	A	MASH			0
+9503	 	KWOK RESIDENCE				0.00	0
+9503	1	KWOK RESIDENCE	A	OS	11/10/1995 0:00:00		0
+9503	I	PLANNING	A	ENAJ	4/3/1995 0:00:00		0
+9503	II	I	A	AFIF	4/3/1995 0:00:00		0
+9503	III	KWOK RESIDENCE	A	GUTH	6/8/1995 0:00:00		0
+9503	IV	KWOK RESIDENCE,HONG KONG	A	ENAJ	7/28/1995 0:00:00		0
+9503	V	KWOK RESIDENCE	A	OS	12/15/1995 0:00:00		0
+9503	WEN	WENDY KWOK RESIDENCE, HONGKONG	A	AFIF	4/3/1995 0:00:00		0
+9504	 	GOLF CLUB HOUSE, NAN SHA				0.00	0
+9504	I	PLANNING	A	CL	4/17/1996 0:00:00	78750.00	0
+9504	II	DESIGN CONCEPT	A	CL	5/20/1996 0:00:00	112500.0	0
+9504	III	ARCHITECTURAL INFORMATION	A	CL		33750.00	0
+9504	IV	MILL WORK AND SPECS	A	CL	7/23/1997 0:00:00		0
+9504.1	 	NAN SHA / GOLF SCHOOL				0.00	0
+9505	 	Mandarin Oriental, Manila				0.00	0
+9505	1	Mandarin Oriental, Manila	A	FRED	6/8/1995 0:00:00		0
+9505	I	Mandarin Oriental, Manila	A	FRED	5/18/1995 0:00:00		0
+9506	 	CROWN HOTEL				0.00	0
+9506	DP	DOWN PAYMENT	A	DREW		71500.00	1
+9506	I	PLANNING	A	RBOL	7/3/1995 0:00:00	110790.0	0
+9506	II	DESIGN CONCEPT	A	RBOL	7/28/1995 0:00:00	110790.0	0
+9506	III	ARCHITECTURAL INFORMATION	A	RBOL	8/25/1995 0:00:00	117920.0	0
+9506	IV	MILLWORK & SPECS	A	RBOL	11/16/1995 0:00:00	145000.0	0
+9506	V	TENDER ASSISTANCE	A	RBOL	7/24/1996 0:00:00	108000.0	0
+9506	VI	CONSTRUCTION & INSTALLATION	A	RBOL	6/21/1996 0:00:00		0
+9507	 	?				0.00	0
+9507	III	JOHN GANDELL HOUSE, MELBOURNE	A	BB	10/4/1995 0:00:00		0
+9508	 	THE SALCEDO PARK				0.00	0
+9508	DP	DOWN PAYMENT	A	MASH		5700.00	1
+9508	I	PLANNING	A	PROP		9975.00	0
+9508	II	DESIGN CONCEPT	A	PROP	7/28/1995 0:00:00	9975.00	0
+9508	III	ARCHITECTURAL INFORMATION	A	MS	10/4/1995 0:00:00	12540.00	0
+9508	IV	MILLWORK & SPECS	A	MS	10/3/1995 0:00:00	14250.00	0
+9508	V	TENDER ASSISTANCE	A	MASH		1710.00	0
+9508	VI	CONSTRUCTION & INSTALLATION	A	MASH		8550.00	0
+9510	 	Petroleum Building, Shanghai				0.00	0
+9510	I	Petroleum Building, Shanghai	P	PROP	10/3/1995 0:00:00		0
+9511	 	EDWARD TAI HOUSE				0.00	0
+9511	I	PLANNING	A	PARS	7/5/1995 0:00:00		0
+9511	II	DESIGN CONCEPT	A	PARS	7/28/1995 0:00:00		0
+9511	III	ARCHITECTURAL INFORMATION	A	RB	10/23/1995 0:00:00		0
+9511	IV	MILLWORK & SPECS	A	RB	10/4/1995 0:00:00		0
+9511	V	TENDER ASSISTANCE	A	RB	2/27/1996 0:00:00		0
+9512	 	G H HONG KONG REGENCY CLUB ROO				0.00	0
+9512	I	PLANNING	A	MASH			0
+9512	II	DESIGN CONCEPT	A	AIMA	11/16/1995 0:00:00		0
+9512	III	ARCHITECTURAL INFORMATION	A	AIMA	8/24/1995 0:00:00		0
+9512	IV	MILLWORK & SPECS	A	AIMA	10/23/1995 0:00:00		0
+9512	V	TENDER ASSISTANCE	A	AIMA	4/17/1996 0:00:00		0
+9512	VI	CONSTRUCTION & INSTALLATION	A	AIMA	1/23/1996 0:00:00		0
+9513	 	JC MANDARIN				0.00	0
+9513	I	JC MANDARIN, SHANGHAI	A	JOHN	7/20/1995 0:00:00		0
+9513	II	JC MANDARIN	A	MS	10/4/1995 0:00:00		0
+9514	 	GANDELL SHOPPING CENTER				0.00	0
+9515	 	LAGOS DE ALTAMICA,CARTEGENA				0.00	0
+9515	I	LAGOS DE ALTAMICA,CARTEGENA	A	RB	10/4/1995 0:00:00		0
+9515	IV	LAGOS DE ALTAMICA,CARTEGENA	A	RB	1/23/1996 0:00:00		0
+9516	 	INTERNATIONAL GARDENS/NAN SHA				0.00	0
+9516	I	PLANNING	A	ANDR	10/23/1995 0:00:00		0
+9517	 	H. REGENCY GIRARDOT,COLUMBIA				0.00	0
+9517	I	PLANNING	A	BOB	9/29/1995 0:00:00		0
+9517	II	DESIGN CONCEPT	A	MASH			0
+9517	III	ARCHITECTURAL INFORMATION	A	BB	11/17/1995 0:00:00		0
+9518	 	ISHAM ARIFF OFFICE COMPLEX				0.00	0
+9518	I	ISHAM ARIFF OFFICE COMPLEX	A	DP	11/16/1995 0:00:00		0
+9520	 	PARK HYATT BOGOTA				0.00	0
+9520	DP	DOWN PAYMENT	A	MASH		47160.00	1
+9520	I	PLANNING	A	MS	12/7/1995 0:00:00	1.485554e+06	0
+9520	II	DESIGN CONCEPT	A	MS	2/27/1996 0:00:00	212220.0	0
+9520	III	ARCHITECTURAL INFORMATION	A	MS	2/28/1996 0:00:00	63666.00	0
+9521	 	PARK HYATT MELBOURNE				0.00	0
+9521	DP	DOWN PAYMENT	A	MASH		71500.00	1
+9521	I	PLANNING	A	AS	8/25/1995 0:00:00	112613.0	0
+9521	II	DESIGN CONCEPT	A	AS	5/22/1996 0:00:00	112613.0	0
+9521	III	ARCHITECTURAL INFORMATON	A	AS	7/3/1996 0:00:00	141570.0	0
+9521	IV	MILLWORK & SPECS	A	MASH		160875.0	0
+9521	V	TENDER ASSISTANCE	A	MASH		19305.00	0
+9521	VI	CONSTRUCTION & INSTALLATION	A	MASH		96525.00	0
+9603	 	NAN SHA GOLF SCHOOL				0.00	0
+9603	I	PLANNING	A	CLAU	6/21/1996 0:00:00		0
+9603	II	DESIGN CONCEPT	A	CLAU	10/9/1996 0:00:00		0
+9603	III	ARCHITECTURAL INFORMATION	A	CLAU	10/15/1996 0:00:00		0
+9603	IV	MILL WORK AND SPECS	A	RB	7/23/1997 0:00:00		0
+9604	 	GRAND HYATT ERAWAN BANGKOK				0.00	0
+9604	DP	DOWN PAYMENT	A	BB		4600.00	1
+9604	I	PLANNING	A	BB		7245.00	0
+9604	II	DESIGN CONCEPT	A	BB		7245.00	0
+9604	III	ARCHITECTURAL INFORMATION	A	BB	7/24/1996 0:00:00	9108.00	0
+9604	IV	TENDER ASSISTANCE	A	BB	12/13/1996 0:00:00	10350.00	0
+9604	V	TENDER ASSISTANCE	A	MASH		7452.00	0
+9605	 	?				0.00	0
+9605	I	BOCA RATON	A	SM	7/3/1996 0:00:00		0
+9607	 	MR. MAX MOAR APT. CATHEDRAL PL				0.00	0
+9607	1	PLANNING	A	BILK	5/19/1997 0:00:00		0
+9607	I	PLANNING	A	BILK	7/24/1996 0:00:00	30600.00	0
+9607	II	DESIGN CONCEPT	A	MASH		30600.00	0
+9607	III	ARCHITECTURAL INFORMATION	A	MASH		42500.00	0
+9607	IV	MILLWORK & SPECS	A	MASH		40800.00	0
+9607	V	TENDER ASSISTANCE	A	MASH		25500.00	0
+9608	 	LAS PALMAS				0.00	0
+9608	I	LAS PALMAS	A	OL	4/8/1997 0:00:00		0
+9608	V	TENDER ASSISTANCE	A	OL	7/23/1997 0:00:00		0
+9609	 	NAN SHA / GOLF CLUB (ID				0.00	0
+9609	I	PLANNING	A	CLAU		31500.00	0
+9609	II	DESIGN CONCEPT	A	CLAU		31500.00	0
+9609	III	ARCHITECTURAL INFORMATION	A	CLAU		43750.00	0
+9609	IV	MILLWORK & SPECS	A	CLAU		42000.00	0
+9609	V	TENDER ASSISTANCE	A	CLAU		26250.00	0
+9610	 	NAN SHA/ GOLF SCHOOL (ID)				0.00	0
+9610	I	PLANNING	A	CLAU		6300.00	0
+9610	II	DESIGN CONCEPT	A	CLAU		6300.00	0
+9610	III	ARCHITECTURAL INFORMATION	A	CLAU		8750.00	0
+9610	IV	MILLWORK & SPECS	A	CLAU		8400.00	0
+9610	V	TENDER ASSISTANCE	A	CLAU		5250.00	0
+9611	 	NAN SHA/GOLF SCHOOL-VILLAS(ID)				0.00	0
+9611	I	PLANNING	A	CLAU		6300.00	0
+9611	II	DESIGN CONCEPT	A	CLAU		6300.00	0
+9611	III	ARCHITECTURAL INFORMATION	A	CLAU		8750.00	0
+9611	IV	MILLWORK & SPECS	A	CLAU		8400.00	0
+9611	V	TENDER ASSISTANCE	A	CLAU		5250.00	0
+9612	 	TERRAZA MARINA				0.00	0
+9612	DP	DOWN PAYMENT	A	BOB		9000.00	1
+9612	I	PLANNING	A	MASH	9/11/1997 0:00:00		0
+9612	MP	MASTER PLAN	A	BOB		11000.00	0
+9613	 	EURPCARIBE RESORT				0.00	0
+9613	SV	SITE VISIT / MASTER PLAN	A	BOB		1600.00	0
+9614	 	AIGBURTH AND  TAVISTOCK				0.00	0
+9614	DP	DOWN PAYMENT	A	MASH		24500.00	1
+9614	EI	PLANNING/ EXTERIOR	A	HK		15750.00	0
+9614	EII	DESIGN CONCEPT/ EXTERIOR	A	HK		15750.00	0
+9614	I	PLANNING/ INTERIOR	A	MASH		34020.00	0
+9614	II	DESIGN CONCEPTION/ INTERIOR	A	MASH		34020.00	0
+9614	III	ARCHITECTURAL INFOR/ INTERIOR	A	HK		47250.00	0
+9614	IV	MILLWORK & SPECS / INTERIOR	A	HK		45360.00	0
+9614	S3	AIGBURTH SHOWFLAT/ARCH. INFOR	A	HK			0
+9614	SF	AIGBURTH & TAVISTOCK SHOW FLAT	A	BOB			0
+9614	SI	AIGBURTH SHOWFLAT/PLANNING	A	HK			0
+9614	SII	AIGBURTH SHOWFLAT/DESIGN CONC	A	HK			0
+9614	V	TENDER ASSISTANCE/ INTERIOR	A	HK		28350.00	0
+9614	VI	CONSTRUCTION & INSTALLATION	A	MASH	9/28/1998 0:00:00		0
+9615	 	HYATT REGENCY SOMA BAY				0.00	0
+9615	DP	DOWN PAYMENT	A	SILV		37500.00	1
+9615	I	PLANNING	A	SILV		74375.00	0
+9615	II	DESIGN CONCEPT	A	SILV		74375.00	0
+9615	III	ARCHITECTURAL INFORMATION	A	SILV		63750.00	0
+9616	 	BRITANNIA HOTEL				0.00	0
+9616	IV	MILLWORK & SPECS	A	MS	4/27/2000 0:00:00		0
+9617	 	DAMANSARA CITY PROJECT				0.00	0
+9617	DP	DOWN PAYMENT	A	BOB		7000.00	1
+9617	I	PLANNING	A	RB	2/27/1997 0:00:00	11340.00	0
+9617	II	DESIGN CONCEPT	A	BOB		11340.00	0
+9617	III	ARCHITECTURAL INFORMATION	A	BOB		15750.00	0
+9617	IV	MILLWORK & SPECS	A	BOB		15120.00	0
+9617	V	TENDER ASSISTANCE/CONST INSTAL	A	BOB		9450.00	0
+9618	 	MONG KOK PROJECT/H.K.				0.00	0
+9618	AAS	A.ADDITIONAL SERVICES	A	BILK		171000.0	0
+9618	AS	ABORTIVE WORKS PHASE I & II	A	BOB			0
+9618	AW	ADDITIONAL WORKS	A	BOB			0
+9618	DP	DOWN PAYMENT	A	BOB		84000.00	1
+9618	EXT	EXTENSION OF PROFSSIONAL SERV	A	BOB			0
+9618	I	PLANNING	A	RB	2/27/1997 0:00:00	136080.0	0
+9618	II	DESIGN CONCEPT	A	BOB		136080.0	0
+9618	III	ARCHITECTURAL INFORMATION	A	BOB		189000.0	0
+9618	IV	MILLWORK & SPECS	A	BOB		181440.0	0
+9618	JSC	JOB SITE COORDINATOR	A	BILK			0
+9618	V	TENDER / CONSTRUCTION /INSTALL	A	BOB		113400.0	0
+9618	VI	CONSTRUCTION & INSTALLATION	A	RB	10/8/1997 0:00:00		0
+9701	 	JOE SHERRILL RESIDENCE				0.00	0
+9701	I	PLANNING	A	MASH		15000.00	0
+9701	II	DESIGN CONCEPT	A	MASH		22500.00	0
+9701	III	ARCHITECTURAL INFORMATION	A	MASH		12500.00	0
+9701	IV	JOE SHERRILL RESIDENCE	A	RB	8/30/1997 0:00:00		0
+9702	 	ORCHARD HOTEL-SINGAPORE				0.00	0
+9702	I	PLANNING	A	RB	5/19/1997 0:00:00		0
+9702	II	CONCEPT DESIGN	A	RB	5/19/1997 0:00:00		0
+9702	IV	MILL WORK & SPECS	A	RB	7/23/1997 0:00:00		0
+9702	V	TENDER ASSISTANCE	A	RB	7/23/1997 0:00:00		0
+9703	 	DAMANSARA HOTEL, KUALA LUMPUR				0.00	0
+9703	I	PHASE I	A	MASH			0
+9703	II	PHASE II	A	MASH			0
+9703	III	PHASE III	A	MASH			0
+9703	TM	TIME & MATERIAL	A	JPH		50000.00	0
+9705	 	RITZ-CARLTON HOTEL				0.00	0
+9705	I	PLANNING	A	BOB			0
+9705	II	DESIGN CONCEPT	A	BOB			0
+9705	III	ARCHITECTURAL INFORMATION	A	BOB			0
+9705	IV	MILLWORK & SPECS	A	BOB			0
+9705	V	TENDER/CONSTRUCTION/INSTALL	A	BOB			0
+9706	 	VEERASWAMY RESTAURANT				0.00	0
+9706	DP	DOWN PAYMENT	A	CLAU		5000.00	1
+9706	I	PLANNING	A	CLAU		8100.00	0
+9706	II	DESIGN CONCEPT	A	CLAU		8100.00	0
+9706	III	ARCHITECTURAL INFORMATION	A	CLAU		11250.00	0
+9706	IV	MILLWORK & SPECS	A	CLAU		10800.00	0
+9706	V	TENDER/CONSTRUCTION/INSTALL	A	CLAU		6750.00	0
+9706	VI	CONSTRUCTION & INSTALLATION	A	RB	7/21/1998 0:00:00		0
+9707	 	GRAND BAHAMA RESORT				0.00	0
+9707	I	PLANNING	A	PARS	4/11/1997 0:00:00		0
+9707	II	DESIGN CONCEPT	A	PARS			0
+9707	III	ARCHITECTURAL INFORMATION	A	PARS			0
+9707	IV	MILLWORK & SPECS	A	PARS			0
+9707	V	TENDER/CONSTRUCTION/INSTALLAT	A	PARS			0
+9708	 	HYATT REGENCY PERTH				0.00	0
+9708	I	PLANNING	A	JPH	4/16/1997 0:00:00		0
+9708	II	DESIGN CONCEPT	A	JPH			0
+9708	III	ARCHITECTURAL INFORMATION	A	JPH			0
+9708	IV	MILLWORK & SPECS	A	JPH			0
+9708	V	TENDER/CONSTRUCTON/INSTALL	A	JPH			0
+9709	 	LE ST. GERAN HOTEL, MAURITIUS				0.00	0
+9709	DP	DOWN PAYMENT	A	RB			0
+9709	I	PLANNING	A	RB	5/6/1997 0:00:00		0
+9709	II	CONCEPT   DESIGN	A	RB	5/19/1997 0:00:00		0
+9709	III	ARCHITECTURAL INFORMATION	A	RB			0
+9709	IV	MILLWORK & SPECS	A	RB			0
+9709	V	TENDER ASSISTANCE	A	RB			0
+9709	VI	CONSTRUCTION & INSTALLATION	A	RB			0
+9710	 	LE COCO BEACH, MAURITIUS				0.00	0
+9710	DP	DOWNPAYMENT	A	JPH			0
+9710	I	PLANNING	A	JPH			0
+9710	II	DESIGN CONCEPT	A	JPH			0
+9710	III	ARCHITECTURAL INFORMATION	A	JPH			0
+9710	IV	MILLWORK & SPECS	A	JPH			0
+9710	V	TENDER ASSISTANCE	A	JPH			0
+9711	 	LE TOUESSROCK HOTEL, MAURITIUS				0.00	0
+9711	DP	DOWNPAYMENT	A	JPH			0
+9711	I	PLANNING	A	JPH			0
+9711	II	DESIGN CONCEPT	A	JPH			0
+9711	III	ARCHITECTURAL INFORMATION	A	JPH			0
+9711	IV	MILLWORK & SPECS	A	JPH			0
+9711	V	TENDER ASSISTANCE	A	JPH			0
+9712	 	JIADA PLAZA HOTEL KUNMING				0.00	0
+9712	DP	DOWN PAYMENT	A	BOB		87520.00	1
+9712	I	PLANNING	A	BOB		141782.4	0
+9712	II	DESIGN CONCEPT	A	BOB		141782.4	0
+9712	III	ARCHITECTURAL INFORMATION	A	BOB		196920.0	0
+9712	IV	MILLWORK & SPECS	A	BOB		189043.2	0
+9712	V	TENDER ASSISTANCE	A	BOB		118152.0	0
+9714	 	9614ING ORIENTAL PLAZA, CHINA				0.00	0
+9714	AS	ADDITIONAL SERVICES	A	BILK		94500.00	0
+9714	CSU	CONSTRUCTION SUPERVISOR	A	RB		264000.0	0
+9714	DP	BEIJING ORIENTAL PLAZA, CHINA	A	BILK	8/17/1999 0:00:00		0
+9714	G&S	GRAPHICS & SIGNAGE	A	RB		76992.50	0
+9714	I	PLANNING	A	RB	10/10/1997 0:00:00	139250.0	0
+9714	I?	PLANNING	A	RB	10/10/1997 0:00:00		0
+9714	II	DESIGN CONCEPT	A	RB		106500.0	0
+9714	III	ARCHITECTURAL INFORMATION	A	RB		254020.0	0
+9714	IV	MILLWORK & SPECS	A	RB		67000.00	0
+9714	V	TENDER ASSISTANCE	A	BILK	7/21/1998 0:00:00	321140.2	0
+9714	VI	CONSTRUCTION & INSTALLATION	A	RB		350748.8	0
+9714	VII	COORDINATION	A	RB		594127.8	0
+9715	 	THE RENAISSANCE HOTEL				0.00	0
+9715	AS	ADDITIONAL SERVICES	A	BOB			0
+9715	DP	DOWN PAYMENT	A	BOB		5500.00	1
+9715	I	PLANNING	A	BOB		8910.00	0
+9715	II	DESIGN CONCEPT	A	BOB		8910.00	0
+9715	III	ARCHITECTURAL INFORMATION	A	BOB		12375.00	0
+9715	IV	MILLWORK & SPECS	A	BOB		11880.00	0
+9715	V	CONSTRUCTION & INSTALLATION	A	BOB		7425.00	0
+9715	VI	CONSTRUCTION & INSTALLATION	A	BOB	9/23/1998 0:00:00		0
+9716	 	HYATT REGENCY CALCUTTA				0.00	0
+9716	AS	Additional Service	A	BOB	4/25/2003 0:00:00		0
+9716	DP	DOWN PAYMENT	A	BOB		44000.00	1
+9716	I	Planning	A	RB		71280.00	0
+9716	II	DESIGN CONCEPT	A	BOB		71280.00	0
+9716	III	ARCHITECTURAL INFORMATION	A	BOB		99000.00	0
+9716	IP	PLANNING	A	BOB			0
+9716	IV	MILLWORK & SPECS	A	BOB		95040.00	0
+9716	V	TENDER ASSISTANCE	A	BOB		59400.00	0
+9716.1	 	?				0.00	0
+9716.1	AS	Additional Service	A	BILK	4/25/2003 0:00:00		0
+9717	 	HYATT REGENCY BOMBAY, INDIA				0.00	0
+9717	AS	ADDITIONAL SERVICES	A	BOB			0
+9717	DP	DOWN PAYMENT	A	BOB		54500.00	1
+9717	I	PLANNING	A	BOB		88290.00	0
+9717	II	DESIGN CONCEPT	A	BOB		88290.00	0
+9717	III	ARCHITECTURAL INFORMATION	A	BOB		122625.0	0
+9717	IV	MILLWORK & SPECS	A	BOB		117720.0	0
+9717	S1	PLANNING	A	BOB			0
+9717	S2	DESIGN CONCEPT	A	BOB			0
+9717	S3	ARCHITECTURAL INFORMATION	A	BOB			0
+9717	S4	MILLWORK & SPECS	A	BOB			0
+9717	V	TENDER  ASSISTANCE	A	BOB		73575.00	0
+9717.1	 	?				0.00	0
+9717.1	AS	Additional Services	A	BILK	12/10/2002 0:00:00		0
+9718	 	KIA PENG PENTHOUSE				0.00	0
+9718	DP	DOWN PAYMENT	A	BOB			0
+9718	I	PLANNING	A	BOB			0
+9718	II	DESIGN CONCEPT	A	BOB			0
+9718	III	ARCHITECTURAL INFORMATION	A	BOB			0
+9718	IV	MILLWORK & SPECS	A	BOB			0
+9718	V	TENDER ASSISTANCE	A	BOB			0
+9719	 	HONG KONG STATION RESTAURANT				0.00	0
+9719	I	PLANNING	A	RB			0
+9719	II	DESIGN CONCEPT	A	RB			0
+9719	III	ARCHITECTURAL INFORMATION	A	RB			0
+9719	IV	MILLWORK & SPECS	A	RB			0
+9719	V	TENDER ASSISTANCE	A	RB			0
+9719	VI	CONSTRUCTION & INSTALLATION	A	RB			0
+9720	 	SUN HONG KAI ITALIAN				0.00	0
+9720	I	PLANNING	A	RB	10/10/1997 0:00:00		0
+9720	II	SUN HONG KAI ITALIAN	A	RB	9/29/1997 0:00:00		0
+9720	III	ARCHITECTURAL INFORMATION	A	RB	2/26/1998 0:00:00		0
+9720	IV	MILLLWORK & SPECS	A	RB	4/3/1998 0:00:00		0
+9720	V	TENDER ASSISTANCE	A	RB	7/20/1998 0:00:00		0
+9720	VI	CONSTRUCTION & INSTALLATION	A	RB	12/7/1998 0:00:00		0
+9721	 	SUN  HUNG KAI ITALIAN REST.				0.00	0
+9721	I	PLANNING	A	JPH	9/29/1997 0:00:00		0
+9721	II	DESIGN CONCEPT	A	JPH	9/29/1997 0:00:00		0
+9721	III	ARCHITECTURAL INFORMATION	A	JPH			0
+9721	IV	MILLWORK & SPECS	A	JPH			0
+9721	V	TENDER ASSISTANCE	A	JPH			0
+9721	VI	CONSTRUCTION & INSTALLATION	A	JPH			0
+9722	 	RITZ CARLTON SHANGHAI				0.00	0
+9722	DP	DOWN PAYMENT	A	RB		27000.00	1
+9722	I	PLANNING	A	RB		43740.00	0
+9722	II	DESIGN CONCEPT	A	RB		43740.00	0
+9722	III	ARCHITECTURAL INFORMATION	A	RB		60750.00	0
+9722	IV	MILLWORK & SPECS	A	RB		58320.00	0
+9722	V	TENDER ASSISTANCE	A	RB		36450.00	0
+9722	VI	CONSTRUCTION & INSTALOLATION	A	RB			0
+9723	 	MARCO POLO SHANGHAI, CHINA				0.00	0
+9723	DP	DOWN PAYMENT	A	RB			0
+9723	I	PLANNING	A	RB			0
+9723	II	DESIGN CONCEPT	A	RB			0
+9723	III	ARCHITECTURAL INFORMATION	A	RB			0
+9723	IV	MILLWORK & SPECS	A	RB			0
+9723	V	TENDER ASSISTANCE	A	RB			0
+9723	VI	CONSTRUCTION & INSTALLATION	A	RB			0
+9724	 	HWANG GANG LAKE GOLF CLUBHOUSE				0.00	0
+9724	DP	DOWN PAYMENT	A	RB			0
+9724	I	PLANNING	A	RB			0
+9724	II	DESIGN CONCEPT	A	RB			0
+9724	III	ARCHITECTURAL INFORMATION	A	RB			0
+9724	IV	MILLWORK & SPECS	A	RB			0
+9724	SR	Site Representative	A	RB			0
+9724	V	TENDER ASSISTANCE	A	RB			0
+9724	VI	CONSTRUCTION & INSTALLATION	A	RB			0
+9725	 	BELLE BAY SHANGHRI-LA, PHILIPP				0.00	0
+9725	DP	DOWN PAYMENT	A	RB			0
+9725	I	PLANNING	A	RB			0
+9725	II	DESIGN CONCEPT	A	RB			0
+9725	III	ARCHITECTURAL INFORMATION	A	RB			0
+9725	IV	MILLWORK & SPECS	A	RB			0
+9725	V	TENDER ASSISTANCE	A	RB			0
+9725	VI	CONSTRUCTION & MILLWORK	A	RB			0
+9726	 	HYATT REGENCY HSINCHU, TAIWAN				0.00	0
+9726	DP	DOWN PAYMENT	A	BOB		30000.00	1
+9726	I	PLANNING	A	RB		47250.00	0
+9726	II	DESIGN CONCEPT	A	RB		47250.00	0
+9726	III	ARCHITECTURAL INFORMATION	A	RB		67500.00	0
+9726	IV	MILLWORK & SPECS	A	RB		67500.00	0
+9726	V	TENDER ASSISTANCE	A	RB		40500.00	0
+9726	VI	CONSTRUCTION & INSTALLATION	A	RB			0
+9727	 	PARK HYATT ROATAN,HONDURAS				0.00	0
+9727	DP	DOWN PAYMENT	A	BOB			0
+9727	I	PLANNING	A	RB			0
+9727	II	DESIGN CONCEPT	A	RB			0
+9727	III	ARCHITECTURAL INFORMATION	A	RB			0
+9727	IV	MILLWORK & SPECS	A	RB			0
+9727	V	TENDER ASSISTANCE	A	RB			0
+9727	VI	CONSTRUCTION & INSTALLATION	A	RB			0
+9728	 	HYATT REGENCY, PANAMA				0.00	0
+9728	I	PLANNING	A	RB			0
+9728	II	DESIGN CONCEPT	A	RB			0
+9728	III	ARCHITECTURAL INFORMATION	A	RB			0
+9728	IV	MILLWORK & SPECS	A	RB			0
+9728	V	TENDER ASSISTANCE	A	RB			0
+9728	VI	CONSTRUCTION & INSTALLATION	A	RB			0
+9729	 	TAGAYTAY RESORT & SPA,PHILIPPI				0.00	0
+9729	I	PLANNING	A	RB			0
+9729	II	DESIGN CONCEPT	A	RB			0
+9729	III	ARCHITECTURAL INFORMATION	A	RB			0
+9729	IV	MILLWORK & SPECS	A	RB			0
+9729	V	TENDER ASSISTANCE	A	RB			0
+9729	VI	CONSTRUCTION & INSTALLATION	A	RB			0
+9730	 	?				0.00	0
+9730	I	PLANNING	A	JPH	4/3/1998 0:00:00		0
+9730	III	ARCHITECTURAL INFORMATION	A	JPH	6/18/1998 0:00:00		0
+9731	 	KCRC HOTEL				0.00	0
+9731	DP	DOWN PAYMENT	A	RB		110076.9	1
+9731	EOD	END OF DEFEC.	A	RB		55038.46	0
+9731	I	PLANNING	A	RB		110076.9	0
+9731	II	DESIGN CONCEPT	A	RB		110076.9	0
+9731	III	DESIGN DEVELOPMENT	A	RB		110076.9	0
+9731	IV	MODEL ROOM PACKAGE	A	RB		55038.46	0
+9731	V	ARCHITECTURAL INFORMATION	A	RB		220153.8	0
+9731	VI	MILLWORK & SPECS	A	RB		220153.8	0
+9731	VII	CONSTRUCTION ADMINISTRATION	A	RB		110076.9	0
+9801	 	HYATT CHONGQING				0.00	0
+9801	I	PLANNING	A	RB	7/22/1998 0:00:00		0
+9802	 	CHEUNG KONG CENTRE				0.00	0
+9802	DP	DOWN PAYMENT	A	BOB			0
+9802	I	PLANNING	A	BOB			0
+9802	II	DESIGN CONCEPT	A	BOB			0
+9802	III	ARCHITECTURAL INFORMATION	A	BOB			0
+9802	IV	MILLWORK & SPECS	A	BOB			0
+9802	V	TENDER ASSISTANCE	A	BOB			0
+9802	VI	CONSTRUCTION & INSTALLATION	A	BOB			0
+9803	 	MAKATI SHANGRI-LA HOTEL				0.00	0
+9803	DP	DOWN PAYMENT	A	HK		3360.00	1
+9803	I	INITIAL CONCEPT	A	HK		11760.00	0
+9803	II	FINAL CONCEPT	A	HK		5040.00	0
+9803	III	SPECIFICATIONS	A	HK		8400.00	0
+9803	IV	SITE CONSTR. & INSTALLATION	A	HK		5040.00	0
+9803	V	TENDER ASSISTENCE	A	HK	12/16/1998 0:00:00		0
+9804	 	CITIC PACIFIC OFFICE REFUR				0.00	0
+9804	I	PLANNING	A	HK			0
+9804	II	DESIGN CONCEPT	A	HK			0
+9804	III	ARCHITECTURAL INFORMATION	A	HK			0
+9804	IV	MILLWORK & SPECS	A	HK			0
+9804	V	TENDER ASSISTANCE	A	HK			0
+9804	VI	CONSTRUCTION & INSTALLATION	A	HK			0
+9805	 	101 CLEMATIS				0.00	0
+9805	I	PLANNING	A	BOBF	7/21/1998 0:00:00		0
+9805	II	DESIGN CONCEPT	A	BOBF	6/21/2000 0:00:00		0
+9806	 	ONE NORTH CLEMATIS STREET				0.00	0
+9806	I	DESIGN CONCEPT	A	FLOO			0
+9806	II	ARCHITECTURAL INFORMATION	A	FLOO			0
+9807	 	SHERATON STOCKHOLM				0.00	0
+9807	DP	DOWN PAYMENT	A	GRAE		18000.00	1
+9807	I	INITIAL CONCEPT	A	GRAE		24300.00	0
+9807	II	FINAL CONCEPT	A	GRAE		24300.00	0
+9807	III	SPECIFICATIONS	A	GRAE		81000.00	0
+9807	IV	CONSTRUCTION & INSTALLATION	A	GRAE		32400.00	0
+9807	V	TENDER ASSISTANCE	A	GRAE			0
+9807	VI	SHERATON HOTEL, STOCKHOLM	A	BILK			0
+9808	 	SAFARI RESORT				0.00	0
+9808	I	PLANINNING	A	RB	6/16/1998 0:00:00		0
+9809	 	ACROPOLIS MALL				0.00	0
+9809	V	TENDER ASSISTANCE	A	FS	7/21/1998 0:00:00		0
+9810	 	PARK HYATT, MENDOZA, ARGENTINA				0.00	0
+9810	AS	ADD SERV/ SNACK RESTAURANT	A	RB		12000.00	0
+9810	DP	DOWN PAYMENT	A	BOB		49900.00	1
+9810	I	PLANNING	A	RB	8/13/1998 0:00:00	67365.00	0
+9810	II	DESIGN CONCEPT	A	RB	9/23/1998 0:00:00	67365.00	0
+9810	III	ARCHITECTURAL INFORMATION	A	RB		125748.0	0
+9810	IV	MILLWORK & SPECS	A	RB		121257.0	0
+9810	SP	SCHEMATIC  PLANNING	A	BOB			0
+9810	V	TENDER ASSISTANCE	A	RB		67365.00	0
+9811	 	HYATT REGENCY, NEW DELHI,INDIA				0.00	0
+9811	I	PLANNING	A	RB	6/17/1999 0:00:00	25750.00	0
+9811	II	DESIGN CONCEPT	A	RB	6/11/1999 0:00:00	25750.00	0
+9811	III	ARCHITECTURAL INFORMATION	A	RB	1/26/1999 0:00:00		0
+9811	IV	MILLWORK & SPECS	A	RB	7/23/1999 0:00:00		0
+9811.1	 	HR  DELHI, INDIAN RESTAURAN				0.00	0
+9811.1	I	PLANNING & CONCEPT	A	RB			0
+9811.1	II	DOCUMENTATION	A	RB			0
+9811.2	 	HR DELHI/TYPICAL GUEST ROOM				0.00	0
+9811.2	I	PLANNING & CONCEPT	A	RB			0
+9811.2	II	DOCUMENTATION	A	RB			0
+9811.3	 	HR DELI/BOARDROOM & CREW LOUNG				0.00	0
+9811.3	I	PLANNING & CONCEPT	A	RB			0
+9811.3	II	DOCUMENTATION	A	RB			0
+9812	 	GRAND HOTEL EXCELSIOR,MALTA				0.00	0
+9812	I	PLANNING	A	GA	9/23/1998 0:00:00		0
+9812	II	DESIGN CONCEPT	A	GA	2/16/1999 0:00:00		0
+9813	 	G.V.K. REDDY RESIDENCE				0.00	0
+9813	DP	DOWN PAYMENT	A	RB		13500.00	1
+9813	I	PLANNING	A	RB		30375.00	0
+9813	II	DESIGN CONCEPT	A	RB		30375.00	0
+9813	III	ARCHITECTURAL INFORMATION	A	RB		30375.00	0
+9813	IV	MILLWORK & SPECS	A	RB		30375.00	0
+9815	 	HYATT REGENCY COCONUT POINT				0.00	0
+9815	I	PLANNING	A	MS			0
+9815	II	DESIGN CONCEPT	A	MS			0
+9815	III	ARCHITECTURAL INFORMATION	A	MS			0
+9815	IV	MILLWORK & SPECS	A	MS			0
+9815	V	TENDER ASSISTENCE	A	MS			0
+9815	VI	COSTRUCTION & INSTALLATION	A	MS			0
+9816	 	LAKE WORTH BEACH ENHANCEMENT				0.00	0
+9816	I	PLANNING	A	RB	12/8/1998 0:00:00		0
+9816	IV	LAKE WORTH BEACH ENHANCEMENT	A	RB	6/11/1999 0:00:00		0
+9817	 	CARLYLE HOTEL				0.00	0
+9817	AS	Additional Services	A	RB			0
+9817	DP	DOWN PAYMENT	A	RB		21000.00	1
+9817	I	PLANNING	A	RB		34020.00	0
+9817	II	DESIGN CONCEPT	A	RB		34020.00	0
+9817	III	ARCHITECTURAL INFORMATION	A	RB		47250.00	0
+9817	IV	MILLWORK &  SPECS	A	RB		45360.00	0
+9817	V	TENDER ASSISTANCE	A	RB		28350.00	0
+9817	VI	CONSTRUCTION & INSTALLATION	A	RB			0
+9822	 	LE PALAIS SHOW HOUSE				0.00	0
+9822	I	PLANNING	A	HK	7/21/1999 0:00:00		0
+9822	II	DESIGN CONCEPT	A	HK	6/11/1999 0:00:00		0
+9822	III	ARCHITECTURAL INFORMATION	A	HK	6/11/1999 0:00:00		0
+9822	IV	MILLWORK & SPECS	A	HK	7/21/1999 0:00:00		0
+9823	 	PRESIDENTS COUNTRY CLUB				0.00	0
+9823	II	DESIGN CONCEPT	A	RB	6/11/1999 0:00:00		0
+9823	III	ARCHITECTURAL INFORMATION	A	RB	6/17/1999 0:00:00		0
+9823	IV	MILLWORK & SPECS	A	RB	9/1/1999 0:00:00		0
+9824	 	MANDARIN HOTEL, SINGAPORE				0.00	0
+9901	 	BROOK HOUSE APARTMENT				0.00	0
+9901	DP	Down Payment	A	ROL		59400.00	1
+9901	I	Planning	A	ROL		20460.00	0
+9901	II	Design Concept	A	ROL		40920.00	0
+9901	III	DESIGN CONCEPT	A	ROL		30690.00	0
+9901	IV	MILLWORK & SPECS	A	ROL		30690.00	0
+9901	V	TENDER ASSISTENCE	A	ROL		20460.00	0
+9901	VI	CONSTRUCTION & INSTALLATION	A	ROL		61380.00	0
+9902	 	HYATT REGENCY PANAMA				0.00	0
+9902	DP	DOWN PAYMENT	A	BOB		56000.00	1
+9902	I	PLANNING	A	BOB		90720.00	0
+9902	II	DESIGN CONCEPT	A	BOB		90720.00	0
+9902	III	ARCHITECTURAL INFORMATION	A	BOB		126000.0	0
+9902	IV	MILLWORK & SPECS	A	BOB		120960.0	0
+9902	V	TENDER ASSISTANCE	A	BOB		75600.00	0
+9903	 	MOSCOW HOTEL				0.00	0
+9903	DP	PRELIMINARY DESIGN SERVICES	A	BOB		77500.00	1
+9903	I	PLANNING	A	BOB		125550.0	0
+9903	II	DESIGN CONCEPT	A	BOB		125550.0	0
+9903	III	ARCHITECTURAL INFORMATION	A	BOB		174375.0	0
+9903	IV	MILLWORK & SPECS	A	BOB		167400.0	0
+9903	V	TENDER ASSISTANCE	A	BOB		104625.0	0
+9904	 	PRINCE OF WALES/VICEROY-H.K.				0.00	0
+9904	I	PLANNING	A	RB	8/24/1999 0:00:00		0
+9904	II	DESIGN CONCEPT	A	RB	8/12/1999 0:00:00		0
+9904	III	ARCHT. INF. PACKAGE	A	RB	5/16/2000 0:00:00		0
+9905	 	HYATT REGENCY SANTIAGO				0.00	0
+9905	DP	DOWN PAYMENT	A	BOB		18000.00	1
+9905	I	PLANNING	A	BOB		29160.00	0
+9905	II	DESIGN CONCEPT	A	BOB		29160.00	0
+9905	III	ARCHITECTURAL INFORMATION	A	BOB		40500.00	0
+9905	IV	MILLWORK & SPECS	A	BOB		38880.00	0
+9905	V	TENDER ASSISTANCE	A	BOB		24300.00	0
+9906	 	PARK HYATT BUENOS AIRES, ARGEN				0.00	0
+9907	 	STRANDVAGEN				0.00	0
+9907	DP	DOWN PAYMENT	A	BOB		19862.50	1
+9907	I	PLANNING	A	BOB		16200.00	0
+9907	II	DESIGN CONCEPT	A	BOB		40500.00	0
+9907	III	ARCHITECTURAL INFORMATION	A	BOB		47812.50	0
+9907	IV	MILLWORK & SPECS	A	BOB		40500.00	0
+9907	V	TENDER ASSISTANCE	A	BOB		33750.00	0
+9908	 	HONTA HOTEL				0.00	0
+9909	 	Great Eagle Hotel Ball/Meeting				0.00	0
+9909	DP	DOWN PAYMENT	A	BOB		2300.00	1
+9909	I	PLANNING	A	BOB		3622.50	0
+9909	II	DESIGN CONCEPT	A	BOB		3622.50	0
+9909	III	ARCHITECTURAL INFORMATION	A	BOB		5175.00	0
+9909	IV	MILLWORK & SPECS	A	BOB		5175.00	0
+9909	V	CONSTRUCTION INSTALL/ADMIN	A	BOB		3105.00	0
+9910	 	Great Eagle Hote Roma Suites				0.00	0
+9910	DP	DOWN PAYMENT	A	BOB		2000.00	1
+9910	I	PLANNING	A	BOB		3240.00	0
+9910	II	DESIGN CONCEPT	A	BOB		3240.00	0
+9910	III	ARCHITECTURAL INFORMATION	A	BOB		4500.00	0
+9910	IV	MILLWORK & SPECS	A	BOB		4320.00	0
+9910	V	CONSTRUCTION INSTALL/ADMIN	A	BOB		2700.00	0
+9911	 	Radisson Resort Parkway				0.00	0
+9911	DP	DOWN PAYMENT	A	BOB		32000.00	1
+9911	I	Planning	A	BOB		23040.00	0
+9911	II	Design Concept	A	BOB		23040.00	0
+9911	III	Architectural Information	A	BOB		32000.00	0
+9911	IV	MILLWORK & SPECS	A	BOB		30720.00	0
+9911	S3	ARCH. INF. PKG - STAGE III	A	RB			0
+9911	SI	PLANNING - STAGE I	A	RB			0
+9911	SII	DESIGN CONCEPT - STAGE II	A	RB			0
+9911	V	Tender Assistance	A	BOB		19200.00	0
+9912	 	Hurricane Beach Water Park				0.00	0
+9913	 	Great Eagle Hotel/Health Club				0.00	0
+9913	DP	DOWN PAYMENT	A	BOB		5000.00	1
+9913	I	PLANNING	A	BOB		8100.00	0
+9913	II	DESIGN CONCEPT	A	RB	4/21/2000 0:00:00	8100.00	0
+9913	III	ARCH. INFORMATION PACKAGE	A	BOB		11250.00	0
+9913	IV	MILLWORK & SPEC	A	RB	5/15/2000 0:00:00	10800.00	0
+9913	V	COORDINATION & INSTATLLATION	A	BOB		6750.00	0
+9914	 	Great Eagle Bostonian Rest.				0.00	0
+9914	I	PLANNING	A	RB	5/15/2000 0:00:00		0
+9915	 	Sheraton Stockholm/Ballroom				0.00	0
+9915	AS	ADDITIONAL SERVICES	A	BOB		10000.00	0
+9915	DP	DOWN PAYMENT	A	BOB		9000.00	1
+9915	I	PLANNING	A	BOB		12150.00	0
+9915	II	DESIGN CONCEPT	A	BOB		12150.00	0
+9915	III	ARCHITECTURAL INFORMATION	A	BOB		40500.00	0
+9915	IV	MILLWORK & SPECS	A	BOB		16200.00	0
+9915	SM	SMART BOARDROOM-ADD. SERV.	A	RB		5000.00	0
+9915	V	BIDDING & NEG./REV.SAMP./SITE	A	BOB	12/1/2000 0:00:00		0
+9916	 	Hyatt Regency Delhi Club Loung				0.00	0
+9916	I	PLANNING	A	RB		13000.00	0
+9916	II	DESIGN CONCEPT	A	RB		13000.00	0
+9916	III	Architectural Information	A	RB	12/15/1999 0:00:00		0
+9916	IV	MILLWORK AND SPECS	A	RB	12/15/1999 0:00:00		0
+9918	 	Hyatt Regency Delhi Suites				0.00	0
+9918	I	PLANNING	A	BOB		25000.00	0
+9918	II	DESIGN CONCEPT	A	BOB		25000.00	0
+9918	III	ARCHITECTURAL INFORMATION	A	BOB	1/18/2000 0:00:00		0
+9918	IV	CONTRACT DOCUMENTS	A	BOB	3/30/2000 0:00:00		0
+9919	 	Gupta Residence, Delhi India				0.00	0
+9919	II	GUPTA RESIDENCE	A	RB	2/11/2000 0:00:00		0
+9920	 	Park Lane Hotel, Hong Kong				0.00	0
+9920	DP	Down Payment	A	BOB		4500.00	1
+9920	I	Planning	A	BOB		7290.00	0
+9920	II	Design Concept	A	BOB		7290.00	0
+9920	III	ARCHITECTURAL INFORMATION	A	BOB	3/30/2000 0:00:00	10125.00	0
+9920	IV	MILLWORK & SPECS	A	RB		9720.00	0
+9920	V	COORDINATION & INSTALLATION	A	RB		6075.00	0

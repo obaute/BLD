@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html><html>
+    <head>
+        <title>index</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Wakanda GUIDesigner"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+        <meta name="WAF.catalog" content="BillingItems,Projects,ProjectPhases,Currencies"/>
+        <meta name="WAF.packageJson"/>
+    	<meta name="wakanda-version" content="6 build 6.147688"/>
+		<meta name="wakanda-build" content="6.147688"/>
+		<meta id="waf-interface-css" name="WAF.config.loadCSS" content="styles/index.css"/>
+		<meta id="waf-project-css" name="WAF.config.loadCSS" content="/application.css"/>
+
+		
+		<meta data-type="dataSource" data-lib="WAF" data-source="billingItems.project" data-source-type="dataClass" data-dataType="string" data-autoLoad="true" name="WAF.config.datasources" data-id="project" content="project"/>
+		<meta data-type="dataSource" data-lib="WAF" data-source="billingItems.projectPhase" data-source-type="dataClass" data-dataType="string" data-autoLoad="true" name="WAF.config.datasources" data-id="projectPhase" content="projectPhase"/>
+		<meta data-type="dataSource" data-lib="WAF" data-source="billingItems.currency" data-source-type="dataClass" data-dataType="string" data-autoLoad="true" name="WAF.config.datasources" data-id="currency" content="currency"/><meta data-type="dataSource" data-lib="WAF" data-source="BillingItems" data-source-type="dataClass" data-dataType="string" data-autoLoad="true" name="WAF.config.datasources" data-id="billingItems" content="billingItems"/></head>
+    <body id="waf-body" data-type="document" data-lib="WAF" data-entire-model="false" data-platform="desktop" data-viewport-width="device-width" data-viewport-initial-scale="1.0" data-viewport-maximum-scale="1.0" data-viewport-minimum-scale="1.0" data-apple-meta-tags-status-bar="default" data-workspace-orientation="portrait" data-workspace-width="0" data-workspace-height="0" data-group="[]" data-theme="default" style="bottom:;right:;visibility:hidden;">
+	<div id="container1" data-type="container" data-lib="WAF" class="waf-widget waf-container waf-container-level-0 waf-level-0" data-label="" data-label-position="top" data-constraint-left="true" data-constraint-top="true" data-resizable="true">
+	 	<div id="autoForm2" data-type="autoForm" data-lib="WAF" data-binding="project" class="waf-widget waf-autoForm " data-display-error="true" data-withoutTable="true" data-resize-each-widget="true" data-resize-optimal-each-widget="true" data-column-attribute="code,name,status,phases,billingItemsCollection,cT,bT,upTo" data-column-name="code,name,status,phases,billingItemsCollection,cT,bT,upTo" data-column="[]" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false" data-resizable="true" data-draggable="true"></div>
+ 		<div id="autoForm3" data-type="autoForm" data-lib="WAF" data-binding="projectPhase" class="waf-widget waf-autoForm " data-display-error="true" data-withoutTable="true" data-resize-each-widget="true" data-resize-optimal-each-widget="true" data-column-attribute="ID,project,phase,description,fee,downPayment,billingItemsCollection,upTo" data-column-name="ID,project,phase,description,fee,downPayment,billingItemsCollection,upTo" data-column="[]" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false" data-draggable="true" data-resizable="true"></div>
+ 						<div id="autoForm4" data-type="autoForm" data-lib="WAF" data-binding="currency" class="waf-widget waf-autoForm " data-display-error="true" data-withoutTable="true" data-resize-each-widget="true" data-resize-optimal-each-widget="true" data-column-attribute="ID,key,exchange,billingItemsCollection,dateEfective" data-column-name="ID,key,exchange,billingItemsCollection,dateEfective" data-column="[]" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false" data-draggable="true" data-resizable="true"></div>
+ 						<div id="dataGrid1" data-type="dataGrid" data-lib="WAF" class="waf-widget waf-dataGrid " data-label="" data-label-position="top" data-selection-mode="single" data-display-error="true" data-footer-text="item(s)" data-column="[{'sourceAttID':'amount','colID':'amount','width':'90','title':'amount'},{'sourceAttID':'date','colID':'date','width':'100','title':'date'},{'sourceAttID':'invoiceNo','colID':'invoiceNo','width':'150','title':'invoiceNo'},{'sourceAttID':'percent','colID':'percent','width':'90','title':'percent'}]" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false" data-binding="billingItems"></div>
+ 	</div>
+	
+		
+	
+		<script type="text/javascript" src="/waLib/WAF/Loader.js"></script>
+	</body>
+</html>

@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html><html>
+    <head>
+        <title>index</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="generator" content="Wakanda GUIDesigner"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+        <meta name="WAF.catalog" content="Projects,ProjectPhases,BillingItems,Currecy"/>
+        <meta name="WAF.packageJson"/>
+    	<meta name="wakanda-version" content="6 build 6.147688"/>
+		<meta name="wakanda-build" content="6.147688"/>
+		<meta id="waf-interface-css" name="WAF.config.loadCSS" content="styles/index.css"/>
+		<meta id="waf-project-css" name="WAF.config.loadCSS" content="/application.css"/>
+
+		<meta data-type="dataSource" data-lib="WAF" data-source="Projects" data-source-type="dataClass" data-dataType="string" data-autoLoad="true" name="WAF.config.datasources" data-id="projects" content="projects"/>
+		<meta data-type="dataSource" data-lib="WAF" data-source="projects.phases" data-source-type="dataClass" data-dataType="string" data-autoLoad="true" name="WAF.config.datasources" data-id="phases" content="phases"/>
+		<meta data-type="dataSource" data-lib="WAF" data-source="phases.billingItemsCollection" data-source-type="dataClass" data-dataType="string" data-autoLoad="true" name="WAF.config.datasources" data-id="billingItemsCollection" content="billingItemsCollection"/>
+		</head>
+    <body id="waf-body" data-type="document" data-lib="WAF" data-entire-model="false" data-platform="desktop" data-viewport-width="device-width" data-viewport-initial-scale="1.0" data-viewport-maximum-scale="1.0" data-viewport-minimum-scale="1.0" data-apple-meta-tags-status-bar="default" data-workspace-orientation="portrait" data-workspace-width="0" data-workspace-height="0" data-group="[]" data-theme="default" style="bottom:;right:;visibility:hidden;">
+    		<label id="label1" data-type="label" data-lib="WAF" for="combobox1" data-valign="middle" data-margin="5" class="waf-widget waf-label waf-label-combobox" data-constraint-left="true" data-constraint-top="true">Label</label>
+		<div id="combobox1" data-type="combobox" data-lib="WAF" class="waf-widget waf-combobox " data-label="Label" data-label-position="left" data-autoDispatch="true" data-editable="true" data-limit="20" data-constraint-left="true" data-constraint-top="true" data-binding="projects" data-binding-options="[code] [name] " data-binding-key="code" tabindex="1"><select><option value="">[code] [name] </option></select></div>
+	<div id="dataGrid2" data-type="dataGrid" data-lib="WAF" class="waf-widget waf-dataGrid " data-label="" data-label-position="top" data-selection-mode="single" data-display-error="true" data-footer-text="item(s)" data-column="[{'sourceAttID':'phase','colID':'phase','width':'64','title':'phase'},{'sourceAttID':'description','colID':'description','width':'150','title':'description'},{'sourceAttID':'fee','colID':'fee','width':'135','title':'fee'},{'sourceAttID':'downPayment','colID':'downPayment','width':'105','title':'downPayment'}]" data-constraint-left="true" data-constraint-top="true" data-binding="phases"></div>
+		<div id="dataGrid4" data-type="dataGrid" data-lib="WAF" class="waf-widget waf-dataGrid " data-label="" data-label-position="top" data-selection-mode="single" data-display-error="true" data-footer-text="item(s)" data-column="[{'sourceAttID':'amount','colID':'amount','width':'90','title':'amount'},{'sourceAttID':'date','colID':'date','width':'100','title':'date'},{'sourceAttID':'year','colID':'year','width':'150','title':'year'},{'sourceAttID':'invoiceNo','colID':'invoiceNo','width':'150','title':'invoiceNo'}]" data-constraint-left="true" data-constraint-top="true" data-binding="billingItemsCollection"></div>
+		<script type="text/javascript" src="/waLib/WAF/Loader.js"></script>
+	</body>
+</html>

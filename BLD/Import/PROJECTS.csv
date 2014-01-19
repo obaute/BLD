@@ -1,0 +1,550 @@
+?	Incosistent data	?			1/20/2004 0:00:00		 US$07022004	?			
+0001	T & M Royal Caribbean, USA	H		RCI			 US$07022004	H			
+0002	United Cinemas, Tokoyo, Japan	H		UCTC			 US$07022004	H			
+0003	Grand Formosa Regent, Taipei	H		GFRH	3/9/2000 0:00:00		 US$07022004	H			
+0004	Category Fore/Golfit	H		CFG	4/20/2000 0:00:00			H			
+0005	Eastview Hotel, Miami	H		EVM	4/20/2000 0:00:00			H			
+0006	Sheraton  Park Tower	H		SPT				H			
+0007	Sheraton Hotel, Manchester	H		SHM	4/21/2000 0:00:00			H			
+0008	Grand Bank Center	H		CATA				H			
+0010	Chia Tai Shopping Mal China	H		CTSM	8/14/2000 0:00:00			H			
+0011	?	H						H			
+0012	Le Meridien Singapore	H		LMS				H			
+0013	Richmond Hotel, Miami Florida	H		RIHO	10/17/2000 0:00:00			H			
+0014	Philamlife Tower Club, Manila	H		PPC				H			
+0015	Tung Wan Club House, Hong Kong	H		TWCH				H			
+0016	George & Co.Bar, Park Lane HK	H		GC				H			
+0017	OMNI RESTAURANT, N.Y.	H		OR	8/16/2000 0:00:00			H			
+0018	CIG Centre(Glion Hotel School)	H		DEP				H			
+0019	ATHENS HILTON	H		ATHE				H			
+0021	HOTEL DU LAC Tunisia	H		HODL				H			
+0022	Sheraton Hotel, Kowloon	H		SHK				H			
+0022.1	SHERATON KOWLOON LIFT &DRIVEWA	H		SHK				H			
+0023	Hyatt Regency Guatemla	H		HRG	11/10/2000 0:00:00			H			
+0024	New World Tower, Shanghi	H		NWCL				H			
+0025	Shangri la Kowloon	H		ESLM			 US$07022004	H			
+0026	Makati Shangri-la Manila	H		ESLM				H			
+0027	Edsa Shangri-la  Manila	H		ESLM				H			
+0101	Ocean Hammock Club	H		LOWE				H			
+0102	HILTON GUAM RESORT & SPA	H		HGRS				H			
+0103	Hilton Osaka, Japan	H		HO				H			
+0104	Park Hyatt Mumbai	H		HRB1			 US$07022004	H			
+0105	H.R.Deli, Pub.Area/Pres Suites	H		HRPP	5/11/2001 0:00:00			H			
+0106	HYATT REGENCY PARIS MADALEINE	H		HRPM	5/9/2001 0:00:00			H			
+0107	LE MERIDIEN BANGKOK	H		LMB	5/30/2001 0:00:00			H		HK-UF	
+0108	Villa Magna Hotel Madrid Spain	H		VM	5/17/2001 0:00:00			H			
+0109	Hilton Sidney	H		HS	5/22/2001 0:00:00			H			
+0110	MAYFAIR HOTEL, SHANGHAI	H		NWCL				H			
+0110.1	Ramada Plaza - Bar	H		NWCL		HK	 US$07022004	H			
+0111	KUNLUN HOTEL BEIJING	H		KB	6/7/2001 0:00:00			H			
+0112	HYATT REGENCY  LISBON	H		HRLI				H			
+0113	Hyatt Regency Casablanca	H		HRC	7/11/2001 0:00:00			H			
+0114	Shangri-la Pudong	H	60606	ESLM1	7/11/2001 0:00:00	CITI	 US$07022004	A		PALM BEACH	
+0115	Harbour Plaza Presidential ste	H		HPPS				H			
+0116	Shangri-La Dubai	H		SLD	7/12/2001 0:00:00			H			
+0117	New World Office Main Lobby	H		NWCL		HK	 US$07022004	H			
+0118	Mayfair Hotel 4th Level Public	H		MHLP	11/13/2001 0:00:00			H			
+0120	Costa Dorada Resort & Residenc	H		PILO				H			
+0121	Le Meridien cairo Royal Suites	H		CAIR	9/26/2001 0:00:00			H			
+0122	PHILIPPE VALEIX APARTMENT	H		PHIV	11/20/2001 0:00:00			H			
+0123	NEW WORLD TOWER, L4,L5,L11	H		NWCL				H			
+0124	Branksome II Development	H		KPM				H			
+0126	French Quarter Hotel, Shanghai	H		FQRT	1/25/2002 0:00:00			H			
+0201	Hyatt Regency Mumbai-Suites	H		HRB				H			
+0202	Kunlun Hotel(Executive Rooms)	H		KB				H			
+0205	New World Tower, 3rd Level	H		NWTL	6/26/2002 0:00:00			H			
+0206	Kunlun Lobby Corridors	H		BCDC				H			
+0207	TSNEN WAN, N.T. SERV.APT/CLUB	H		SUN				H			
+0208	?	H						H			
+0209	TSNEN WAN N.T.SERV.APT.RESIDEN	H		SUN				H			
+0210	MONT PARNES HOTEL & CASINO	H		MONT				H			
+0211	RAMADA PLAZA, CHINESE RESTAURA	H		NWCL				H			
+0212	KUNLUN HOTEL/REVOLVING REST.	H		BCDC		CITI	 US$07022004	H			
+0214	Hyatt Regency Delhi/Various	H		DELI		CITI	 US$07022004	H			
+0215	Additional Services Mongkok K2	H		MKP				H			
+0216	MARINA SQUARE HOTEL & CASINO	H		MARI		CITI	 US$07022004	A			
+0216.1	MARINA SQUARE JOB SITE	H		MARI		HK	 US$07022004	A			
+0216.2	MARINA SQUARE ADDITIONAL SERVICES	H		MARI		CITI	 US$07022004	A			
+0217	KEMPINSKY HOTEL	H		KEMP		CITI	 US$07022004	H			
+0218	CHATEAU REGALIA, BEIJING	H		CHAT		CITI	 US$07022004	H			
+0302	Shanghai Shi Mao Int'l Plaza	H	60607	SSMI1		HK	 US$07022004	A		HK	
+0302.1	Shanghai Shimao Int. Plaza Italian Rest.	H		SSMI1			 US$07022004	H		HK	
+0302.2	Shanghai Shi Mao Int'l Plaza Add. Serv. L7	H	60607			HK	 US$07022004	A		HK	
+0303	H. R. Calcutta-Add Ser-Club K	h		HRCK		CITI	 US$07022004	h			
+0304	IFC SERVICE APT. MODEL ROOM	H		SIGN				H			
+0305	GRAND HYATT HONG KONG, PA	H		GHHK	11/14/2003 0:00:00	CITI	 US$07022004	H			
+0306	SHANGRI-LA MAKATI/ISLAND CAFE	h		SLMI		HK	 US$07022004	h			
+0307	KUNLUN MAIN LOBBY	H		BCDC		CITI	 US$07022004	A			
+0308	KUNLUN FUNCTION ROOMS	H		BCDC		CITI	 US$07022004	H			
+0309	East Seaport Hotel - Ningdo	H		LONG		CITI	 US$07022004	H			
+0310	KUNLUN MR. LIU'S CONFERENCE RM	H		BCDC		CITI	 US$07022004	H			
+0311	Four Seasons Serv. Apart. H.K.	H	60602	FSSA		HK	 HK$07022004	A		HK OTTO	
+0311.1	Four Seasons IFC Penthouse apar	h		FSSA		CITI	 US$07022004	h		HK OTTO	
+0311.2	Hong Kong Station-Admin. Consultancy	H		FSSA		HK	 HK$07022004	A		HK OTTO	
+0311.3	Hong Kong Station Additional Work to suites	H					 US$07022004	H		HK OTTO	
+0312	XINYUAN BEIJING APARTMENTS	H		BCDC		CITI	 US$07022004	H		PALM BEACH	
+0313	Park Lane Hotel/Cafe Rest.	h		PALA		HK	 HK$07022004	h			
+0314	DEEP BLUE PLAZA	h		DEEP		HK	 HK$07022004	A			
+0314.1	Deep Blue Plaza Apartament F	h	60604			HK	 HK$07022004	A		HK OTTO	
+0316	Four Seasons Mumbai	H	60630	MAGUS		CITI	 US$07022004	H		PB-US	
+0316.1	Four Seasons Mumbai-Health Club Additional Service	h	0			CITI	 US$07022004	A		PALM BEACH	
+0316.2	Four Seasons Mumbai Executive Club-Level 33	H	0				 US$07022004	H		PB-US	
+0316.3	Four Sesaons Mumbai L34 - Alfresco Bar	H	0				 US$07022004	H		PB-US	
+0317	Hyatt Regency Nanjing	H	60605	SSMI		HK	 US$07022004	A		PALM BEACH	
+0317.1	Hyatt Regency Nanjing-Additional Services	H	0			HK	 US$07022004	A		PALM BEACH	
+0319	Deep Blue Plaza/  Penthouse	H		DEEP		HK	 HK$07022004	H			
+0401	Shimao Sheshan	H	60617	SSMI2		CITI	 US$07022004	A		PALM BEACH	
+0402	Spring River & Flower Moon	h	60611	RSFM		HK	 HK$07022004	H			
+0404	Dong Guan - Hyatt Regency Hotel	h	60602			HK	 HK$07022004	A		HK OTTO	
+0405	Dong Guan - Shek Pai Hotel - China	H					 US$07022004	H			
+0406	Golden Harvest	H					 US$07022004	H			
+0410	Shimao Sheshan Villas	H	60617			CITI	 US$07022004	H	HOLD		
+0411	H.R. Delhi Lobby	H	60605			CITI	 US$07022004	H		PB-US	
+0413	Jimmy Yu's Restaurant	H						H		PALM BEACH	
+0414	Shangri-La Kowloon Porte de Cochere	H	60605				 HK$07022004	A		HK OTTO	
+0415	Hyatt Regency Colombo, Sri Lanka	H	60606			CITI	 US$07022004	H	HOLD	PB-US	
+0416	Mr. William Doo's Residence	H	60602			HK	 US$07022004	H		HK	
+0419	Beijing Shangri-La Exterior Arch. Concept	H					 US$07022004	H			
+0420	Xian Shangri-La Hotel  Exterior Arch. Concept	H					 US$07022004	H			
+0421	Grand Hyatt Hong Kong	H	60605			HK	 US$07022004	H	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0421.1	Grand Hyatt Hong Kong-Additional Service	H	0		9/7/2006 0:00:00		 HK$07022004	A		HK	
+0421.2	Grand Hyatt Hong Kong-Signage	H	0		9/7/2006 0:00:00		 HK$07022004	H		HK	
+0421.3	GH HK - Ball room foyer, carpet rugs at G/F	h	0				 HK$07022004			HK	
+0421.4	GH HK - Grissini Lift Lobby at 2/F	h	0				 HK$07022004			HK	
+0421.5	GH HK - Bell Desk G/F	h	0				 HK$07022004			HK	
+0421.6	GH HK - Lobby Entrance, carperr gugs at G/F	h	0				 HK$07022004			HK	
+0421.7	GH HK - Lobby Seating Group at G/F and M/F	H	0				 HK$07022004	H	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0421.8	G. H. H. K. -Grand Café Serv Station & Recep Desk	H	0				 HK$07022004	H		HK	
+0422	Hyatt Regency Dong Guan F&B Exhibition Center	h	60602				 US$07022004	A			
+0423	Four Seasons Munbai /Phase II Serv. Ap.	H	60630			CITI	 US$07022004	H		PB-Mauritus	
+0424	Edsa Shangri-La - Ext. Arch. Concept	H	60599				 US$07022004	A			
+0501	InterContinental Grand Stanford	H	60603					A			
+0502	Harbour Vantage Management Ltd.	H	60602				 US$07022004	A		HK OTTO	
+0503	Zhoushan Hotel	h	60607			HK		A		HK	
+0504	Grand Hyatt Kuala Lumpur	H	60602			HK	 US$07022004	H		HK	
+0504.1	Grand Hyatt Kuala Lumpur - Add Fee	H	0				 US$07022004	H		HK	
+0504.2	Grand Hyatt Kuala Lumpur - Add. Serv.	H	0				 US$07022004	A		HK	
+0505	Nanjing International Plaza Hotel	H				HK		H		HK	
+0507	Shimao Sheshan Le Meridien Hotel Additional Areas	H	60617				 US$07022004	H		PALM BEACH	
+0508	Amerit Sales Office, Singer Island	H			1/1/2005 0:00:00		 US$07022004	A			
+0509	Four Seasons Kremlin, Moscow	H			2/21/2005 0:00:00		 US$07022004	H			
+0510	Four Seasons Moskva, Moscow	H			2/21/2005 0:00:00		 US$07022004	H			
+0511	Four Seasons Hotel , Bahrain	H	60617		1/6/2005 0:00:00	CITI	 US$07022004	H		PALM BEACH	
+0511.1	Four Seasons Hotel , Bahrain Additional Services	H	60617		5/29/2007 0:00:00	CITI	 US$07022004	H		PALM BEACH	
+0512	Sheraton Grande Sukhumvit	H	60599			HK	 US$07022004	H		HK	
+0513	Qing Long QIao Apart Show Flat,Beiji	h				HK		A		HK	
+0515	Deep Blue Plaza-Penthouse	H	60484			HK		A		HK	
+0516	Hyatt Regency Delhi / Residence Function Space	h	60605					H		PALM BEACH	
+0516.1	Hyatt Regency Delhi / Typical Guest Room	h	60605			CITI	 US$07022004	A		PALM BEACH	
+0517	Kunlun Café Restaurant	H	60465					H	HOLD		
+0518	Hyatt Regency Pune, India	H	60606			MA		H		PB-Mauritus	
+0519	Shanghai Rose Garden	H	59646			HK	 HK$07022004	A		HK	
+0522	Huazhe Bund Shanghai	H	0		7/26/2005 0:00:00	HK	 US$07022004	H		HK	
+0522.1	Huazhe Bund Bldg. #2-Apt.RM Type Int. Desgn Serv	H	0			HK	 HK$07022004	A		HK	
+0522.2	Shanghai Huazhe Bund - FF&E Supp. Agreement	H	0				 HK$07022004	H		HK	
+0523	Grand Hyatt Beijing	H	0				 US$07022004	H		HK	
+0524	Deep Blue Plaza-Office BLDG Lobby	h	0			HK	 HK$07022004			HK OTTO	
+0525	Nanjing International Westin Hotel	H	0			HK	 US$07022004	H	ON HOLD	HK	
+0526	Nanjing Int'l Plaza PHI Yu Ji Hua Fu Show Flat	H	0			HK	 US$07022004	H		HK	
+0526.1	Nanjing Int'l Plaza North Tower Apt. L38-39	H	0				 US$07022004	H		HK	
+0528	Shangri-La Bangalore	H	0			MA	 US$07022004	A	HOLD - SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	PB-Mauritus	
+0530	Westin Resort Coloane, Macau	h	0				 US$07022004	A		HK OTTO	
+0531	Po Li Golf President Zhu's Luxury Villa	H	0				 HK$07022004	H			
+0532	Zhuyu City Apartments and Townhouse	H	0				 HK$07022004	H		HK OTTO	
+0532.1	InterWest Townhouse South North Direct (New Unit)	h	0				 HK$07022004			HK OTTO	
+0601	Apartment of Beijing Mansion	h	0			HK			No contract copy in WPB's files	HK	
+0602	Star River Room Type Layout Adjustment	h	0				 HK$07022004			HK OTTO	
+0602.1	Beijing Star River -Lux-Apt. Show Flat-T B51&B10A	H	0				 HK$07022004	H		HK	
+0603	Hangzhou Yuhang Guihuacheng	H	0			HK	 HK$07022004	H		HK OTTO	
+0604	Golden Sand Resort	H	0			HK	 HK$07022004	H		HK	
+0605	Hangzhou Rose Garden	H	0			HK	 HK$07022004	A		HK	
+0606	Hyatt Regency Delhi/Polo Lounge& Private Residence	H	0			CITI	 US$07022004	A	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	PB-US	
+0607	Renaissance Hotel, Bangalore	H	0			CITI	 HK$07022004	H		PB-Mauritus	
+0608	Liu Zhuang Apartment	H	0			HK		H		HK	
+0608.01	Zhejiang Greentown Real Estates Dev. Co.	H	0				 HK$07022004	H			
+0608.1	Liu Zhuang Club House	H	0			HK	 HK$07022004	H		HK	
+0609	Greentown Bi Shui Qing Feng	H	0			HK	 HK$07022004	A		HK	
+0611	Beijing Yaohui International Plaza	H	0			HK	 HK$07022004	H	Last invoice dated 3/10	HK	
+0611.1	Beijing Yaohui Club House	H	0				 HK$07022004	A	Last invoice dated 8/08	HK	
+0612	21st Century Tower/F.S. Shanghai/Serv. Apt	H	0		9/19/2006 0:00:00		 US$07022004	H	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0612.1	21ST Century Tower - Shanghai - Add Design Serv.	H	0				 US$07022004	H		HK	
+0613	Hyatt Regency Grand Cypress, Orlando	H	0				 US$07022004	H		PALM BEACH	
+0614	CMPD Banshan Meilun Apartment & Boutique Hotel	H	0				 HK$07022004	H		HK	
+0615	Resort & Spa At The Palm Jumeirah, Dubai	H	0				 US$07022004	A		HK	
+0616	Macau Lot "U" Hotel and Residential Apart, Macau	H	0				 HK$07022004	H	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0616.1	Macau Lot "U"-T7	H	0				 HK$07022004	H	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0616.2	Macau Lot U - Additional Fee	H	0				 HK$07022004	h	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0616.3	T1-T5 Residential Lift Car Re-design Fee	H	0				 HK$07022004	H	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0617	Shenzhen Wan Ke 17 Miles - Villa	H	0				 HK$07022004	H		HK	
+0618	JinShaGang Resort, Hangzhou-Four Seasons Hotel	H	0				 HK$07022004	A	Orlando: Billed 100%	HK	
+0618.1	Jinshagang Resort, Hangzhou FS.Hotel Add Redsg TG	H	0				 HK$07022004	H		HK	
+0619	JinShaGang Resort, Hangzhou-Villa A1,A2, A3,A4& B4	H	0				 HK$07022004	H		HK	
+0619.1	Hangzhou Jinshagang Villa(Alterat Villa A1,2,3,&B4	H	0				 HK$07022004	H		HK	
+0619.2	Hangzhou Jinshagang Villa (Add Villa B1, B3)	H	0				 HK$07022004	H	Need Phase percentage and total to up date the billing draft and accounting	HK	
+0619.3	Hangzhou JinShaGang Resort - Add Villas (B1 & B3)	H	0				 HK$07022004	h	Last invoice dated 1/10 Phase IV 100% Payment received on Mar 12, 2010	HK	
+0620	Kuching Tower Project in Sarawak Malaysia	H	0				 HK$07022004	H	IS THIS PROJECT ACTIVE?	HK	
+0622	Park Hyatt Guangzhou	H	0							HK	
+0702	Four Seasons Denver	H			3/2/2007 0:00:00		 US$07022004	h		PB-US	
+0705	Four Seasons Beijing, Service Apartments	H	0					H		HK	
+0705.2	Four Seasons Serviced Apart. -Add Serv.	h	0				 US$07022004	h		HK	
+0705.3	Four Seasons Beijing Apt Health Club L3-4(redesign	h	0				 HK$07022004	h		HK	
+0706	Taj Exotica Resort & Spa	H	0		3/30/2007 0:00:00			H	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0707	Hyatt Regency, Mumbai - Renovation	H	0					H		HK	
+0708	Shenzhen Van Ke East Coast	H	0		4/19/2007 0:00:00		 HK$07022004	H		HK	
+0708.1	Vanke East Coast Phase IV Interior Design	H	0				 HK$07022004	H		HK	
+0709	Tiangjin City Xikang Road #36	h	0				 HK$07022004	H		HK	
+0711	Beijing Yaohui South Tower	H	0				 HK$07022004	H		HK	
+0712	Marriot Guangzhou Serv. Apt (Ehujian new town)	H	0					A		HK	
+0713	Damansara City, Kuala Lumpur	H	0				 US$07022004	H	check balance?	HK	
+0715	Vanke Jin Yu Hua Ting Phase I Int. Design Projects	H	0				 HK$07022004	H		HK	
+0716	Vanke Niu Lan Wo Phase I Interior  Design Projects	H	0				 HK$07022004	H		HK	
+0717	Vanke Cheng Phase IV Interior Design Projects	H	0				 HK$07022004	H		HK	
+0718	Phuket Kamala Beach, Thailand	H	0				 US$07022004	H		HK	
+0719	Cove 4 Shenzhou, Peninsula, Hainan	H	0				 HK$07022004	H	HOLD	HK	
+0719.1	Cove 4 Shenzhou, Peninsula, Hainan-Add Serv	H	0				 HK$07022004	H	HOLD	HK	
+0720	Hyatt Regency Delhi / Various Renovations	H	0				 US$07022004	H		PB-US	
+0721	Beij Dongzhimen Transp.Hub&Donghua Int'l Plaza Dev	H	0				 HK$07022004	H		HK	
+0721.2	Beijing Dongzhimen Supplementary Agreement 2	h	0				 HK$07022004	h	Last invoice dated 10/10-HOLD	HK	
+0722	CMPD Shekou Xin ShiDai Guang Chang RoofTop ClubHou	H	0				 HK$07022004	H		HK	
+0723	Jinzhou International Hotel	H	0				 HK$07022004	A	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0724	Shangri-La Hotel, Bangkok	H	0				 US$07022004	A	HOLD - SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0724.1	Shangri-La Hotel, Bangkok - Additional Fee	H	0				 US$07022004	H		HK	
+0725	Guangzhou Poly World trade Center InterContinental	H	0				 HK$07022004	A	HOLD - SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0802	Eastern & Oriental Hotel In Penang	H						A	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0803	Hyatt Regency Hyderabad	H	0				 US$07022004	H	Last invoice dated 3/09	PB-US	
+0804	Nanjing Westin Hotel	H	0				 HK$07022004	A		HK	
+0804.2	Nanjing Westin Hotel Add Serv. Meeting RM	H	0				 US$07022004	H		HK	
+0805	Hyatt Regency , Navi Mumbai	H	0				 HK$07022004	A	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	PB-Mauritus	
+0806	Suzhou Jinji Lake	H	0				 HK$07022004	H		HK	
+0807	Nanchang Crowne Plaza Hotel	H	0					A	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0812	Hilton Panama City	H	0				 US$07022004	H		HK	
+0813	Hainan Island Wanning Resdential Development	H	0				 HK$07022004	H	HOLD	HK	
+0814	Hard Rock Hotel, Dubai	H	0				 HK$07022004	H	HOLD	HK	
+0815	Saraya Islands: Taj Exotica	H	0				 US$07022004	H	HOLD	HK	
+0817	Xiamen Straits Int'l Community Residential	H	0				 HK$07022004	H	Last invoice dated 1/10	HK	
+0818	Lot 334 Kelantan Land, Kuala Lumpur	H	0				 US$07022004	A	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0820	Jin Zhou wan Bo Cultural & Sport Conven & Ext CTR	H	0				 HK$07022004	A	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0821	Indigo Hotel Concept Design	H	0				 HK$07022004	H		HK	
+0822	Xinjiang (Urumqi) Office Lobby & Ph I Residential	H	0				 HK$07022004	H	Last invoice dated 8/09	HK	
+0823	Hangzhou Intercontinental Hotel	H	0				 HK$07022004	H		HK	
+0901	Qinghai Geermu New Century Hotel	H	0				 HK$07022004	h		HK	
+0902	Hangzhou InterContinental, China	H	0				 US$07022004	H		HK	
+0903	Beijing U-Town Maritim Hotel, China	H	0				 HK$07022004	H	SHOULD WE REMOVE THIS PROJECT FROM THE BILLING DRAFT REPORT?	HK	
+0904	Penthouse Hotel, Panama	H	0				 US$07022004	A	STOP	PB-US	
+0906	Fengyuan Golden Rose Hotel Arch. Concept. Design	H	0				 HK$07022004	H		HK	
+0907	Qinghai Geermu Chairman Apart.	h	0				 HK$07022004	H	Last invoice dated 3/10	HK	
+0908	Jiangyin Xicheng Crowne Plaza Hotel	A	0				 US$07022004	A	(U)	HK	
+0909	Osaka Station North Yard Hotel & Resident, Japan	h	0				 US$07022004	A		HK	
+0910	Hyatt Regency Delhi (Apartments)	H	0				 US$07022004	H		PB-Mauritus	
+0911	Hyatt Regency Delhi (Suites)	H	0				 US$07022004	H	HOLD	PB-Mauritus	
+0912	Hyatt Regency Delhi India-Various Renovations, Ind	H	0				 US$07022004	A	HOLD	PB-Mauritus	
+0913	Fengyuan Rose City Taian RD Comm St. Arch. Conc DS	H	0				 US$07022004	H		HK	
+0914	Shanghai Guoman Chengfeng City Hotel	h	0				 HK$07022004	h		HK	
+0915	Beijing U-Town Maritim Hotel	H	0				 US$07022004	H		HK	
+0916	Hangzhou Jindu Residental Apt Model RM Int. Dsgn S	h	0				 HK$07022004	h		HK	
+0918	Shanghai Huazhe Bund Huangpu	H	0				 HK$07022004	H		HK	
+0919	Gemdale Shanghai Residential	H	0				 HK$07022004	H	(U)	HK	
+0919.2	Gemdale Shanghai Qingpu Residential - Add Serv	H	0				 HK$07022004	H	(U)	HK	
+0920	Shanghai Xiaonanguo Hotel, China	h	0					h		HK	
+0921	Chongqing New World Hotel & Resid Int Serv GR&PA	H	0				 HK$07022004	H		HK	
+0923	Beijing kunlun Gardens, China	H	0				 US$07022004	H		HK-UF	
+100	GENERAL OFFICE	H		NA	7/26/1994 0:00:00			H			
+1001	Hainan Clear Bay JW Marriott Hotel	h	0				 HK$07022004	A		HK	
+1002	Dalian Star Sea Bay Residential	H	0				 HK$07022004	H	(U)	HK	
+1003	Guiyang New World Hotel	h	0				 HK$07022004	h		HK	
+1004	Changchun Hyatt Regency Hotel	H	0				 HK$07022004	H		HK	
+1005	Xiamen Jindu Resid Aprt Model RM,Main Lobby&Club H	h	0				 HK$07022004	h	(U)	HK	
+1005.2	Xiamen Jindu Resid Aprt Model RM,A,B,E,F,G	H	0				 HK$07022004	H		HK	
+1007	Beijing Kunlun Hotel Deluxe Suite	H	0				 US$07022004	H		HK-UF	
+1008	Qingdao Tianyi Gulf Villa #5 & #7 Model Rm, China	h	0				 HK$07022004	h	(U)	HK	
+1009	H. R. Hotel Delhi / Various Renovation (Full/Soft)	H	0				 HK$07022004	H		PB-Mauritus	
+1010	The Magnolias Club Gurgaon	H	0				 US$07022004	A	(U)	PB-Mauritus	
+1010.01	The Magnolias Club/Addendum 1,2&3	H	0				 US$07022004	H		PB-Mauritus	
+1010.2	The Magnolias Club Gurgaon	h	0				 US$07022004	h		PB-Mauritus	
+1011	New World Hotel Makati City, Manila	H	0				 HK$07022004	H		HK	
+1012	Tianjin Tanggu Lot B-15 Hotel	h	0				 HK$07022004	h	HOLD	HK	
+1013	GreenTown Beijing Tongzhou Residential	A	0				 HK$07022004	A	GT	HK	
+1014	Taiyuan Kempinski Hotel, China	H	0				 HK$07022004	H	(U)	HK	
+1014.1	Taiyuan Kempinski Hotel-Add Model Rm-Stand Twin	H	0				 US$07022004	A		HK	
+1014.2	Taiyuan Kempinski Hotel JobSite	H	0				 HK$07022004	A		HK	
+1014.3	Taiyuan Kempinski Hotel-Resident Job Site Coord	H	0				 US$07022004	A		HK	
+1014.4	Taiyuan Kempinski Hotel-Resident Job Site Coord	H	0				 US$07022004	A		HK	
+1014.5	Taiyuan Kempinski Hotel-Resident Job Site Coord	h	0				 US$07022004	h		HK	
+1014.6	Taiyuan Kempinski Hotel-Resident Job Site Coord	h	0				 US$07022004	A		HK	
+1015	Tianjin Binhai Crowne Plaza Hotel, China	A	0				 HK$07022004	A	ON HOLD	HK	
+1016	Suzhou Greentown Rose Garden Resid MRM& Club House	H	0				 HK$07022004	A	GT            (U) - on Hold	HK	
+1016.2	Suzhou Greentown Rose Gardens Villa, China	A	0				 US$07022004	A		HK	
+1017	Greentown Tianjin Tanggu Lot B-14 Residential	h	0				 HK$07022004	h	(U Club House)	HK	
+1018	Beijing Yuecai Hotel, China	A	0				 HK$07022004	H		HK	
+1019	Beijing Tongzhou Hilton Hotel, China	A	0					A	GT	HK	
+1020	W Panama Hotel	H	0				 US$07022004	H		PB-US	
+1021	Greentown Fuchun Heyuan Club House	H	0				 HK$07022004	H	 GT /  (U)	HK	
+1022	Yixing Xiying Residential, China	H	0				 HK$07022004	H	(U)	HK	
+1022.1	Yixing Xiying Residential, China	h	0				 US$07022004	h		HK	
+1023	Hangzhou Lanyuan Resid & Club House	h	0				 HK$07022004	h	GT            (U)	HK	
+1023.1	Hangzhou Lanyuan Lot A Serv. Apt.	h	0				 HK$07022004	A	(U)	HK	
+1025	Beijing Eastern Provence Villa	A	0				 HK$07022004	A	(U)	HK	
+1026	Hyatt Regency Apt. Redesign	H	0				 US$07022004	H		PB-Mauritus	
+1027	Beijing Tongzhou Greentown Jinghang Aprt	A	0				 HK$07022004	A	GT	HK	
+1102	Grand Hyatt Manila Hotel	A	0				 US$07022004	A		HK	
+1102.1	Grand Hyatt Manila Hotel- For Add Design Area	A	0				 US$07022004	A		HK	
+1102.2	Grand Hyatt manila Hotel - Supplementary	A	0				 US$07022004	A		HK	
+1102.3	Grand Hyatt Manila Hotel - additional guestrooms	h	0				 US$07022004			HK	
+1103	Greentown Rose Garden Villa, China	h	0				 HK$07022004	H	GT       (US) - On Hold	HK	
+1103.1	Shanghai Greentown Rose Garden Villa	A	0				 HK$07022004	A		HK	
+1104	Beijing Chang'an Kulun Hotel, China	A	0				 HK$07022004	A		HK	
+1105	Greentown Shenyang Sheraton Hotel Public Area	H	0				 HK$07022004	H	GT	HK	
+1105.1	Greentown Shenyang Sheraton Hotel Presd. Ste	h	0				 HK$07022004	h	GT	HK	
+1105.2	Greentown Shenyang Sheraton Hotel Presd. Ste	H	0				 HK$07022004	H		HK	
+1105.4	Greentown Shenyang Sheraton Presid.l Ste(Re-Design	H	0				 HK$07022004	H		HK	
+1108	Beijing LSH Hyatt Regency Hotel	H	0				 HK$07022004	A		HK	
+1109	Grand Hyatt Beijing Guestroom Full Renovation	A	0				 US$07022004	A		HK	
+1112	Jinan Guihe Crowne Plaza Hotel	A	0				 HK$07022004	A	(U)	HK	
+1113	Chengdu Xiangyang Kempinski Hotel Ren	h	0				 HK$07022004	A		HK	
+1113.1	Chengdu Xiangyang Kempinski Hotel Ren	h					 US$07022004	h		HK	
+1114	Dongguan Changan Lotus Hill Hotel&State Gust Hotel	H	0				 HK$07022004	H		HK	
+1115	Hyatt Regency Xian Hotel	A	0				 HK$07022004	A		HK	
+1116	Hyatt Regency Hotel, Cartagena	A	0				 US$07022004	A		PB-US	SOUTH AMERICA
+1116.1	Hyatt Regency Serv. Apts Cartagena	A	0				 US$07022004	A		PB-US	SOUTH AMERICA
+1116.2	Plaza Boca Grande, Cartagena	A	0				 US$07022004	A		PB-US	SOUTH AMERICA
+1117	Yueqing Hilton Double Tree Hotel, China	A	0				 HK$07022004	A		HK	
+1118	Beijing Kunlun Chef's Table	h	0				 US$07022004	A		HK-UF	
+1120	Chengdu Dayuan Hotel and One Office BLDG	h	0				 HK$07022004	A		HK	
+1201	Grand Hyatt Hotel, Ballroom Renovation	h	0				 HK$07022004	h		HK	
+1202	Beijing Kunlun Hotel Multi-Function Ballroom	h	0				 US$07022004	h		HK-UF	
+1203	Shanghai Pudong Zhenlong Hotel	h	0				 HK$07022004	A		HK	
+1204	Four Seasons IFC, HK Serv Apt Refurbishment	A	0				 US$07022004	A		HK	
+1205	Ritz Carlton Bachelor Gulch, Co	A	0				 US$07022004	A		PB-US	
+1205.1	The Ritz-Carlton Bachelor Gulch-Int Café &Lift-Cab	a	0				 US$07022004	a		PB-US	
+1205.2	The Ritz-Carlton Bachelor Gulch-Spa/Soft Refurb	h	0				 US$07022004	h		PB-US	
+1206	HG Manila, Residence Public Are/Model RM	A	0				 US$07022004	A		HK	
+1207	Langham Hong Kong Chuan Spa	A	0				 US$07022004	A		HK	
+1208	Venetian Mini - Projects	h	0				 US$07022004	h		HK	
+1209	Courtyard by Marriott - Nerul, India	A	0				 US$07022004	A		PB-Mauritus	
+1209.1	Courtyard by Marriott - Nerul, India	A	0				 US$07022004	A		PB-Mauritus	
+1210	Golf Links PH V - Sales Office & Show Flat	A	0				 US$07022004	A		PB-Mauritus	
+1210.01	The Camellias-(Magnolias-II)	h	0				 US$07022004	h		PB-Mauritus	
+1210.1	Magnolia-II/PH-V Gurgaon, India	A	0				 US$07022004	A		PB-Mauritus	
+1210.2	The Camellias-Magnolias II	H	0				 US$07022004	H		PB-Mauritus	
+1212	Ruixing D-2 Residence, Ruian, Wenzhou China	A	0				 US$07022004	A		HK	
+1213	Nanjing Int'l Plaza North Tower Luxury Apt. L38-39	H	0				 US$07022004	H		HK	
+1214	Golf Links PH V - Pro-Shop & Viewing Gallery	A	0				 US$07022004	A	HOLD	PB-Mauritus	
+1215	Hyatt Regency Colombo, Sri Lanka	A	0				 US$07022004	A		HK	
+1215.1	Hyatt Regency Colombo, Service Apt	A	0				 US$07022004	A		HK	
+1215.2	Hyatt Regency Colombo,Sri Lanka-Japanese Rest 11th	A	0				 US$07022004	A		HK	
+1216	Darwin Bay Le Gray Hotel, Galapagos (ID)	h	0				 US$07022004	h		PB-US	SOUTH AMERICA
+1216.9	Darwin Bay Le Gray Hotel, Galapagos (MP)	h	0				 US$07022004	h		PB-ARCH	SOUTH AMERICA
+1216.91	Darwin Bay Le Gray, Galapagos (Arch)	H	0				 US$07022004	h		PB-ARCH	SOUTH AMERICA
+1217	Paradiso Le Gray Hotel, Galapagos (ID)	h	0				 US$07022004	h	HOLD	PB-US	SOUTH AMERICA
+1218	Marriot Hotel, Xuzhou, China	A	0				 HK$07022004	A		HK	
+1219	Conrad Hotel, Pune, India	h	0				 US$07022004	A		PB-Mauritus	
+1220	Crowne Plaza Hotel & Serv. Apt, Macau	A	0				 US$07022004	A		HK	
+1221	Venetian Mini-Project (2)	h	0				 US$07022004	h		HK	
+1222	St. Regis Hotel at the Al Habtoor, Dubai	A	0				 US$07022004	A		HK	
+1223	Fairmont Hotel, Wuhan	A	0				 HK$07022004	A		HK	
+1225	Shanghai Huamu Residential	h	0				 HK$07022004	h	 (GT)	HK	
+1226	Qingdao Shenlan Plaza Residence, China	A	0				 HK$07022004	A		HK	
+1227	Venetian Suites Refurbisment	h	0				 US$07022004	h		HK	
+1228	Hangzhou Golden Horse Real Estate Co. Ltd	A	0				 HK$07022004			HK	
+1229	Zhong Xin Garden Residential Model Room	A	0				 US$07022004	A		HK	
+1230.9	Iguaraya Master Plan, Colombia (MP)	h	0				 US$07022004	h		PB-ARCH	SOUTH AMERICA
+1231.9	The Art Hotel, Calle93, Bogota (MP)	h	0				 US$07022004	h		PB-ARCH	SOUTH AMERICA
+1232.9	Calitina Wine Resort, Mendoza (MP)	h	0				 US$07022004	h		PB-ARCH	SOUTH AMERICA
+1233	Beijing Qinglong Lake Int'l Conference Hotel	h	0				 US$07022004	h		HK	
+1234.9	Altos De Guayacanes, Cartagena (MP)	h	0				 US$07022004	h		PB-ARCH	SOUTH AMERICA
+1235.8	Le Meridian Resort Hotel at Mount Emei	h	0				 US$07022004	A		PB-ARCH	SOUTH AMERICA
+1236	Hangzhou Lanyuan Lot B Residence	A	0				 HK$07022004			HK	
+1236.1	Jose Ignacio Winery, Uruguay	h	0				 US$07022004	h		PB-ARCH	SOUTH AMERICA
+1237	Hangzhou Lanyuan Lot B Villa	A	0				 HK$07022004			HK	
+1238	Darwin Bay Villas, Galapagos (ID)	h	0				 US$07022004	h	HOLD	PB-US	SOUTH AMERICA
+1238.9	Darwin Bay Villas, Galapagos (MP)	h	0				 US$07022004	h		PB-ARCH	SOUTH AMERICA
+1240	Ritz-Carlton Ft. Lauderdale	h	0				 US$07022004	h		PB-US	
+1241	St. Tropez, West Entrance-Porte de Cochere	A	0				 US$07022004	A		PB-US	
+1301	Nanjing Cui Ping Zi Qi Yun Gu Residence, China	A	0				 HK$07022004			HK	
+1301.1	Nanjing Cui Ping Zi Qi Yun Gu Resd1210 BLK 2,China	A	0				 US$07022004	A		HK	
+1302	Beijing LSH Center, China	A	0				 HK$07022004	A		HK	
+1305	Ningbo Romon Universal City Apt	A	0				 US$07022004	A		HK	
+1306.9	The Inn at Villa Bianca, Seymour, Connecticut(MP)	h	0				 US$07022004	h		PB-ARCH	
+1307	Yantai Wanfang Jun Fu Villa/Residence,China	A	0				 US$07022004			HK	
+1308	Ritz Carlton Grande Lakes, Orlando	A	0				 US$07022004	A		PB-US	
+1309	Nanjing Cui Ping Jiuxi Cheng Yuan Villa/Flat China	h	0				 US$07022004	A		HK	
+1310	Hilton Hotel Colombo-Sri Lanka	h	0				 US$07022004			HK	
+1311	Ritz Carlton Ft. Laud. Model Condo	A	0				 US$07022004	A	HOLD	PB-US	
+1312	Ritz Carlton Ft. Laud., Spa & Model Room	A	0				 US$07022004	A	HOLD	PB-US	
+1313	Beijing Miyun Yunxi Low Rise Residential	A	0				 US$07022004	A		HK	
+1314	Golf Estate, Sector 65, Gurgaon	A	0				 US$07022004	A		PB-Mauritus	
+1315	Zhejiang Shaoxing Jia Yue Plaza (Residence)	A	0				 US$07022004	A		HK	
+1316	Hyatt Regency Hotel, Shipai, Dongguan China	A	0				 US$07022004	A		HK	
+1317	Jinan Guihe Crown Plaza Hotel, 9-14-Level PHI GRM	A	0				 US$07022004	A		HK	
+1318	Beijing Yan Qi Lake Villa, China	A	0				 US$07022004	A		HK	
+1319	Beijing Miyun Yunxi Townhouse Type 6	A	0				 US$07022004			HK	
+1320	The Royal Garden Hotel, HK New GRM Ext. 18&19F	A	0				 US$07022004	A		HK	
+1320.1	The Royal Garden Hotel, H.K.-17F BRM & PA	A	0				 HK$07022004	A		HK	
+1321	Anhul Hefel Conrad, China	A	0				 US$07022004	A		HK	
+1322	Dalian Wharf Gtown Buxiuxiang Resd,Model HouseABCD	A	0				 US$07022004	A		HK	
+1323	Zhejiang Shaoxing Keqiao Jiayue Plaza Resd.Mezzani	A	0				 US$07022004	A		HK	
+1324	Cape Sol Villa, Phuket, Thailand	A	0				 US$07022004	A		HK	
+1326	Hangzhou Xiaoshan Grntwn Qianjiang Century City,Ch	A	0				 US$07022004	A		HK	
+1327	Wuxi Lake Vista Villa Model Houses TypeC1&D2,China	A	0				 US$07022004	A		HK	
+1328	Jinan Guihe Crowne Plaza Hotel 9-14 level PHI Chin	A	0				 US$07022004	A		HK	
+1330	Xinjiang Wyndham Le Grand Large HotelVillaC, China	A	0				 US$07022004	A		HK	
+1331	PHI Renov. Luoyang Dongshan Hotel,Hanan,China#5VIP	A	0				 US$07022004	A		HK	
+200	?	H						H			
+215.1	MARINA SQUARE HOTEL & CASINO	H		MAKI				H			
+500	THE SOURCE GROUP	H		FABI	8/3/1994 0:00:00			H			
+800	JIM &  JOHNS PERSONAL PROJECTS	H		9999	7/19/1994 0:00:00			H			
+9007	HYATT REGENCY JOHOR BAHRU	H		HLRE				H			
+9106	HYATT REGENCY PRAGUE	H		MISC				H			
+9107	WORLD TRADE CENTER	H		WRLD				H			
+9108	MERIDIEN HOTEL, CAIRO	H		MERI				H			
+9108.3	MERIDIEN HOTEL, ROYAL SALON	H		SAUD				H			
+9109	CHATEAU DE BANGKOK/LUMPINI	H		RUAM				H			
+9123	GRAND HYATT HONG KONG	H		POLY	6/28/1994 0:00:00			H			
+9211	GRAND HYATT KUALA LUMPUR	H		KUAL				H			
+9211.1	DUTA GRAND HOTELS/ADD. SERVICE	H		DGH				H			
+9218	HYATT REGENCY, JERUSALEM	H		9999	8/10/1994 0:00:00			H			
+9223	PEAK CAFE	H		PEAK				H			
+9224	GREEN BAY RESORT, TAIWAN	H		WIDE				H			
+9225	GRAND HYATT KAOHSIUNG	H		FAVO				H			
+9228.1	GRAND HYATT TAIPEI/IL LEONE	H		HLPM				H			
+9228.2	GRAND HYATT TAIPEI, CLUB MART	H		EDTA				H			
+9228.4	GRAND HYATT TAIPEI/OTHER AREAS	H		HLHD				H			
+9228.5	GRAND HYATT TAIPEI/ADDT'L AREA	H		HLAA				H			
+9229	HYATT REGENCY DEAD SEA	H		ETAB				H			
+9304	GRAND HYATT MELBOURNE	H		LUST				H			
+9305	GRAND HYATT FUKUOKA	H		FJUR				H			
+9309	GUOMAN HOTEL, KUALA LUMPUR	H		HLPR				H			
+9310	PARK HYATT ZURICH	H		SUTE	8/10/1994 0:00:00			H			
+9405	MAX MOAR APT	H		LUST	6/28/1994 0:00:00			H			
+9406	GRAND HYATT SHANGHAI	H		SHAN				H			
+9407	MANDARIN ORIENTAL, MEXICO CITY	H		GRUP				H			
+9408	KAOHSIUNG RESTAURANT COMPLEX	H		FARE				H			
+9409	PARK  HYATT PARIS	H		9999	7/19/1994 0:00:00			H			
+9410	NAN-SHA HOTEL, ARCHITECTURAL	H		FOK				H			
+9411	NAN-SHA HOTEL I.D.	H		HENR	6/28/1994 0:00:00			H			
+9412	HYATT BAKU	H		BAKU				H			
+9413	SHA JIAO ISLAND	H		SHAJ	9/19/1994 0:00:00			H			
+9414	HAYMAN ISLAND RESORT	H		HAYM				H			
+9415	CAIRO HOTEL	H		CAIR				H			
+9415.5	CAIRO HOTEL / GALLERIA	H		CAIR				H			
+9415.7	CAIRO HOTEL / OPERATOR CHANGES	H		OPCH				H			
+9415.8	CAIRO HOTEL/GRAND ROYAL SUITE	H		GRS				H			
+9415.9	TEST FOR CONV	H		CAIR				H			
+9416	MANILA BAY	H		MANI	10/17/1994 0:00:00			H			
+9417	EL FARO, CARTEGENA	H		ELFA				H			
+9417.1	HYATT EL FARO DE CARTAGENA(ID)	H		ELFI				H			
+9417.2	EL FARO HYATT RESORT	H		ELFA				H			
+9417.3	HYATT EL FARO DE CART. AR / RE	H		ELFA				H			
+9417.4	HYATT EL FARO DE CART.(ID)(RE)	H		ELFA				H			
+9417.5	HYATT EL FARO ID/GOLF/HEALTH	H		ELFA				H			
+9418	NAN-SHA NEW CITY	H		NANC				H			
+9419	GH HONG KONG VARIOUS AREAS	H		GHHK				H			
+9420	PREHRAN, MELBOURNE	H		PREH				H			
+9421	LORD JIM'S RESTAURANT	H		LORD				H			
+9501	CATHEDRAL PLACE	H		CATH				H			
+9502	JOHN GANDELL APARTMENT	H		JOHN				H			
+9503	KWOK RESIDENCE	H		KWOK	8/14/1995 0:00:00			H			
+9504	GOLF CLUB HOUSE, NAN SHA	H		GCH	4/4/1996 0:00:00			H			
+9504.1	NAN SHA / GOLF SCHOOL	H		GCH				H			
+9505	Mandarin Oriental, Manila	H		MAND	4/20/1995 0:00:00			H			
+9506	CROWN HOTEL	H		HUDS				H			
+9507	?	H						H			
+9508	THE SALCEDO PARK	H		SP	8/14/1995 0:00:00			H			
+9510	Petroleum Building, Shanghai	H		PETR	7/20/1995 0:00:00			H			
+9511	EDWARD TAI HOUSE	H		ET	9/1/1995 0:00:00			H			
+9512	G H HONG KONG REGENCY CLUB ROO	H		REGE	7/20/1995 0:00:00			H			
+9513	JC MANDARIN	H		JC	8/14/1995 0:00:00			H			
+9514	GANDELL SHOPPING CENTER	H		GAMD	7/20/1995 0:00:00			H			
+9515	LAGOS DE ALTAMICA,CARTEGENA	H		LA	9/1/1995 0:00:00			H			
+9516	INTERNATIONAL GARDENS/NAN SHA	H		GARD				H			
+9517	H. REGENCY GIRARDOT,COLUMBIA	H		GIRA	9/29/1995 0:00:00			H			
+9518	ISHAM ARIFF OFFICE COMPLEX	H		ISHA	10/12/1995 0:00:00			H			
+9520	PARK HYATT BOGOTA	H		PHB	12/12/1995 0:00:00			H			
+9521	PARK HYATT MELBOURNE	H		MC	8/25/1995 0:00:00			H			
+9603	NAN SHA GOLF SCHOOL	H		NSGS	5/17/1996 0:00:00			H			
+9604	GRAND HYATT ERAWAN BANGKOK	H		GHEB	7/12/1996 0:00:00			H			
+9605	?	H						H			
+9607	MR. MAX MOAR APT. CATHEDRAL PL	H		MRMM				H			
+9608	LAS PALMAS	H		LP	8/7/1996 0:00:00			H			
+9609	NAN SHA / GOLF CLUB (ID	H		HFOK				H			
+9610	NAN SHA/ GOLF SCHOOL (ID)	H		GOLF				H			
+9611	NAN SHA/GOLF SCHOOL-VILLAS(ID)	H		VILL				H			
+9612	TERRAZA MARINA	H		MRNA				H			
+9613	EURPCARIBE RESORT	H		RESO				H			
+9614	AIGBURTH AND  TAVISTOCK	H		KERR	4/9/1997 0:00:00		 US$07022004	H			
+9615	HYATT REGENCY SOMA BAY	H		SOMA			 US$07022004	H			
+9616	BRITANNIA HOTEL	H		BH	12/12/1996 0:00:00		 US$07022004	H			
+9617	DAMANSARA CITY PROJECT	H		DCP	1/17/1997 0:00:00		 US$07022004	H			
+9618	MONG KOK PROJECT/H.K.	H		MKP	1/20/1997 0:00:00		 US$07022004	H			
+9701	JOE SHERRILL RESIDENCE	H		SHER	1/20/1997 0:00:00		 US$07022004	H			
+9702	ORCHARD HOTEL-SINGAPORE	H		OHS	1/20/1997 0:00:00		 US$07022004	H			
+9703	DAMANSARA HOTEL, KUALA LUMPUR	H		DAMA			 US$07022004	H			
+9705	RITZ-CARLTON HOTEL	H		RCH	4/1/1997 0:00:00		 US$07022004	H			
+9706	VEERASWAMY RESTAURANT	H		VR	3/4/1997 0:00:00		 US$07022004	H			
+9707	GRAND BAHAMA RESORT	H		GBR	3/19/1997 0:00:00		 US$07022004	H			
+9708	HYATT REGENCY PERTH	H		HRP	4/10/1997 0:00:00		 US$07022004	H			
+9709	LE ST. GERAN HOTEL, MAURITIUS	H		LEST			 US$07022004	H			
+9710	LE COCO BEACH, MAURITIUS	H		LECO			 US$07022004	H			
+9711	LE TOUESSROCK HOTEL, MAURITIUS	H		LETO			 US$07022004	H			
+9712	JIADA PLAZA HOTEL KUNMING	H		JIAD			 US$07022004	H			
+9714	9614ING ORIENTAL PLAZA, CHINA	H		BEJI			 US$07022004	H			
+9715	THE RENAISSANCE HOTEL	H		TRH			 US$07022004	H			
+9716	HYATT REGENCY CALCUTTA	H		DELI			 US$07022004	H			
+9716.1	?	H					 US$07022004	H			
+9717	HYATT REGENCY BOMBAY, INDIA	H		BOMB			 US$07022004	H			
+9717.1	?	H					 US$07022004	H			
+9718	KIA PENG PENTHOUSE	H		KIA			 US$07022004	H			
+9719	HONG KONG STATION RESTAURANT	H		HKSR	9/5/1997 0:00:00		 US$07022004	H			
+9720	SUN HONG KAI ITALIAN	H		SHKI	9/8/1997 0:00:00		 US$07022004	H			
+9721	SUN  HUNG KAI ITALIAN REST.	H		HUNG	9/29/1997 0:00:00		 US$07022004	H			
+9722	RITZ CARLTON SHANGHAI	H		RCS	9/12/1997 0:00:00		 US$07022004	H			
+9723	MARCO POLO SHANGHAI, CHINA	H		MPS			 US$07022004	H			
+9724	HWANG GANG LAKE GOLF CLUBHOUSE	H		HGLG			 US$07022004	H			
+9725	BELLE BAY SHANGHRI-LA, PHILIPP	H		BBS			 US$07022004	H			
+9726	HYATT REGENCY HSINCHU, TAIWAN	H		HRHT	11/25/1997 0:00:00		 US$07022004	H			
+9727	PARK HYATT ROATAN,HONDURAS	H		PHRH			 US$07022004	H			
+9728	HYATT REGENCY, PANAMA	H		HRPA	11/25/1997 0:00:00		 US$07022004	H			
+9729	TAGAYTAY RESORT & SPA,PHILIPPI	H		TRSP			 US$07022004	H			
+9730	?	H					 US$07022004	H			
+9731	KCRC HOTEL	H		KCRC	3/17/1998 0:00:00		 US$07022004	H			
+9801	HYATT CHONGQING	H		HC	7/22/1998 0:00:00		 US$07022004	H			
+9802	CHEUNG KONG CENTRE	H		CKC			 US$07022004	H			
+9803	MAKATI SHANGRI-LA HOTEL	H		MAKI			 US$07022004	H			
+9804	CITIC PACIFIC OFFICE REFUR	H		CITI			 US$07022004	H			
+9805	101 CLEMATIS	H		CLEM			 US$07022004	H			
+9806	ONE NORTH CLEMATIS STREET	H		FLCC			 US$07022004	H			
+9807	SHERATON STOCKHOLM	H		STOC			 US$07022004	H			
+9808	SAFARI RESORT	H		SR	6/16/1998 0:00:00		 US$07022004	H			
+9809	ACROPOLIS MALL	H		AM	7/21/1998 0:00:00		 US$07022004	H			
+9810	PARK HYATT, MENDOZA, ARGENTINA	H		PHMA	7/16/1998 0:00:00		 US$07022004	H			
+9811	HYATT REGENCY, NEW DELHI,INDIA	H		HRND	9/9/1998 0:00:00		 US$07022004	H			
+9811.1	HR  DELHI, INDIAN RESTAURAN	H		HRND			 US$07022004	H			
+9811.2	HR DELHI/TYPICAL GUEST ROOM	H		HRND			 US$07022004	H			
+9811.3	HR DELI/BOARDROOM & CREW LOUNG	H		HRND			 US$07022004	H			
+9812	GRAND HOTEL EXCELSIOR,MALTA	H		GHEM	7/23/1998 0:00:00		 US$07022004	H			
+9813	G.V.K. REDDY RESIDENCE	H		GVKR	11/25/1998 0:00:00		 US$07022004	H			
+9815	HYATT REGENCY COCONUT POINT	H		HRCP	12/2/1998 0:00:00		 US$07022004	H			
+9816	LAKE WORTH BEACH ENHANCEMENT	H		LWBE	10/14/1998 0:00:00		 US$07022004	H			
+9817	CARLYLE HOTEL	H		CH	12/2/1998 0:00:00		 US$07022004	H			
+9822	LE PALAIS SHOW HOUSE	H		LEP			 US$07022004	H			
+9823	PRESIDENTS COUNTRY CLUB	H		PCC	3/5/1999 0:00:00		 US$07022004	H			
+9824	MANDARIN HOTEL, SINGAPORE	H		MHS	2/2/1999 0:00:00		 US$07022004	H			
+9901	BROOK HOUSE APARTMENT	H		BHA			 US$07022004	H			
+9902	HYATT REGENCY PANAMA	H		PHC			 US$07022004	H			
+9903	MOSCOW HOTEL	H		YONA			 US$07022004	H			
+9904	PRINCE OF WALES/VICEROY-H.K.	H		PFWV	4/7/1999 0:00:00		 US$07022004	H			
+9905	HYATT REGENCY SANTIAGO	H		HRS	6/18/1999 0:00:00		 US$07022004	H			
+9906	PARK HYATT BUENOS AIRES, ARGEN	H		PHBA	5/26/1999 0:00:00		 US$07022004	H			
+9907	STRANDVAGEN	H		HULT			 US$07022004	H			
+9908	HONTA HOTEL	H		HH	8/20/1999 0:00:00		 US$07022004	H			
+9909	Great Eagle Hotel Ball/Meeting	H		GEHB			 US$07022004	H			
+9910	Great Eagle Hote Roma Suites	H		GEHB			 US$07022004	H			
+9911	Radisson Resort Parkway	H		RRP			 US$07022004	H			
+9912	Hurricane Beach Water Park	H		HBWP	8/13/1999 0:00:00		 US$07022004	H			
+9913	Great Eagle Hotel/Health Club	H		MKP	4/21/2000 0:00:00		 US$07022004	H			
+9914	Great Eagle Bostonian Rest.	H		GEHB			 US$07022004	H			
+9915	Sheraton Stockholm/Ballroom	H		STOC			 US$07022004	H			
+9916	Hyatt Regency Delhi Club Loung	H		HRB			 US$07022004	H			
+9918	Hyatt Regency Delhi Suites	H		HRB			 US$07022004	H			
+9919	Gupta Residence, Delhi India	H		HRB	2/11/2000 0:00:00		 US$07022004	H			
+9920	Park Lane Hotel, Hong Kong	H		PLHK			 US$07022004	H			
